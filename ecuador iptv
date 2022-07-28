@@ -1,4 +1,4 @@
-#EXTINF:-1 channel id="RTS.Red.Telesistema.(RTS)..ec" tvg-chno="4" tvg-country="EC" tvg-language="Español" tvg-logo=" https://imagenes.gatotv.com/ logos/canales/oscuros/rts-mediano.png" group-title="ECUADOR",RTS Red Telesistema (RTS)
+#EXTINF:-1 canal id="RTS.Red.Telesistema.(RTS)..ec" tvg-chno="4" tvg-country="EC" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png?20130202222713"group-title="ECUADOR",RTS Red Telesistema (RTS)
 https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
 #EXTINF:-1 channel id="Ecuavisa.ec"tvg-chno="2"tvg-country="EC" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png" group-title="ECUADOR ",Ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
