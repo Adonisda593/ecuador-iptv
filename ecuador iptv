@@ -16,6 +16,5 @@ https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1channel id="OROMAR HD"tvg-chno="26" tvg-country="EC" tvg-language="Español"tvg-logo="https://upload.wikimedia.org/wikipedia/commons /2/21/Oromar_logo.png" group-title="ECUADOR",OROMAR (720p)
 https://live-ak.vimeocdn.com/exp=1658970598~acl=%2F04757cd8-90cb-40a7-988e-0abf7a8add42%2F%2A~hmac=8af97d6fa9495b49ee56812831b842c6a35bd2bf8199477eaa8dd29b4e72518d/04757cd8-90cb-40a7-988e-0abf7a8add42/chunklist_b728000.m3u8 ?max_segmentos=10
-#EXTINF:-1channel id="EcuadorTV.ec"tvg-chno="7" tvg-country="EC" tvg-language="Español"
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR",Ecuador TV
+#EXTINF:-1channel id="EcuadorTV.ec"tvg-chno="7" tvg-country="EC" tvg-language="Español"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR",Ecuador TV
 https://playback2.akamaized.net/streams/27228685_9764041_lsifuzvx1vsjgzqtqmq_1/exp=1659064882~acl=%2f*~data=hdntl~hmac=802c31935d305caad8790b9427758ce1993540852d5d53e643d22583a3b2b16e/media/27228685_9764041_lsifuzvx1vsjgzqtqmq_1@2128000p.m3u8?dw=14400&ts=1658977200
