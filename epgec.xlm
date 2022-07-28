@@ -1,0 +1,1994 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="none" generator-info-url="none">
+<channel id="RTS.Red.Telesistema.(RTS)..ec">
+ <display-name lang="en">RTS Red Telesistema (RTS)</display-name>
+ <icon src="https://imagenes.gatotv.com/ logos/canales/oscuros/rts-mediano.png"/>
+<url>http://www.tvguide.com</url>
+ </channel>
+<channel id="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <display-name lang="en">Teleamazonas (Quito) (TAMAZ)</display-name>
+     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/800px-Teleamazonas_Logo.png"/>
+<url>http://www.tvguide.com</url>
+ </channel>
+<channel id="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <display-name lang="en">Ecuavisa (Nacional-centro norte) (ECUAVI)</display-name>
+	 <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png"/>
+    <url>http://www.tvguide.com</url>
+</channel> 
+ <channel id="TC.Televisión.(TCTV)..ec">
+    <display-name lang="en">TC Televisión (TCTV)</display-name>
+	 <icon src="https://imagenes.gatotv.com/logos /canales/oscuros/tc_television-mediano.png"/>
+  <url>http://www.tvguide.com</url>
+</channel> 
+ <programme channel="TC.Televisión.(TCTV)..ec"start="20220726000000 +0000" stop="20220726020000 +0000" >
+    <title lang="en">El noticiero III</title>
+    <desc lang="en">Compilado informativo que contiene los detalles más impactantes de la realidad actual.</desc>
+    <date>2015</date>
+</programme>
+ <programme start="20220726020000 +0000" stop="20220726030000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Luz de luna</title>
+    <desc lang="en">Una modelo y un detective son la pareja perfecta para combatir el crimen---espían a esposos infieles, encuentran personas desaparecidas, detienen asesinos, ayudan a los enamorados y salvan al mundo. Estrenada el 3 de marzo de 1985 en ABC.</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+ </programme>
+<programme start="20220726030000 +0000" stop="20220726040000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Amor de familia</title>
+    <desc lang="en">Filiz se vio obligada a cuidar a sus cinco hermanos menores desde que su madre los dejó. Su padre, Fikri, es un hombre alcóholico que causa diferentes problemas a la familia de vez en cuando. A pesar de que están luchando por sobrevivir en un barrio muy pobre de Estambul, los seis hermanos intentan mantenerse felices. Filiz cree que no hay lugar para el amor en su vida hasta que conoce a Bariş, un joven que hace cualquier cosa por ella y su familia.</desc>
+    <date>2017</date>
+  </programme>
+  <programme start="20220726040000 +0000" stop="20220726050000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Alerta Roja</title>
+    <desc lang="en">Dramatizaciones basadas en relatos policiales.</desc>
+  </programme>
+  <programme start="20220726050000 +0000" stop="20220726070000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Largometraje</title>
+    <desc lang="en">Película.</desc>
+  </programme>
+  <programme start="20220726070000 +0000" stop="20220726073000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Casi cuarentonas</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220726073000 +0000" stop="20220726090000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De boca en boca</title>
+  </programme>
+  <programme start="20220726090000 +0000" stop="20220726100000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">EDUCA</title>
+    <desc lang="en">Difunde contenidos que contribuyen al aprendizaje de niños y jóvenes de una manera divertida.</desc>
+  </programme>
+  <programme start="20220726100000 +0000" stop="20220726101500 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">José de los Santos</title>
+    <date>2014</date>
+  </programme>
+  <programme start="20220726101500 +0000" stop="20220726104000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Caso Cerrado: Edición Estelar</title>
+    <desc lang="en">Los hechos más contradictorios y las disputas más increíbles, en horario estelar. La Doctora Ana María Polo estrena su sala de debate con una serie de casos intensos, contradictorios, violentos, curiosos y hasta graciosos. Ella deberá conservar su calma para no salirse de las casillas con cada una de las personas que ingresan al estrado.</desc>
+  </programme>
+  <programme start="20220726104000 +0000" stop="20220726120000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">DespiérTC</title>
+    <desc lang="en">Programa informativo de la comunidad y para la comunidad.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220726120000 +0000" stop="20220726133000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero I</title>
+    <desc lang="en">Las informaciones que a nadie le interesan pero que todos comentan.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220726133000 +0000" stop="20220726150000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Entre ellas</title>
+    <desc lang="en">Con su carisma y su conexión con la comunidad, Gustavo Navarro ofrece su punto de vista.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220726150000 +0000" stop="20220726163000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De casa en casa</title>
+    <desc lang="en">Un intrépido grupo de animadores con marcadas y diferentes personalidades estarán a cargo de defender, guiar y divertir al ama de casa, abarcando importantes aspectos de la vida, pero de una manera muy peculiar.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220726163000 +0000" stop="20220726173000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Ruthless City</title>
+    <desc lang="en">Agah Karacay es un exitoso hombre de negocios que tiene una vida rica. Vive en una gran mansión junto a su bella y ambiciosa esposa Seniz, su irresponsable hijo Cenk, su despreocupada hija Damla y su sobrino discapacitado Nedim.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220726173000 +0000" stop="20220726190000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero II</title>
+    <desc lang="en">Acompaña a María José Flores en esta segunda emisión en la que trae para ti los acontecimientos más impactantes que causan revuelo a nivel nacional e internacional, en el ámbito político, económico, social, cultural y deportivo.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220726190000 +0000" stop="20220726200000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Rendón y La Bombón</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220726200000 +0000" stop="20220726210000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">La suerte de Loli</title>
+    <desc lang="en">La vida de Loli dará un giro inesperado al recibir una herencia que no cree poder manejar.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220726210000 +0000" stop="20220726223000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De boca en boca</title>
+  </programme>
+  <programme start="20220726223000 +0000" stop="20220727000000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Soy el mejor</title>
+    <desc lang="en">Cuadrillas compiten en concursos de baile, canto y actuación, además de la prueba de la verdad.</desc>
+  </programme>
+  <programme start="20220727000000 +0000" stop="20220727020000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero III</title>
+    <desc lang="en">Compilado informativo que contiene los detalles más impactantes de la realidad actual.</desc>
+    <date>2015</date>
+  </programme>
+  <programme start="20220727020000 +0000" stop="20220727030000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Luz de luna</title>
+    <desc lang="en">Una modelo y un detective son la pareja perfecta para combatir el crimen---espían a esposos infieles, encuentran personas desaparecidas, detienen asesinos, ayudan a los enamorados y salvan al mundo. Estrenada el 3 de marzo de 1985 en ABC.</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220727030000 +0000" stop="20220727040000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Amor de familia</title>
+    <desc lang="en">Filiz se vio obligada a cuidar a sus cinco hermanos menores desde que su madre los dejó. Su padre, Fikri, es un hombre alcóholico que causa diferentes problemas a la familia de vez en cuando. A pesar de que están luchando por sobrevivir en un barrio muy pobre de Estambul, los seis hermanos intentan mantenerse felices. Filiz cree que no hay lugar para el amor en su vida hasta que conoce a Bariş, un joven que hace cualquier cosa por ella y su familia.</desc>
+    <date>2017</date>
+  </programme>
+  <programme start="20220727040000 +0000" stop="20220727050000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Alerta Roja</title>
+    <desc lang="en">Dramatizaciones basadas en relatos policiales.</desc>
+  </programme>
+  <programme start="20220727050000 +0000" stop="20220727060000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">F de fútbol</title>
+    <desc lang="en">Invitados especiales y debate es lo que verás todas las noches en F de Fútbol con Rómulo Barcos, Óscar Portilla, Germán Gallardo, Damián Lanza y Joselo Sánchez. Los líderes en opinión futbolística siempre tienen algo que decir.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220727060000 +0000" stop="20220727070000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Historias de la Virgen Morena</title>
+    <desc lang="en">Serie dramática basada en hechos reales, donde los personajes atraviesan una gran dificultad y acuden a Nuestra Señora de Guadalupe, conocida afectuosamente en México como "La Virgen Morena", para una resolución milagrosa a sus problemas.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220727070000 +0000" stop="20220727073000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Casi cuarentonas</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220727073000 +0000" stop="20220727090000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De boca en boca</title>
+  </programme>
+  <programme start="20220727090000 +0000" stop="20220727100000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">EDUCA</title>
+    <desc lang="en">Difunde contenidos que contribuyen al aprendizaje de niños y jóvenes de una manera divertida.</desc>
+  </programme>
+  <programme start="20220727100000 +0000" stop="20220727101500 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">José de los Santos</title>
+    <date>2014</date>
+  </programme>
+  <programme start="20220727101500 +0000" stop="20220727104000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Caso Cerrado: Edición Estelar</title>
+    <desc lang="en">Los hechos más contradictorios y las disputas más increíbles, en horario estelar. La Doctora Ana María Polo estrena su sala de debate con una serie de casos intensos, contradictorios, violentos, curiosos y hasta graciosos. Ella deberá conservar su calma para no salirse de las casillas con cada una de las personas que ingresan al estrado.</desc>
+  </programme>
+  <programme start="20220727104000 +0000" stop="20220727120000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">DespiérTC</title>
+    <desc lang="en">Programa informativo de la comunidad y para la comunidad.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220727120000 +0000" stop="20220727133000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero I</title>
+    <desc lang="en">Las informaciones que a nadie le interesan pero que todos comentan.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220727133000 +0000" stop="20220727150000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Entre ellas</title>
+    <desc lang="en">Con su carisma y su conexión con la comunidad, Gustavo Navarro ofrece su punto de vista.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220727150000 +0000" stop="20220727163000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De casa en casa</title>
+    <desc lang="en">Un intrépido grupo de animadores con marcadas y diferentes personalidades estarán a cargo de defender, guiar y divertir al ama de casa, abarcando importantes aspectos de la vida, pero de una manera muy peculiar.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220727163000 +0000" stop="20220727173000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Ruthless City</title>
+    <desc lang="en">Agah Karacay es un exitoso hombre de negocios que tiene una vida rica. Vive en una gran mansión junto a su bella y ambiciosa esposa Seniz, su irresponsable hijo Cenk, su despreocupada hija Damla y su sobrino discapacitado Nedim.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220727173000 +0000" stop="20220727190000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero II</title>
+    <desc lang="en">Acompaña a María José Flores en esta segunda emisión en la que trae para ti los acontecimientos más impactantes que causan revuelo a nivel nacional e internacional, en el ámbito político, económico, social, cultural y deportivo.</desc>
+    <date>2014</date>
+  </programme>
+ <programme start="20220727190000 +0000" stop="20220727200000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Rendón y La Bombón</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220727200000 +0000" stop="20220727210000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">La suerte de Loli</title>
+    <desc lang="en">La vida de Loli dará un giro inesperado al recibir una herencia que no cree poder manejar.</desc>
+    <date>2021</date>
+  </programme>
+ <programme start="20220727210000 +0000" stop="20220727223000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De boca en boca</title>
+  </programme>
+<programme start="20220727223000 +0000" stop="20220728000000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Soy el mejor</title>
+    <desc lang="en">Cuadrillas compiten en concursos de baile, canto y actuación, además de la prueba de la verdad.</desc>
+  </programme>
+  <programme start="20220728000000 +0000" stop="20220728020000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero III</title>
+    <desc lang="en">Compilado informativo que contiene los detalles más impactantes de la realidad actual.</desc>
+    <date>2015</date>
+  </programme>
+  <programme start="20220728020000 +0000" stop="20220728030000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Luz de luna</title>
+    <desc lang="en">Una modelo y un detective son la pareja perfecta para combatir el crimen---espían a esposos infieles, encuentran personas desaparecidas, detienen asesinos, ayudan a los enamorados y salvan al mundo. Estrenada el 3 de marzo de 1985 en ABC.</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220728030000 +0000" stop="20220728033000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">TC Televisión</title>
+  </programme>
+  <programme start="20220728033000 +0000" stop="20220728040000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">TC Televisión</title>
+  </programme>
+  <programme start="20220728040000 +0000" stop="20220728050000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Alerta Roja</title>
+    <desc lang="en">Dramatizaciones basadas en relatos policiales.</desc>
+ </programme>
+  <programme start="20220728050000 +0000" stop="20220728060000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">F de fútbol</title>
+    <desc lang="en">Invitados especiales y debate es lo que verás todas las noches en F de Fútbol con Rómulo Barcos, Óscar Portilla, Germán Gallardo, Damián Lanza y Joselo Sánchez. Los líderes en opinión futbolística siempre tienen algo que decir.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220728060000 +0000" stop="20220728070000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Historias de la Virgen Morena</title>
+    <desc lang="en">Serie dramática basada en hechos reales, donde los personajes atraviesan una gran dificultad y acuden a Nuestra Señora de Guadalupe, conocida afectuosamente en México como "La Virgen Morena", para una resolución milagrosa a sus problemas.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220728070000 +0000" stop="20220728073000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Casi cuarentonas</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220728073000 +0000" stop="20220728090000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De boca en boca</title>
+  </programme>
+  <programme start="20220728090000 +0000" stop="20220728100000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">EDUCA</title>
+    <desc lang="en">Difunde contenidos que contribuyen al aprendizaje de niños y jóvenes de una manera divertida.</desc>
+  </programme>
+  <programme start="20220728100000 +0000" stop="20220728101500 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">José de los Santos</title>
+    <date>2014</date>
+  </programme>
+  <programme start="20220728101500 +0000" stop="20220728104000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Caso Cerrado: Edición Estelar</title>
+    <desc lang="en">Los hechos más contradictorios y las disputas más increíbles, en horario estelar. La Doctora Ana María Polo estrena su sala de debate con una serie de casos intensos, contradictorios, violentos, curiosos y hasta graciosos. Ella deberá conservar su calma para no salirse de las casillas con cada una de las personas que ingresan al estrado.</desc>
+  </programme>
+  <programme start="20220728104000 +0000" stop="20220728120000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">DespiérTC</title>
+    <desc lang="en">Programa informativo de la comunidad y para la comunidad.</desc>
+    <date>2011</date>
+ </programme>
+  <programme start="20220728120000 +0000" stop="20220728133000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero I</title>
+    <desc lang="en">Las informaciones que a nadie le interesan pero que todos comentan.</desc>
+    <date>2009</date>
+  
+</programme>
+  
+<programme start="20220728133000 +0000" stop="20220728150000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Entre ellas</title>
+    <desc lang="en">Con su carisma y su conexión con la comunidad, Gustavo Navarro ofrece su punto de vista.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220728150000 +0000" stop="20220728163000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De casa en casa</title>
+    <desc lang="en">Un intrépido grupo de animadores con marcadas y diferentes personalidades estarán a cargo de defender, guiar y divertir al ama de casa, abarcando importantes aspectos de la vida, pero de una manera muy peculiar.</desc>
+    <date>2009</date>
+ </programme>
+<programme start="20220728163000 +0000" stop="20220728173000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Ruthless City</title>
+    <desc lang="en">Agah Karacay es un exitoso hombre de negocios que tiene una vida rica. Vive en una gran mansión junto a su bella y ambiciosa esposa Seniz, su irresponsable hijo Cenk, su despreocupada hija Damla y su sobrino discapacitado Nedim.</desc>
+    <date>2019</date>
+ </programme>
+ <programme start="20220728173000 +0000" stop="20220728190000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero II</title>
+    <desc lang="en">Acompaña a María José Flores en esta segunda emisión en la que trae para ti los acontecimientos más impactantes que causan revuelo a nivel nacional e internacional, en el ámbito político, económico, social, cultural y deportivo.</desc>
+    <date>2014</date>
+  </programme>
+<programme start="20220728190000 +0000" stop="20220728200000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Rendón y La Bombón</title>
+    <date>2021</date>
+</programme>
+<programme start="20220728200000 +0000" stop="20220728210000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">La suerte de Loli</title>
+    <desc lang="en">La vida de Loli dará un giro inesperado al recibir una herencia que no cree poder manejar.</desc>
+    <date>2021</date>
+ </programme>
+ <programme start="20220728210000 +0000" stop="20220728223000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De boca en boca</title>
+  </programme>
+<programme start="20220728223000 +0000" stop="20220729000000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Soy el mejor</title>
+    <desc lang="en">Cuadrillas compiten en concursos de baile, canto y actuación, además de la prueba de la verdad.</desc>
+  </programme>
+  <programme start="20220729000000 +0000" stop="20220729020000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero III</title>
+    <desc lang="en">Compilado informativo que contiene los detalles más impactantes de la realidad actual.</desc>
+    <date>2015</date>
+  </programme>
+  <programme start="20220729020000 +0000" stop="20220729030000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Luz de luna</title>
+    <desc lang="en">Una modelo y un detective son la pareja perfecta para combatir el crimen---espían a esposos infieles, encuentran personas desaparecidas, detienen asesinos, ayudan a los enamorados y salvan al mundo. Estrenada el 3 de marzo de 1985 en ABC.</desc>
+    <date>2021</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220729030000 +0000" stop="20220729033000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">TC Televisión</title>
+  </programme>
+  <programme start="20220729033000 +0000" stop="20220729040000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">TC Televisión</title>
+  </programme>
+  <programme start="20220729040000 +0000" stop="20220729050000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Alerta Roja</title>
+    <desc lang="en">Dramatizaciones basadas en relatos policiales.</desc>
+  
+</programme>
+  
+<programme start="20220729050000 +0000" stop="20220729060000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">F de fútbol</title>
+    <desc lang="en">Invitados especiales y debate es lo que verás todas las noches en F de Fútbol con Rómulo Barcos, Óscar Portilla, Germán Gallardo, Damián Lanza y Joselo Sánchez. Los líderes en opinión futbolística siempre tienen algo que decir.</desc>
+    <date>2020</date>
+  
+</programme>
+  
+<programme start="20220729060000 +0000" stop="20220729070000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Historias de la Virgen Morena</title>
+    <desc lang="en">Serie dramática basada en hechos reales, donde los personajes atraviesan una gran dificultad y acuden a Nuestra Señora de Guadalupe, conocida afectuosamente en México como "La Virgen Morena", para una resolución milagrosa a sus problemas.</desc>
+    <date>2012</date>
+  
+</programme>
+  <programme start="20220729070000 +0000" stop="20220729073000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Casi cuarentonas</title>
+    <date>2021</date>
+  </programme>
+  <programme start="20220729073000 +0000" stop="20220729090000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De boca en boca</title>
+  
+</programme>
+  
+<programme start="20220729090000 +0000" stop="20220729100000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">EDUCA</title>
+    <desc lang="en">Difunde contenidos que contribuyen al aprendizaje de niños y jóvenes de una manera divertida.</desc>
+  </programme>
+  <programme start="20220729100000 +0000" stop="20220729101500 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">José de los Santos</title>
+    <date>2014</date>
+  
+</programme>
+ 
+ <programme start="20220729101500 +0000" stop="20220729104000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Caso Cerrado: Edición Estelar</title>
+    <desc lang="en">Los hechos más contradictorios y las disputas más increíbles, en horario estelar. La Doctora Ana María Polo estrena su sala de debate con una serie de casos intensos, contradictorios, violentos, curiosos y hasta graciosos. Ella deberá conservar su calma para no salirse de las casillas con cada una de las personas que ingresan al estrado.</desc>
+ 
+ </programme>
+
+  <programme start="20220729104000 +0000" stop="20220729120000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">DespiérTC</title>
+    <desc lang="en">Programa informativo de la comunidad y para la comunidad.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220729120000 +0000" stop="20220729133000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero I</title>
+    <desc lang="en">Las informaciones que a nadie le interesan pero que todos comentan.</desc>
+    <date>2009</date>
+
+  </programme>
+
+  <programme start="20220729133000 +0000" stop="20220729150000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Entre ellas</title>
+    <desc lang="en">Con su carisma y su conexión con la comunidad, Gustavo Navarro ofrece su punto de vista.</desc>
+    <date>2021</date>
+  
+</programme>
+ 
+ <programme start="20220729150000 +0000" stop="20220729163000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De casa en casa</title>
+    <desc lang="en">Un intrépido grupo de animadores con marcadas y diferentes personalidades estarán a cargo de defender, guiar y divertir al ama de casa, abarcando importantes aspectos de la vida, pero de una manera muy peculiar.</desc>
+    <date>2009</date>
+ 
+ </programme>
+
+  <programme start="20220729163000 +0000" stop="20220729173000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Ruthless City</title>
+    <desc lang="en">Agah Karacay es un exitoso hombre de negocios que tiene una vida rica. Vive en una gran mansión junto a su bella y ambiciosa esposa Seniz, su irresponsable hijo Cenk, su despreocupada hija Damla y su sobrino discapacitado Nedim.</desc>
+    <date>2019</date>
+ 
+ </programme>
+  
+<programme start="20220729173000 +0000" stop="20220729190000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">El noticiero II</title>
+    <desc lang="en">Acompaña a María José Flores en esta segunda emisión en la que trae para ti los acontecimientos más impactantes que causan revuelo a nivel nacional e internacional, en el ámbito político, económico, social, cultural y deportivo.</desc>
+    <date>2014</date>
+ 
+ </programme>
+ 
+ <programme start="20220729190000 +0000" stop="20220729200000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Rendón y La Bombón</title>
+    <date>2021</date>
+  
+</programme>
+  
+<programme start="20220729200000 +0000" stop="20220729210000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">La suerte de Loli</title>
+    <desc lang="en">La vida de Loli dará un giro inesperado al recibir una herencia que no cree poder manejar.</desc>
+    <date>2021</date>
+
+  </programme>
+ 
+ <programme start="20220729210000 +0000" stop="20220729223000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">De boca en boca</title>
+  </programme>
+ 
+ <programme start="20220729223000 +0000" stop="20220730000000 +0000" channel="TC.Televisión.(TCTV)..ec">
+    <title lang="en">Soy el mejor</title>
+    <desc lang="en">Cuadrillas compiten en concursos de baile, canto y actuación, además de la prueba de la verdad.</desc>
+ 
+ </programme>
+  <programme start="20220726000000 +0000" stop="20220726010000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo estelar</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  
+</programme>
+ 
+ <programme start="20220726010000 +0000" stop="20220726020000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Mujer engañada</title>
+    <date>2022</date>
+
+  </programme>
+ 
+ <programme start="20220726020000 +0000" stop="20220726030000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">El fenix</title>
+    <desc lang="en">Una nueva producción coreana,.</desc>
+  </programme>
+  <programme start="20220726030000 +0000" stop="20220726040000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220726040000 +0000" stop="20220726050000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Tres familias</title>
+    <desc lang="en">Tres familias de diferentes clases sociales se enfrentan un mismo tema viéndose las actitudes, comportamientos y el léxico que caracteriza a cada grupo.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220726050000 +0000" stop="20220726063000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Así pasa</title>
+    <desc lang="en">Eduardo trabaja en una funeraria lidiando con singulares compañeros, además de manejar los conflictos presentados en el hogar.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220726063000 +0000" stop="20220726073000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">El Combo Amarillo</title>
+    <desc lang="en">Comedia de situaciones que gira alrededor de los choferes de la cooperativa Combo Amarillo.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220726073000 +0000" stop="20220726090000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220726090000 +0000" stop="20220726100000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo estelar</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220726100000 +0000" stop="20220726105500 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Telenovela</title>
+    <desc lang="en">En esta serie vemos una comedia donde se muestra el detrás de cámara de una telenovela. La protagonista es Ana María, una estrella de las más queridas de América Latina. Ella realiza enormes esfuerzos para mantenerse en la cumbre de ese mundo. A veces el drama que transcurre detrás de escena supera con creces el que se ve en la pantalla.</desc>
+    <date>2018</date>
+  </programme>
+  <programme start="20220726105500 +0000" stop="20220726115500 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220726115500 +0000" stop="20220726123000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Contacto directo en Televistazo</title>
+    <desc lang="en">En cada transmisión, un invitado dará su opinión sobre los temas más relevantes.</desc>
+    <date>2008</date>
+  </programme>
+  <programme start="20220726123000 +0000" stop="20220726140000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220726140000 +0000" stop="20220726153000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Mirada de Mujer</title>
+    <desc lang="en">Una mujer abandonada por su marido conoce a un periodista más joven que le dará el lugar que merece en la vida.</desc>
+    <date>1997</date>
+  </programme>
+  <programme start="20220726153000 +0000" stop="20220726180000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">En Contacto</title>
+    <desc lang="en">El Ministro Charles Stanley conduce un espacio encargado de entregar mensajes positivos a la audiencia general basados en la palabra de Cristo e impartiendo charlas que contienen principios bíblicos.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220726180000 +0000" stop="20220726190000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo II</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220726190000 +0000" stop="20220726203000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Dame Chocolate</title>
+    <desc lang="en">Una joven poco agraciada hereda la fortuna de su abuelo, una dinastía chocolatera.</desc>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220726203000 +0000" stop="20220726220000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Gata Salvaje</title>
+    <desc lang="en">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con...</desc>
+    <date>2002</date>
+  </programme>
+  <programme start="20220726220000 +0000" stop="20220726230000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Pasión de Gavilanes</title>
+    <desc lang="en">Es un drama intenso lleno de intriga, romance y venganza con asombrosos resultados.</desc>
+    <date>2003</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220726230000 +0000" stop="20220727000000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Punto límite</title>
+    <date>2018</date>
+  </programme>
+  <programme start="20220727000000 +0000" stop="20220727010000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo estelar</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220727010000 +0000" stop="20220727020000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Mujer engañada</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220727020000 +0000" stop="20220727030000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">El fenix</title>
+    <desc lang="en">Una nueva producción coreana,.</desc>
+  </programme>
+  <programme start="20220727030000 +0000" stop="20220727040000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220727040000 +0000" stop="20220727050000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Tres familias</title>
+    <desc lang="en">Tres familias de diferentes clases sociales se enfrentan un mismo tema viéndose las actitudes, comportamientos y el léxico que caracteriza a cada grupo.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220727050000 +0000" stop="20220727063000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Así pasa</title>
+    <desc lang="en">Eduardo trabaja en una funeraria lidiando con singulares compañeros, además de manejar los conflictos presentados en el hogar.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220727063000 +0000" stop="20220727073000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">El Combo Amarillo</title>
+    <desc lang="en">Comedia de situaciones que gira alrededor de los choferes de la cooperativa Combo Amarillo.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220727073000 +0000" stop="20220727090000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220727090000 +0000" stop="20220727100000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo estelar</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220727100000 +0000" stop="20220727105500 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Telenovela</title>
+    <desc lang="en">En esta serie vemos una comedia donde se muestra el detrás de cámara de una telenovela. La protagonista es Ana María, una estrella de las más queridas de América Latina. Ella realiza enormes esfuerzos para mantenerse en la cumbre de ese mundo. A veces el drama que transcurre detrás de escena supera con creces el que se ve en la pantalla.</desc>
+    <date>2018</date>
+  </programme>
+  <programme start="20220727105500 +0000" stop="20220727115500 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220727115500 +0000" stop="20220727123000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Contacto directo en Televistazo</title>
+    <desc lang="en">En cada transmisión, un invitado dará su opinión sobre los temas más relevantes.</desc>
+    <date>2008</date>
+  </programme>
+  <programme start="20220727123000 +0000" stop="20220727140000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220727140000 +0000" stop="20220727153000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Mirada de Mujer</title>
+    <desc lang="en">Una mujer abandonada por su marido conoce a un periodista más joven que le dará el lugar que merece en la vida.</desc>
+    <date>1997</date>
+  </programme>
+  <programme start="20220727153000 +0000" stop="20220727180000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">En Contacto</title>
+    <desc lang="en">El Ministro Charles Stanley conduce un espacio encargado de entregar mensajes positivos a la audiencia general basados en la palabra de Cristo e impartiendo charlas que contienen principios bíblicos.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220727180000 +0000" stop="20220727190000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo II</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220727190000 +0000" stop="20220727203000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Dame Chocolate</title>
+    <desc lang="en">Una joven poco agraciada hereda la fortuna de su abuelo, una dinastía chocolatera.</desc>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220727203000 +0000" stop="20220727220000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Gata Salvaje</title>
+    <desc lang="en">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con...</desc>
+    <date>2002</date>
+  </programme>
+  <programme start="20220727220000 +0000" stop="20220727230000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Pasión de Gavilanes</title>
+    <desc lang="en">Es un drama intenso lleno de intriga, romance y venganza con asombrosos resultados.</desc>
+    <date>2003</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220727230000 +0000" stop="20220728000000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Punto límite</title>
+    <date>2018</date>
+  </programme>
+  <programme start="20220728000000 +0000" stop="20220728010000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo estelar</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220728010000 +0000" stop="20220728020000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Mujer engañada</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220728020000 +0000" stop="20220728030000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">El fenix</title>
+    <desc lang="en">Una nueva producción coreana,.</desc>
+  </programme>
+  <programme start="20220728030000 +0000" stop="20220728040000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220728040000 +0000" stop="20220728050000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Tres familias</title>
+    <desc lang="en">Tres familias de diferentes clases sociales se enfrentan un mismo tema viéndose las actitudes, comportamientos y el léxico que caracteriza a cada grupo.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220728050000 +0000" stop="20220728063000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Así pasa</title>
+    <desc lang="en">Eduardo trabaja en una funeraria lidiando con singulares compañeros, además de manejar los conflictos presentados en el hogar.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220728063000 +0000" stop="20220728073000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">El Combo Amarillo</title>
+    <desc lang="en">Comedia de situaciones que gira alrededor de los choferes de la cooperativa Combo Amarillo.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220728073000 +0000" stop="20220728090000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220728090000 +0000" stop="20220728100000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo estelar</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220728100000 +0000" stop="20220728105500 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Telenovela</title>
+    <desc lang="en">En esta serie vemos una comedia donde se muestra el detrás de cámara de una telenovela. La protagonista es Ana María, una estrella de las más queridas de América Latina. Ella realiza enormes esfuerzos para mantenerse en la cumbre de ese mundo. A veces el drama que transcurre detrás de escena supera con creces el que se ve en la pantalla.</desc>
+    <date>2018</date>
+  </programme>
+  <programme start="20220728105500 +0000" stop="20220728115500 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220728115500 +0000" stop="20220728123000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Contacto directo en Televistazo</title>
+    <desc lang="en">En cada transmisión, un invitado dará su opinión sobre los temas más relevantes.</desc>
+    <date>2008</date>
+  </programme>
+  <programme start="20220728123000 +0000" stop="20220728140000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220728140000 +0000" stop="20220728153000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Mirada de Mujer</title>
+    <desc lang="en">Una mujer abandonada por su marido conoce a un periodista más joven que le dará el lugar que merece en la vida.</desc>
+    <date>1997</date>
+  </programme>
+  <programme start="20220728153000 +0000" stop="20220728180000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">En Contacto</title>
+    <desc lang="en">El Ministro Charles Stanley conduce un espacio encargado de entregar mensajes positivos a la audiencia general basados en la palabra de Cristo e impartiendo charlas que contienen principios bíblicos.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220728180000 +0000" stop="20220728190000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo II</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220728190000 +0000" stop="20220728203000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Dame Chocolate</title>
+    <desc lang="en">Una joven poco agraciada hereda la fortuna de su abuelo, una dinastía chocolatera.</desc>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220728203000 +0000" stop="20220728220000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Gata Salvaje</title>
+    <desc lang="en">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con...</desc>
+    <date>2002</date>
+  </programme>
+  <programme start="20220728220000 +0000" stop="20220728230000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Pasión de Gavilanes</title>
+    <desc lang="en">Es un drama intenso lleno de intriga, romance y venganza con asombrosos resultados.</desc>
+    <date>2003</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220728230000 +0000" stop="20220729000000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Punto límite</title>
+    <date>2018</date>
+  </programme>
+  <programme start="20220729000000 +0000" stop="20220729010000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo estelar</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220729010000 +0000" stop="20220729020000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Mujer engañada</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220729020000 +0000" stop="20220729030000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">El fenix</title>
+    <desc lang="en">Una nueva producción coreana,.</desc>
+  </programme>
+  <programme start="20220729030000 +0000" stop="20220729040000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220729040000 +0000" stop="20220729050000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Tres familias</title>
+    <desc lang="en">Tres familias de diferentes clases sociales se enfrentan un mismo tema viéndose las actitudes, comportamientos y el léxico que caracteriza a cada grupo.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220729050000 +0000" stop="20220729063000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Así pasa</title>
+    <desc lang="en">Eduardo trabaja en una funeraria lidiando con singulares compañeros, además de manejar los conflictos presentados en el hogar.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220729063000 +0000" stop="20220729073000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">El Combo Amarillo</title>
+    <desc lang="en">Comedia de situaciones que gira alrededor de los choferes de la cooperativa Combo Amarillo.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220729073000 +0000" stop="20220729090000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220729090000 +0000" stop="20220729100000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo estelar</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220729100000 +0000" stop="20220729105500 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Telenovela</title>
+    <desc lang="en">En esta serie vemos una comedia donde se muestra el detrás de cámara de una telenovela. La protagonista es Ana María, una estrella de las más queridas de América Latina. Ella realiza enormes esfuerzos para mantenerse en la cumbre de ese mundo. A veces el drama que transcurre detrás de escena supera con creces el que se ve en la pantalla.</desc>
+    <date>2018</date>
+  </programme>
+  <programme start="20220729105500 +0000" stop="20220729115500 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220729115500 +0000" stop="20220729123000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Contacto directo en Televistazo</title>
+    <desc lang="en">En cada transmisión, un invitado dará su opinión sobre los temas más relevantes.</desc>
+    <date>2008</date>
+  </programme>
+  <programme start="20220729123000 +0000" stop="20220729140000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo en la comunidad</title>
+    <desc lang="en">Las noticias más notables de carácter social, presentadas desde dos estudios. Desde Guayaquil, Andrés Jungbluth y Mónica Rojas; desde Quito, María Isabel Carmigniani y Denisse Molina. Además, brindan consejos de salud, emprendimiento, seguridad...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220729140000 +0000" stop="20220729153000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Mirada de Mujer</title>
+    <desc lang="en">Una mujer abandonada por su marido conoce a un periodista más joven que le dará el lugar que merece en la vida.</desc>
+    <date>1997</date>
+  </programme>
+  <programme start="20220729153000 +0000" stop="20220729180000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">En Contacto</title>
+    <desc lang="en">El Ministro Charles Stanley conduce un espacio encargado de entregar mensajes positivos a la audiencia general basados en la palabra de Cristo e impartiendo charlas que contienen principios bíblicos.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220729180000 +0000" stop="20220729190000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Televistazo II</title>
+    <desc lang="en">Noticias, deportes y tiempo.</desc>
+  </programme>
+  <programme start="20220729190000 +0000" stop="20220729203000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Dame Chocolate</title>
+    <desc lang="en">Una joven poco agraciada hereda la fortuna de su abuelo, una dinastía chocolatera.</desc>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220729203000 +0000" stop="20220729220000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Gata Salvaje</title>
+    <desc lang="en">Una jovencita que tendrá que luchar por recuperar la felicidad, por mantenerse íntegra en medio del odio y la ambición. Deberá superar la maldad e hipocresía de la familia Arismendi. Es reconocida como una mujer que se enfrenta a la vida con...</desc>
+    <date>2002</date>
+  </programme>
+  <programme start="20220729220000 +0000" stop="20220729230000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Pasión de Gavilanes</title>
+    <desc lang="en">Es un drama intenso lleno de intriga, romance y venganza con asombrosos resultados.</desc>
+    <date>2003</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220729230000 +0000" stop="20220730000000 +0000" channel="Ecuavisa.(Nacional-centro.norte).(ECUAVI)..ec">
+    <title lang="en">Punto límite</title>
+    <date>2018</date>
+ 
+ </programme>
+<programme start="20220726000000 +0000" stop="20220726010000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Escorpión</title>
+    <desc lang="en">Walter O'Brien es un genio excéntrico que está empeñado en detener todas las amenazas del mundo moderno, así que recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220726010000 +0000" stop="20220726020000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220726020000 +0000" stop="20220726030000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">El regreso de Oyá</title>
+    <desc lang="en">Cuando eran adolescentes, Arzu, Merve y Pelin le jugaron una cruel broma a Oya.</desc>
+  </programme>
+  <programme start="20220726030000 +0000" stop="20220726040000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Almas Heridas</title>
+    <desc lang="en">La vida de Han, quien renunció a sus sueños por cuidar a su familia, cambia tras conocer a Inci.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220726040000 +0000" stop="20220726043000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">El after</title>
+    <desc lang="en">Programa con corte humorístico que contará noticias de actualidad relatadas bajo otro enfoque.</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220726043000 +0000" stop="20220726051500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Juntos por Siempre</title>
+  </programme>
+  <programme start="20220726051500 +0000" stop="20220726061500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Aída</title>
+    <desc lang="en">Una tosca y vivaracha exalcohólica regresa a su barrio de infancia tras una separación y trata de rehacer su vida en esta exitosa comedia española.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220726061500 +0000" stop="20220726070000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220726070000 +0000" stop="20220726073000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Entrevistas en 24 horas</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220726073000 +0000" stop="20220726084500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 2da emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220726084500 +0000" stop="20220726091500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">To Be Announced</title>
+    <desc lang="en">To be announced.</desc>
+    <date>2020</date>
+    <category lang="en">Variety Shows</category>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220726091500 +0000" stop="20220726100000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220726100000 +0000" stop="20220726105500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Pedro el Escamoso</title>
+    <desc lang="en">Un hombre cursi y coqueto de pueblo chico llega a la gran ciudad para realizar sus sueños y toma un empleo como chofer en donde traba una linda amistad y comparte confianzas con su chica ideal que no puede corresponderle su afecto por estar enamorada de otro.</desc>
+    <date>2001</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220726105500 +0000" stop="20220726120000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 1ra emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220726120000 +0000" stop="20220726123000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas nacional</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio,.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220726123000 +0000" stop="20220726130000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Entrevistas en 24 horas</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220726130000 +0000" stop="20220726143000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 2da emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220726143000 +0000" stop="20220726150000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Soy yo</title>
+    <desc lang="en">Proyecto creado para demostrar que el cambio extremo es simplemente la aceptación de uno mismo.</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220726150000 +0000" stop="20220726160000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Rosa Diamante</title>
+    <desc lang="en">Una joven decide aceptar una vida como herencia, dándole un giro inimaginable a su propio destino.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220726160000 +0000" stop="20220726170000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Los herederos del monte</title>
+    <desc lang="en">La vida de cinco hermanos cambia para siempre cuando se encuentran con una mujer linda y formidable quien enciende pasiones intensas, traiciones dramáticas, y el deseo de venganza entre ellos.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220726170000 +0000" stop="20220726180000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">New Amsterdam</title>
+    <desc lang="en">El Dr. Max Goodwin es brillante, encantador y el nuevo director médico del hospital público más antiguo de América. Si bien está dispuesto a derribar la burocracia para brindar atención excepcional.</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220726180000 +0000" stop="20220726185000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220726185000 +0000" stop="20220726192300 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Comunidad</title>
+    <desc lang="en">La comunidad habla. Entérate de lo que acontece en los sectores sociales, proyectos, problemas...</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220726192300 +0000" stop="20220726193500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">En corto</title>
+    <desc lang="en">Segmento donde se tratan notas de farándula, mezcladas con noticias de la política, pero con un acertado y respetuoso tono humorístico, a través de divertidas caricaturas sobre sucesos recientes nacionales e internacionales.</desc>
+    <date>2003</date>
+  </programme>
+  <programme start="20220726193500 +0000" stop="20220726200000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Deporte total</title>
+    <desc lang="en">Alberto Astudillo presenta un panorama informativo que relata lo más actual e impactante dentro del mundo deportivo a escala nacional e internacional. Entérate de lo que sucede en cada campo.</desc>
+    <date>2006</date>
+  </programme>
+  <programme start="20220726200000 +0000" stop="20220726200500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Tour de France</title>
+    <desc lang="en">Viví la 109na edición del Tour de Francia,.</desc>
+  </programme>
+  <programme start="20220726200500 +0000" stop="20220726203000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Bob Esponja</title>
+    <desc lang="en">Bob, una esponja cuadrada y amarilla que junto a su mejor amigo Patricio tienen muchas aventuras en el Fondo de Bikini, la ciudad en la que viven, en el fondo del mar. Bob Esponja vive en una piña, con su mascota caracol Gary, adora su trabajo como cocinero en el restaurante el Crustáceo Cascarudo y posee la gran habilidad de meterse en todo tipo de problemas sin quererlo, Cuando no está poniéndole los nervios de punta a su vecino malhumorado, Calamardo.</desc>
+    <date>2000</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220726203000 +0000" stop="20220726210000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">¡Oye, Arnold!</title>
+    <desc lang="en">Con nueve años, Arnold es soñador, idealista y trata de ver siempre el lado positivo de la vida. Junto a sus amigos, le encanta disfrutar de divertidas aventuras por las calles de la ciudad, donde cada día descubre algo nuevo para hacer y sorprenderse.</desc>
+    <date>1996</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220726210000 +0000" stop="20220726220000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Doraemon</title>
+    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
+    <date>1979</date>
+  </programme>
+  <programme start="20220726220000 +0000" stop="20220726223000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Futurama</title>
+    <desc lang="en">Un hombre congelado en 1999, que años después toma vida nuevamente.</desc>
+    <date>1999</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220726223000 +0000" stop="20220726230000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Los Simpson</title>
+    <desc lang="en">Los Simpson son una peculiar familia norteamericana de clase media. Homer, el padre, trabaja en la central nuclear de la ciudad, y es desordenado y gruñón, mientras que Marge, la madre, es sensata, comprensiva y algo ingenua. En cuanto a los hijos, se trata de tres 'adorables' criaturas cuya principal afición es protestar por todo: Bart, Lisa y Maggie.</desc>
+    <date>1989</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220726230000 +0000" stop="20220727000000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Ella era bonita</title>
+    <desc lang="en">Una chica popular proveniente de una familia rica pasa por dificultades luego de que el negocio familiar se fuera a la quiebra, y termina perdiendo hasta su belleza.</desc>
+    <date>2015</date>
+  </programme>
+  <programme start="20220727000000 +0000" stop="20220727010000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Escorpión</title>
+    <desc lang="en">Walter O'Brien es un genio excéntrico que está empeñado en detener todas las amenazas del mundo moderno, así que recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220727010000 +0000" stop="20220727020000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220727020000 +0000" stop="20220727030000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">El regreso de Oyá</title>
+    <desc lang="en">Cuando eran adolescentes, Arzu, Merve y Pelin le jugaron una cruel broma a Oya.</desc>
+  </programme>
+  <programme start="20220727030000 +0000" stop="20220727040000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Almas Heridas</title>
+    <desc lang="en">La vida de Han, quien renunció a sus sueños por cuidar a su familia, cambia tras conocer a Inci.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220727040000 +0000" stop="20220727043000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">El after</title>
+    <desc lang="en">Programa con corte humorístico que contará noticias de actualidad relatadas bajo otro enfoque.</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220727043000 +0000" stop="20220727051500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">C.S.I. Miami</title>
+    <desc lang="en">Una serie derivada del éxito 'CSI: Crime Scene Investigation centrada en un equipo forense en el sur de la Florida, bajo el liderazgo de Horatio Caine, que investiga casos parecidos a los del equipo homólogo en Las Vegas, pero en medio de muchas tensiones étnicas y culturales.</desc>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220727051500 +0000" stop="20220727061500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Aída</title>
+    <desc lang="en">Una tosca y vivaracha exalcohólica regresa a su barrio de infancia tras una separación y trata de rehacer su vida en esta exitosa comedia española.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220727061500 +0000" stop="20220727070000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">C.S.I. Miami</title>
+    <desc lang="en">Una serie derivada del éxito 'CSI: Crime Scene Investigation centrada en un equipo forense en el sur de la Florida, bajo el liderazgo de Horatio Caine, que investiga casos parecidos a los del equipo homólogo en Las Vegas, pero en medio de muchas tensiones étnicas y culturales.</desc>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220727070000 +0000" stop="20220727074500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220727074500 +0000" stop="20220727084500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 1ra emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220727084500 +0000" stop="20220727100000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 2da emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220727100000 +0000" stop="20220727105500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Pedro el Escamoso</title>
+    <desc lang="en">Un hombre cursi y coqueto de pueblo chico llega a la gran ciudad para realizar sus sueños y toma un empleo como chofer en donde traba una linda amistad y comparte confianzas con su chica ideal que no puede corresponderle su afecto por estar enamorada de otro.</desc>
+    <date>2001</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220727105500 +0000" stop="20220727120000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 1ra emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220727120000 +0000" stop="20220727123000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas nacional</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio,.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220727123000 +0000" stop="20220727130000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Entrevistas en 24 horas</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220727130000 +0000" stop="20220727143000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 2da emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220727143000 +0000" stop="20220727150000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Soy yo</title>
+    <desc lang="en">Proyecto creado para demostrar que el cambio extremo es simplemente la aceptación de uno mismo.</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220727150000 +0000" stop="20220727160000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Rosa Diamante</title>
+    <desc lang="en">Una joven decide aceptar una vida como herencia, dándole un giro inimaginable a su propio destino.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220727160000 +0000" stop="20220727170000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Los herederos del monte</title>
+    <desc lang="en">La vida de cinco hermanos cambia para siempre cuando se encuentran con una mujer linda y formidable quien enciende pasiones intensas, traiciones dramáticas, y el deseo de venganza entre ellos.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220727170000 +0000" stop="20220727180000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">New Amsterdam</title>
+    <desc lang="en">El Dr. Max Goodwin es brillante, encantador y el nuevo director médico del hospital público más antiguo de América. Si bien está dispuesto a derribar la burocracia para brindar atención excepcional.</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220727180000 +0000" stop="20220727185000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220727185000 +0000" stop="20220727192300 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Comunidad</title>
+    <desc lang="en">La comunidad habla. Entérate de lo que acontece en los sectores sociales, proyectos, problemas...</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220727192300 +0000" stop="20220727193500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">En corto</title>
+    <desc lang="en">Segmento donde se tratan notas de farándula, mezcladas con noticias de la política, pero con un acertado y respetuoso tono humorístico, a través de divertidas caricaturas sobre sucesos recientes nacionales e internacionales.</desc>
+    <date>2003</date>
+  </programme>
+  <programme start="20220727193500 +0000" stop="20220727200000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Deporte total</title>
+    <desc lang="en">Alberto Astudillo presenta un panorama informativo que relata lo más actual e impactante dentro del mundo deportivo a escala nacional e internacional. Entérate de lo que sucede en cada campo.</desc>
+    <date>2006</date>
+  </programme>
+  <programme start="20220727200000 +0000" stop="20220727202000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Tour de France</title>
+    <desc lang="en">Viví la 109na edición del Tour de Francia,.</desc>
+  </programme>
+  <programme start="20220727202000 +0000" stop="20220727204500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Bob Esponja</title>
+    <desc lang="en">Bob, una esponja cuadrada y amarilla que junto a su mejor amigo Patricio tienen muchas aventuras en el Fondo de Bikini, la ciudad en la que viven, en el fondo del mar. Bob Esponja vive en una piña, con su mascota caracol Gary, adora su trabajo como cocinero en el restaurante el Crustáceo Cascarudo y posee la gran habilidad de meterse en todo tipo de problemas sin quererlo, Cuando no está poniéndole los nervios de punta a su vecino malhumorado, Calamardo.</desc>
+    <date>2000</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220727204500 +0000" stop="20220727211500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">¡Oye, Arnold!</title>
+    <desc lang="en">Con nueve años, Arnold es soñador, idealista y trata de ver siempre el lado positivo de la vida. Junto a sus amigos, le encanta disfrutar de divertidas aventuras por las calles de la ciudad, donde cada día descubre algo nuevo para hacer y sorprenderse.</desc>
+    <date>1996</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220727211500 +0000" stop="20220727213000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Doraemon</title>
+    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
+    <date>1979</date>
+  </programme>
+  <programme start="20220727213000 +0000" stop="20220727220000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Supercampeones</title>
+    <desc lang="en">Un muchacho, con todas las condiciones, quiere ser la próxima estrella de fútbol.</desc>
+    <date>1983</date>
+  </programme>
+  <programme start="20220727220000 +0000" stop="20220727223000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Futurama</title>
+    <desc lang="en">Un hombre congelado en 1999, que años después toma vida nuevamente.</desc>
+    <date>1999</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220727223000 +0000" stop="20220727230000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Los Simpson</title>
+    <desc lang="en">Los Simpson son una peculiar familia norteamericana de clase media. Homer, el padre, trabaja en la central nuclear de la ciudad, y es desordenado y gruñón, mientras que Marge, la madre, es sensata, comprensiva y algo ingenua. En cuanto a los hijos, se trata de tres 'adorables' criaturas cuya principal afición es protestar por todo: Bart, Lisa y Maggie.</desc>
+    <date>1989</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220727230000 +0000" stop="20220728000000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Ella era bonita</title>
+    <desc lang="en">Una chica popular proveniente de una familia rica pasa por dificultades luego de que el negocio familiar se fuera a la quiebra, y termina perdiendo hasta su belleza.</desc>
+    <date>2015</date>
+  </programme>
+  <programme start="20220728000000 +0000" stop="20220728010000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Escorpión</title>
+    <desc lang="en">Walter O'Brien es un genio excéntrico que está empeñado en detener todas las amenazas del mundo moderno, así que recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220728010000 +0000" stop="20220728020000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220728020000 +0000" stop="20220728030000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">El regreso de Oyá</title>
+    <desc lang="en">Cuando eran adolescentes, Arzu, Merve y Pelin le jugaron una cruel broma a Oya.</desc>
+  </programme>
+  <programme start="20220728030000 +0000" stop="20220728040000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Almas Heridas</title>
+    <desc lang="en">La vida de Han, quien renunció a sus sueños por cuidar a su familia, cambia tras conocer a Inci.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220728040000 +0000" stop="20220728043000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">El after</title>
+    <desc lang="en">Programa con corte humorístico que contará noticias de actualidad relatadas bajo otro enfoque.</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220728043000 +0000" stop="20220728051500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Juntos por Siempre</title>
+  </programme>
+  <programme start="20220728051500 +0000" stop="20220728061500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Aída</title>
+    <desc lang="en">Una tosca y vivaracha exalcohólica regresa a su barrio de infancia tras una separación y trata de rehacer su vida en esta exitosa comedia española.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220728061500 +0000" stop="20220728070000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">C.S.I. Las Vegas</title>
+    <desc lang="en">Criminólogos de Las Vegas utilizan métodos científicos para esclarecer asesinatos brutales en esta serie dramática, que inspiró la creación de otras teleseries policiales. El siempre metódico Gil Grissom encabeza el equipo, con ayuda de Catherine Willows.</desc>
+    <date>2005</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220728070000 +0000" stop="20220728074500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220728074500 +0000" stop="20220728084500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 1ra emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220728084500 +0000" stop="20220728100000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 2da emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220728100000 +0000" stop="20220728105500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Pedro el Escamoso</title>
+    <desc lang="en">Un hombre cursi y coqueto de pueblo chico llega a la gran ciudad para realizar sus sueños y toma un empleo como chofer en donde traba una linda amistad y comparte confianzas con su chica ideal que no puede corresponderle su afecto por estar enamorada de otro.</desc>
+    <date>2001</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220728105500 +0000" stop="20220728120000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 1ra emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220728120000 +0000" stop="20220728123000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas nacional</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio,.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220728123000 +0000" stop="20220728130000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Entrevistas en 24 horas</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220728130000 +0000" stop="20220728143000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 2da emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220728143000 +0000" stop="20220728150000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Soy yo</title>
+    <desc lang="en">Proyecto creado para demostrar que el cambio extremo es simplemente la aceptación de uno mismo.</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220728150000 +0000" stop="20220728160000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Rosa Diamante</title>
+    <desc lang="en">Una joven decide aceptar una vida como herencia, dándole un giro inimaginable a su propio destino.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220728160000 +0000" stop="20220728170000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Los herederos del monte</title>
+    <desc lang="en">La vida de cinco hermanos cambia para siempre cuando se encuentran con una mujer linda y formidable quien enciende pasiones intensas, traiciones dramáticas, y el deseo de venganza entre ellos.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220728170000 +0000" stop="20220728180000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">New Amsterdam</title>
+    <desc lang="en">El Dr. Max Goodwin es brillante, encantador y el nuevo director médico del hospital público más antiguo de América. Si bien está dispuesto a derribar la burocracia para brindar atención excepcional.</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220728180000 +0000" stop="20220728185000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220728185000 +0000" stop="20220728192300 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Comunidad</title>
+    <desc lang="en">La comunidad habla. Entérate de lo que acontece en los sectores sociales, proyectos, problemas...</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220728192300 +0000" stop="20220728193500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">En corto</title>
+    <desc lang="en">Segmento donde se tratan notas de farándula, mezcladas con noticias de la política, pero con un acertado y respetuoso tono humorístico, a través de divertidas caricaturas sobre sucesos recientes nacionales e internacionales.</desc>
+    <date>2003</date>
+  </programme>
+  <programme start="20220728193500 +0000" stop="20220728200000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Deporte total</title>
+    <desc lang="en">Alberto Astudillo presenta un panorama informativo que relata lo más actual e impactante dentro del mundo deportivo a escala nacional e internacional. Entérate de lo que sucede en cada campo.</desc>
+    <date>2006</date>
+  </programme>
+  <programme start="20220728200000 +0000" stop="20220728202000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Tour de France</title>
+    <desc lang="en">Viví la 109na edición del Tour de Francia,.</desc>
+  </programme>
+  <programme start="20220728202000 +0000" stop="20220728204500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Bob Esponja</title>
+    <desc lang="en">Bob, una esponja cuadrada y amarilla que junto a su mejor amigo Patricio tienen muchas aventuras en el Fondo de Bikini, la ciudad en la que viven, en el fondo del mar. Bob Esponja vive en una piña, con su mascota caracol Gary, adora su trabajo como cocinero en el restaurante el Crustáceo Cascarudo y posee la gran habilidad de meterse en todo tipo de problemas sin quererlo, Cuando no está poniéndole los nervios de punta a su vecino malhumorado, Calamardo.</desc>
+    <date>2000</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220728204500 +0000" stop="20220728211500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">¡Oye, Arnold!</title>
+    <desc lang="en">Con nueve años, Arnold es soñador, idealista y trata de ver siempre el lado positivo de la vida. Junto a sus amigos, le encanta disfrutar de divertidas aventuras por las calles de la ciudad, donde cada día descubre algo nuevo para hacer y sorprenderse.</desc>
+    <date>1996</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220728211500 +0000" stop="20220728213000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Doraemon</title>
+    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
+    <date>1979</date>
+  </programme>
+  <programme start="20220728213000 +0000" stop="20220728220000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Supercampeones</title>
+    <desc lang="en">Un muchacho, con todas las condiciones, quiere ser la próxima estrella de fútbol.</desc>
+    <date>1983</date>
+  </programme>
+  <programme start="20220728220000 +0000" stop="20220728223000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Futurama</title>
+    <desc lang="en">Un hombre congelado en 1999, que años después toma vida nuevamente.</desc>
+    <date>1999</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220728223000 +0000" stop="20220728230000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Los Simpson</title>
+    <desc lang="en">Los Simpson son una peculiar familia norteamericana de clase media. Homer, el padre, trabaja en la central nuclear de la ciudad, y es desordenado y gruñón, mientras que Marge, la madre, es sensata, comprensiva y algo ingenua. En cuanto a los hijos, se trata de tres 'adorables' criaturas cuya principal afición es protestar por todo: Bart, Lisa y Maggie.</desc>
+    <date>1989</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220728230000 +0000" stop="20220729000000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Ella era bonita</title>
+    <desc lang="en">Una chica popular proveniente de una familia rica pasa por dificultades luego de que el negocio familiar se fuera a la quiebra, y termina perdiendo hasta su belleza.</desc>
+    <date>2015</date>
+  </programme>
+  <programme start="20220729000000 +0000" stop="20220729010000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Escorpión</title>
+    <desc lang="en">Walter O'Brien es un genio excéntrico que está empeñado en detener todas las amenazas del mundo moderno, así que recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito...</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220729010000 +0000" stop="20220729020000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220729020000 +0000" stop="20220729030000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">El regreso de Oyá</title>
+    <desc lang="en">Cuando eran adolescentes, Arzu, Merve y Pelin le jugaron una cruel broma a Oya.</desc>
+  </programme>
+  <programme start="20220729030000 +0000" stop="20220729040000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Almas Heridas</title>
+    <desc lang="en">La vida de Han, quien renunció a sus sueños por cuidar a su familia, cambia tras conocer a Inci.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220729040000 +0000" stop="20220729043000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">El after</title>
+    <desc lang="en">Programa con corte humorístico que contará noticias de actualidad relatadas bajo otro enfoque.</desc>
+    <date>2022</date>
+  </programme>
+  <programme start="20220729043000 +0000" stop="20220729051500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Juntos por Siempre</title>
+  </programme>
+  <programme start="20220729051500 +0000" stop="20220729061500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Aída</title>
+    <desc lang="en">Una tosca y vivaracha exalcohólica regresa a su barrio de infancia tras una separación y trata de rehacer su vida en esta exitosa comedia española.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220729061500 +0000" stop="20220729070000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">C.S.I. Miami</title>
+    <desc lang="en">Una serie derivada del éxito 'CSI: Crime Scene Investigation centrada en un equipo forense en el sur de la Florida, bajo el liderazgo de Horatio Caine, que investiga casos parecidos a los del equipo homólogo en Las Vegas, pero en medio de muchas tensiones étnicas y culturales.</desc>
+    <date>2007</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220729070000 +0000" stop="20220729074500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220729074500 +0000" stop="20220729084500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 1ra emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220729084500 +0000" stop="20220729100000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 2da emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220729100000 +0000" stop="20220729105500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Pedro el Escamoso</title>
+    <desc lang="en">Un hombre cursi y coqueto de pueblo chico llega a la gran ciudad para realizar sus sueños y toma un empleo como chofer en donde traba una linda amistad y comparte confianzas con su chica ideal que no puede corresponderle su afecto por estar enamorada de otro.</desc>
+    <date>2001</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220729105500 +0000" stop="20220729120000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 1ra emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220729120000 +0000" stop="20220729123000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas nacional</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio,.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220729123000 +0000" stop="20220729130000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Entrevistas en 24 horas</title>
+    <date>2022</date>
+  </programme>
+  <programme start="20220729130000 +0000" stop="20220729143000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 Horas 2da emisión</title>
+    <desc lang="en">Noticias e informaciones de actualidad.</desc>
+  </programme>
+  <programme start="20220729143000 +0000" stop="20220729150000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Soy yo</title>
+    <desc lang="en">Proyecto creado para demostrar que el cambio extremo es simplemente la aceptación de uno mismo.</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220729150000 +0000" stop="20220729160000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Rosa Diamante</title>
+    <desc lang="en">Una joven decide aceptar una vida como herencia, dándole un giro inimaginable a su propio destino.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220729160000 +0000" stop="20220729170000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Los herederos del monte</title>
+    <desc lang="en">La vida de cinco hermanos cambia para siempre cuando se encuentran con una mujer linda y formidable quien enciende pasiones intensas, traiciones dramáticas, y el deseo de venganza entre ellos.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220729170000 +0000" stop="20220729180000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">New Amsterdam</title>
+    <desc lang="en">El Dr. Max Goodwin es brillante, encantador y el nuevo director médico del hospital público más antiguo de América. Si bien está dispuesto a derribar la burocracia para brindar atención excepcional.</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220729180000 +0000" stop="20220729185000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">24 horas</title>
+    <desc lang="en">Mantente al tanto de los sucesos más importantes de actualidad a través de este espacio, pues traemos información objetiva y veraz que cubre el acontecer nacional e internacional.</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220729185000 +0000" stop="20220729192300 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Comunidad</title>
+    <desc lang="en">La comunidad habla. Entérate de lo que acontece en los sectores sociales, proyectos, problemas...</desc>
+    <date>2009</date>
+  </programme>
+  <programme start="20220729192300 +0000" stop="20220729193500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">En corto</title>
+    <desc lang="en">Segmento donde se tratan notas de farándula, mezcladas con noticias de la política, pero con un acertado y respetuoso tono humorístico, a través de divertidas caricaturas sobre sucesos recientes nacionales e internacionales.</desc>
+    <date>2003</date>
+  </programme>
+  <programme start="20220729193500 +0000" stop="20220729200000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Deporte total</title>
+    <desc lang="en">Alberto Astudillo presenta un panorama informativo que relata lo más actual e impactante dentro del mundo deportivo a escala nacional e internacional. Entérate de lo que sucede en cada campo.</desc>
+    <date>2006</date>
+  </programme>
+  <programme start="20220729200000 +0000" stop="20220729202000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Tour de France</title>
+    <desc lang="en">Viví la 109na edición del Tour de Francia,.</desc>
+  </programme>
+  <programme start="20220729202000 +0000" stop="20220729204500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Bob Esponja</title>
+    <desc lang="en">Bob, una esponja cuadrada y amarilla que junto a su mejor amigo Patricio tienen muchas aventuras en el Fondo de Bikini, la ciudad en la que viven, en el fondo del mar. Bob Esponja vive en una piña, con su mascota caracol Gary, adora su trabajo como cocinero en el restaurante el Crustáceo Cascarudo y posee la gran habilidad de meterse en todo tipo de problemas sin quererlo, Cuando no está poniéndole los nervios de punta a su vecino malhumorado, Calamardo.</desc>
+    <date>2000</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220729204500 +0000" stop="20220729211500 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">¡Oye, Arnold!</title>
+    <desc lang="en">Con nueve años, Arnold es soñador, idealista y trata de ver siempre el lado positivo de la vida. Junto a sus amigos, le encanta disfrutar de divertidas aventuras por las calles de la ciudad, donde cada día descubre algo nuevo para hacer y sorprenderse.</desc>
+    <date>1996</date>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20220729211500 +0000" stop="20220729213000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Doraemon</title>
+    <desc lang="en">Es un robot felino travieso que viaja a través del tiempo y del espacio para cumplir con una noble misión: ayudar al chico Nobita a vivir mejor. Dueño de un traje mágico, hace realidad los sueños y fantasías de todos sus amigos.</desc>
+    <date>1979</date>
+  </programme>
+  <programme start="20220729213000 +0000" stop="20220729220000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Supercampeones</title>
+    <desc lang="en">Un muchacho, con todas las condiciones, quiere ser la próxima estrella de fútbol.</desc>
+    <date>1983</date>
+  </programme>
+  <programme start="20220729220000 +0000" stop="20220729223000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Futurama</title>
+    <desc lang="en">Un hombre congelado en 1999, que años después toma vida nuevamente.</desc>
+    <date>1999</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220729223000 +0000" stop="20220729230000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Los Simpson</title>
+    <desc lang="en">Los Simpson son una peculiar familia norteamericana de clase media. Homer, el padre, trabaja en la central nuclear de la ciudad, y es desordenado y gruñón, mientras que Marge, la madre, es sensata, comprensiva y algo ingenua. En cuanto a los hijos, se trata de tres 'adorables' criaturas cuya principal afición es protestar por todo: Bart, Lisa y Maggie.</desc>
+    <date>1989</date>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20220729230000 +0000" stop="20220730000000 +0000" channel="Teleamazonas.(Quito).(TAMAZ)..ec">
+    <title lang="en">Ella era bonita</title>
+    <desc lang="en">Una chica popular proveniente de una familia rica pasa por dificultades luego de que el negocio familiar se fuera a la quiebra, y termina perdiendo hasta su belleza.</desc>
+    <date>2015</date>
+  </programme>
+ <programme start="20220726000000 +0000" stop="20220726010000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220726010000 +0000" stop="20220726020000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Elif</title>
+    <desc lang="en">Elif es separada de su madre y enviada a vivir con una amiga de ella que es ama de llaves de la magnifica mansión en la que vive su padre y la familia de este, sin que su progenitor sepa de la relación de parentesco que les une.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220726020000 +0000" stop="20220726030000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Hercai</title>
+    <desc lang="en">La trama de Hercai sucede en Mardin, una provincia mágica. Reyyan es la nieta de Sadoglu, una de las familias más fuertes de Midyat, una ciudad de Mardin. Su abuelo Nasuh es el líder de la familia, aunque su padre y su tío también tienen mucha autoridad. Reyyan está enfrentada con su abuelo y su primaYaren porque siempre recibe mejor trato que ella injustamente.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220726030000 +0000" stop="20220726040000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220726040000 +0000" stop="20220726041500 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Copa</title>
+    <desc lang="en">Toda información deportiva que ustedes quieren saber.</desc>
+  </programme>
+  <programme start="20220726041500 +0000" stop="20220726051500 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Suleimán, el sultán</title>
+    <desc lang="en">Basada en la vida de Suleimán el Magnífico y su esposa, una esclava que se convirtió en Sultana; los conflictos amorosos y rivalidades entre los miembros del palacio imperial.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220726051500 +0000" stop="20220726060000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Los sobrevivientes de un holocausto apocalíptico deben escapar de los zombies que los persiguen. En la desesperada búsqueda de refugio, son amenazados constantemente por los muertos vivos, quienes son impiadosos en sus ataques. Por eso aquellos que no fueron infectados deben agruparse y organizarse para defenderse.</desc>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220726060000 +0000" stop="20220726090000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Novedades TV</title>
+    <desc lang="en">Información de productos natuales y de belleza.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220726090000 +0000" stop="20220726100000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">EDUCA: La hora educativa</title>
+    <desc lang="en">Programa creado por el Ministerio de Educación para aportar ayuda al proceso de aprendizaje en todas las áreas del conocimiento de Educación Inicial, Educación General Básica y Bachillerato.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220726100000 +0000" stop="20220726110000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220726110000 +0000" stop="20220726120000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">El despertar de la noticia</title>
+    <desc lang="en">Cuando usted sale de su casa sin informarse su visión queda incompleta. Póngase al día a primera hora con El despertar de la noticia.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220726120000 +0000" stop="20220726130000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220726130000 +0000" stop="20220726143000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia en la comunidad</title>
+    <desc lang="en">Espacio diferente, informal y coloquial donde podrás mantenerte al día de una manera amena, con las novedades, pedidos y necesidades de la ciudadanía.</desc>
+    <date>2010</date>
+  </programme>
+  <programme start="20220726143000 +0000" stop="20220726160000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Noticias de la mañana</title>
+    <desc lang="en">Todos los días el mejor equipo técnico y de redacción presenta un análisis informativo correspondiente a la actualidad nacional e internacional con seriedad e imparcialidad.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220726160000 +0000" stop="20220726170000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Mujer... Casos de la vida real</title>
+    <desc lang="en">Esta serie conmovedora, que en el comienzo fue titulada solamente Casos de la Vida Real, ahora tiene añadido el sustantivo Mujer y como su título lo indica, realiza dos dramatizaciones por episodio de dos casos reales que le han sucedido a mujeres comunes. Estos casos son elegidos a través de miles de cartas enviadas por las televidentes a la programadora mexicana Televisa, la cual produce esta serie.</desc>
+    <date>1985</date>
+  </programme>
+  <programme start="20220726170000 +0000" stop="20220726180000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Fuego ardiente</title>
+    <desc lang="en">Es una historia de amor y pasiones desbordadas, en la que se confirma que, cuando un amor es verdadero, es capaz de ir contra viento y marea, con tal de permanecer vivo.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220726180000 +0000" stop="20220726190000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220726190000 +0000" stop="20220726200000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Laura</title>
+    <desc lang="en">Se evidencian problemas sociales, familiares o conflictos entre amigos o parejas.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220726200000 +0000" stop="20220726210000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Huérfanas</title>
+    <desc lang="en">Tres jóvenes hermanas adineradas pierden a sus padres en un accidente que les cambia la vida.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220726210000 +0000" stop="20220726220000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220726220000 +0000" stop="20220726230000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Amar es primavera</title>
+    <desc lang="en">Öykü es una joven prometedora diseñadora de modas que desde niña ha estado enamorada de Mete.</desc>
+  </programme>
+  <programme start="20220726230000 +0000" stop="20220727000000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Las Mil y Una Noches</title>
+    <desc lang="en">Es un famosa recopilación de cuentos medievales del Medio Oriente, esta serie animada relata las historias del famoso libro antiguo Persa donde relatan cuentos folclóricos de Asia Occidental y Asia del Sur.</desc>
+    <date>2006</date>
+  </programme>
+  <programme start="20220727000000 +0000" stop="20220727010000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220727010000 +0000" stop="20220727020000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Elif</title>
+    <desc lang="en">Elif es separada de su madre y enviada a vivir con una amiga de ella que es ama de llaves de la magnifica mansión en la que vive su padre y la familia de este, sin que su progenitor sepa de la relación de parentesco que les une.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220727020000 +0000" stop="20220727030000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Hercai</title>
+    <desc lang="en">La trama de Hercai sucede en Mardin, una provincia mágica. Reyyan es la nieta de Sadoglu, una de las familias más fuertes de Midyat, una ciudad de Mardin. Su abuelo Nasuh es el líder de la familia, aunque su padre y su tío también tienen mucha autoridad. Reyyan está enfrentada con su abuelo y su primaYaren porque siempre recibe mejor trato que ella injustamente.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220727030000 +0000" stop="20220727040000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220727040000 +0000" stop="20220727041500 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Copa</title>
+    <desc lang="en">Toda información deportiva que ustedes quieren saber.</desc>
+  </programme>
+  <programme start="20220727041500 +0000" stop="20220727051500 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Suleimán, el sultán</title>
+    <desc lang="en">Basada en la vida de Suleimán el Magnífico y su esposa, una esclava que se convirtió en Sultana; los conflictos amorosos y rivalidades entre los miembros del palacio imperial.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220727051500 +0000" stop="20220727060000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Los sobrevivientes de un holocausto apocalíptico deben escapar de los zombies que los persiguen. En la desesperada búsqueda de refugio, son amenazados constantemente por los muertos vivos, quienes son impiadosos en sus ataques. Por eso aquellos que no fueron infectados deben agruparse y organizarse para defenderse.</desc>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220727060000 +0000" stop="20220727090000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Novedades TV</title>
+    <desc lang="en">Información de productos natuales y de belleza.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220727090000 +0000" stop="20220727100000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Educa televisión para aprender</title>
+    <desc lang="en">Experiencias educativas innovadoras con el aporte de todos los sectores sociales públicos, privados e internacionales que aportan a la equidad en el acceso al conocimiento para todos los televidentes de los medios de comunicación, independientemente de su lugar de residencia o condición social.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220727100000 +0000" stop="20220727110000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220727110000 +0000" stop="20220727120000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">El despertar de la noticia</title>
+    <desc lang="en">Cuando usted sale de su casa sin informarse su visión queda incompleta. Póngase al día a primera hora con El despertar de la noticia.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220727120000 +0000" stop="20220727130000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220727130000 +0000" stop="20220727143000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia en la comunidad</title>
+    <desc lang="en">Espacio diferente, informal y coloquial donde podrás mantenerte al día de una manera amena, con las novedades, pedidos y necesidades de la ciudadanía.</desc>
+    <date>2010</date>
+  </programme>
+  <programme start="20220727143000 +0000" stop="20220727160000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Noticias de la mañana</title>
+    <desc lang="en">Todos los días el mejor equipo técnico y de redacción presenta un análisis informativo correspondiente a la actualidad nacional e internacional con seriedad e imparcialidad.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220727160000 +0000" stop="20220727170000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Mujer... Casos de la vida real</title>
+    <desc lang="en">Esta serie conmovedora, que en el comienzo fue titulada solamente Casos de la Vida Real, ahora tiene añadido el sustantivo Mujer y como su título lo indica, realiza dos dramatizaciones por episodio de dos casos reales que le han sucedido a mujeres comunes. Estos casos son elegidos a través de miles de cartas enviadas por las televidentes a la programadora mexicana Televisa, la cual produce esta serie.</desc>
+    <date>1985</date>
+  </programme>
+  <programme start="20220727170000 +0000" stop="20220727180000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Fuego ardiente</title>
+    <desc lang="en">Es una historia de amor y pasiones desbordadas, en la que se confirma que, cuando un amor es verdadero, es capaz de ir contra viento y marea, con tal de permanecer vivo.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220727180000 +0000" stop="20220727190000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220727190000 +0000" stop="20220727200000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Laura</title>
+    <desc lang="en">Se evidencian problemas sociales, familiares o conflictos entre amigos o parejas.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220727200000 +0000" stop="20220727210000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Huérfanas</title>
+    <desc lang="en">Tres jóvenes hermanas adineradas pierden a sus padres en un accidente que les cambia la vida.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220727210000 +0000" stop="20220727220000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220727220000 +0000" stop="20220727230000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Amar es primavera</title>
+    <desc lang="en">Öykü es una joven prometedora diseñadora de modas que desde niña ha estado enamorada de Mete.</desc>
+  </programme>
+  <programme start="20220727230000 +0000" stop="20220728000000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Las Mil y Una Noches</title>
+    <desc lang="en">Es un famosa recopilación de cuentos medievales del Medio Oriente, esta serie animada relata las historias del famoso libro antiguo Persa donde relatan cuentos folclóricos de Asia Occidental y Asia del Sur.</desc>
+    <date>2006</date>
+  </programme>
+  <programme start="20220728000000 +0000" stop="20220728010000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220728010000 +0000" stop="20220728020000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Elif</title>
+    <desc lang="en">Elif es separada de su madre y enviada a vivir con una amiga de ella que es ama de llaves de la magnifica mansión en la que vive su padre y la familia de este, sin que su progenitor sepa de la relación de parentesco que les une.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220728020000 +0000" stop="20220728030000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Hercai</title>
+    <desc lang="en">La trama de Hercai sucede en Mardin, una provincia mágica. Reyyan es la nieta de Sadoglu, una de las familias más fuertes de Midyat, una ciudad de Mardin. Su abuelo Nasuh es el líder de la familia, aunque su padre y su tío también tienen mucha autoridad. Reyyan está enfrentada con su abuelo y su primaYaren porque siempre recibe mejor trato que ella injustamente.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220728030000 +0000" stop="20220728040000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220728040000 +0000" stop="20220728041500 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Copa</title>
+    <desc lang="en">Toda información deportiva que ustedes quieren saber.</desc>
+  </programme>
+  <programme start="20220728041500 +0000" stop="20220728051500 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Suleimán, el sultán</title>
+    <desc lang="en">Basada en la vida de Suleimán el Magnífico y su esposa, una esclava que se convirtió en Sultana; los conflictos amorosos y rivalidades entre los miembros del palacio imperial.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220728051500 +0000" stop="20220728060000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Los sobrevivientes de un holocausto apocalíptico deben escapar de los zombies que los persiguen. En la desesperada búsqueda de refugio, son amenazados constantemente por los muertos vivos, quienes son impiadosos en sus ataques. Por eso aquellos que no fueron infectados deben agruparse y organizarse para defenderse.</desc>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220728060000 +0000" stop="20220728090000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Novedades TV</title>
+    <desc lang="en">Información de productos natuales y de belleza.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220728090000 +0000" stop="20220728100000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Educa televisión para aprender</title>
+    <desc lang="en">Experiencias educativas innovadoras con el aporte de todos los sectores sociales públicos, privados e internacionales que aportan a la equidad en el acceso al conocimiento para todos los televidentes de los medios de comunicación, independientemente de su lugar de residencia o condición social.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220728100000 +0000" stop="20220728110000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220728110000 +0000" stop="20220728120000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">El despertar de la noticia</title>
+    <desc lang="en">Cuando usted sale de su casa sin informarse su visión queda incompleta. Póngase al día a primera hora con El despertar de la noticia.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220728120000 +0000" stop="20220728130000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220728130000 +0000" stop="20220728143000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia en la comunidad</title>
+    <desc lang="en">Espacio diferente, informal y coloquial donde podrás mantenerte al día de una manera amena, con las novedades, pedidos y necesidades de la ciudadanía.</desc>
+    <date>2010</date>
+  </programme>
+  <programme start="20220728143000 +0000" stop="20220728160000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Noticias de la mañana</title>
+    <desc lang="en">Todos los días el mejor equipo técnico y de redacción presenta un análisis informativo correspondiente a la actualidad nacional e internacional con seriedad e imparcialidad.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220728160000 +0000" stop="20220728170000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Mujer... Casos de la vida real</title>
+    <desc lang="en">Esta serie conmovedora, que en el comienzo fue titulada solamente Casos de la Vida Real, ahora tiene añadido el sustantivo Mujer y como su título lo indica, realiza dos dramatizaciones por episodio de dos casos reales que le han sucedido a mujeres comunes. Estos casos son elegidos a través de miles de cartas enviadas por las televidentes a la programadora mexicana Televisa, la cual produce esta serie.</desc>
+    <date>1985</date>
+  </programme>
+  <programme start="20220728170000 +0000" stop="20220728180000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Fuego ardiente</title>
+    <desc lang="en">Es una historia de amor y pasiones desbordadas, en la que se confirma que, cuando un amor es verdadero, es capaz de ir contra viento y marea, con tal de permanecer vivo.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220728180000 +0000" stop="20220728190000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220728190000 +0000" stop="20220728200000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Laura</title>
+    <desc lang="en">Se evidencian problemas sociales, familiares o conflictos entre amigos o parejas.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220728200000 +0000" stop="20220728210000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Huérfanas</title>
+    <desc lang="en">Tres jóvenes hermanas adineradas pierden a sus padres en un accidente que les cambia la vida.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220728210000 +0000" stop="20220728220000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220728220000 +0000" stop="20220728230000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Amar es primavera</title>
+    <desc lang="en">Öykü es una joven prometedora diseñadora de modas que desde niña ha estado enamorada de Mete.</desc>
+  </programme>
+  <programme start="20220728230000 +0000" stop="20220729000000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Las Mil y Una Noches</title>
+    <desc lang="en">Es un famosa recopilación de cuentos medievales del Medio Oriente, esta serie animada relata las historias del famoso libro antiguo Persa donde relatan cuentos folclóricos de Asia Occidental y Asia del Sur.</desc>
+    <date>2006</date>
+  </programme>
+  <programme start="20220729000000 +0000" stop="20220729010000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220729010000 +0000" stop="20220729020000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Elif</title>
+    <desc lang="en">Elif es separada de su madre y enviada a vivir con una amiga de ella que es ama de llaves de la magnifica mansión en la que vive su padre y la familia de este, sin que su progenitor sepa de la relación de parentesco que les une.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220729020000 +0000" stop="20220729030000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Hercai</title>
+    <desc lang="en">La trama de Hercai sucede en Mardin, una provincia mágica. Reyyan es la nieta de Sadoglu, una de las familias más fuertes de Midyat, una ciudad de Mardin. Su abuelo Nasuh es el líder de la familia, aunque su padre y su tío también tienen mucha autoridad. Reyyan está enfrentada con su abuelo y su primaYaren porque siempre recibe mejor trato que ella injustamente.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220729030000 +0000" stop="20220729040000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220729040000 +0000" stop="20220729041500 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Copa</title>
+    <desc lang="en">Toda información deportiva que ustedes quieren saber.</desc>
+  </programme>
+  <programme start="20220729041500 +0000" stop="20220729051500 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Suleimán, el sultán</title>
+    <desc lang="en">Basada en la vida de Suleimán el Magnífico y su esposa, una esclava que se convirtió en Sultana; los conflictos amorosos y rivalidades entre los miembros del palacio imperial.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220729051500 +0000" stop="20220729060000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">The Walking Dead</title>
+    <desc lang="en">Los sobrevivientes de un holocausto apocalíptico deben escapar de los zombies que los persiguen. En la desesperada búsqueda de refugio, son amenazados constantemente por los muertos vivos, quienes son impiadosos en sus ataques. Por eso aquellos que no fueron infectados deben agruparse y organizarse para defenderse.</desc>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20220729060000 +0000" stop="20220729090000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Novedades TV</title>
+    <desc lang="en">Información de productos natuales y de belleza.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220729090000 +0000" stop="20220729100000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">EDUCA: La hora educativa</title>
+    <desc lang="en">Programa creado por el Ministerio de Educación para aportar ayuda al proceso de aprendizaje en todas las áreas del conocimiento de Educación Inicial, Educación General Básica y Bachillerato.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220729100000 +0000" stop="20220729110000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220729110000 +0000" stop="20220729120000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">El despertar de la noticia</title>
+    <desc lang="en">Cuando usted sale de su casa sin informarse su visión queda incompleta. Póngase al día a primera hora con El despertar de la noticia.</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20220729120000 +0000" stop="20220729130000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia</title>
+    <desc lang="en">La información más importante del ámbito político, social, económico, internacional, regional, cultural y deportivo.</desc>
+  </programme>
+  <programme start="20220729130000 +0000" stop="20220729143000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La noticia en la comunidad</title>
+    <desc lang="en">Espacio diferente, informal y coloquial donde podrás mantenerte al día de una manera amena, con las novedades, pedidos y necesidades de la ciudadanía.</desc>
+    <date>2010</date>
+  </programme>
+  <programme start="20220729143000 +0000" stop="20220729160000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Noticias de la mañana</title>
+    <desc lang="en">Todos los días el mejor equipo técnico y de redacción presenta un análisis informativo correspondiente a la actualidad nacional e internacional con seriedad e imparcialidad.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220729160000 +0000" stop="20220729170000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Mujer... Casos de la vida real</title>
+    <desc lang="en">Esta serie conmovedora, que en el comienzo fue titulada solamente Casos de la Vida Real, ahora tiene añadido el sustantivo Mujer y como su título lo indica, realiza dos dramatizaciones por episodio de dos casos reales que le han sucedido a mujeres comunes. Estos casos son elegidos a través de miles de cartas enviadas por las televidentes a la programadora mexicana Televisa, la cual produce esta serie.</desc>
+    <date>1985</date>
+  </programme>
+  <programme start="20220729170000 +0000" stop="20220729180000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Fuego ardiente</title>
+    <desc lang="en">Es una historia de amor y pasiones desbordadas, en la que se confirma que, cuando un amor es verdadero, es capaz de ir contra viento y marea, con tal de permanecer vivo.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220729180000 +0000" stop="20220729190000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.</desc>
+    <date>2008</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220729190000 +0000" stop="20220729200000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Laura</title>
+    <desc lang="en">Se evidencian problemas sociales, familiares o conflictos entre amigos o parejas.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220729200000 +0000" stop="20220729210000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Huérfanas</title>
+    <desc lang="en">Tres jóvenes hermanas adineradas pierden a sus padres en un accidente que les cambia la vida.</desc>
+    <date>2011</date>
+  </programme>
+  <programme start="20220729210000 +0000" stop="20220729220000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.</desc>
+    <date>2011</date>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20220729220000 +0000" stop="20220729230000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Amar es primavera</title>
+    <desc lang="en">Öykü es una joven prometedora diseñadora de modas que desde niña ha estado enamorada de Mete.</desc>
+  </programme>
+  <programme start="20220729230000 +0000" stop="20220730000000 +0000" channel="RTS.Red.Telesistema.(RTS)..ec">
+    <title lang="en">Las Mil y Una Noches</title>
+    <desc lang="en">Es un famosa recopilación de cuentos medievales del Medio Oriente, esta serie animada relata las historias del famoso libro antiguo Persa donde relatan cuentos folclóricos de Asia Occidental y Asia del Sur.</desc>
+    <date>2006</date>
+</programme>
+</tv>
