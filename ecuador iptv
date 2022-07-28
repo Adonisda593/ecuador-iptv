@@ -1,0 +1,21 @@
+#EXTINF:-1 channel id="RTS.Red.Telesistema.(RTS)..ec" tvg-chno="4" tvg-country="EC" tvg-language="Español" tvg-logo=" https://imagenes.gatotv.com/ logos/canales/oscuros/rts-mediano.png" group-title="ECUADOR",RTS
+https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
+#EXTINF:-1 channel id="Ecuavisa.ec"tvg-chno="2"tvg-country="EC" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png" group-title="ECUADOR ",Ecuavisa
+https://youvideostreaming.club/hls/ecutv1.m3u8
+#EXTINF:-1 tvg-id="UCSG.ec" tvg-chno="42" tvg-country="EC" tvg-language="Español" tvg-logo="https://i.imgur.com/ otOhIe8.png"group-title=="ECUADOR",UCSG (1080p)
+https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
+#EXTINF:-1 tvg-id="tvc" tvg-chno="11" tvg-country="EC" tvg-language="Español" tvg-logo="https://www.tvc.com.ec/ wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=2.0" group-title="ECUADOR",tvc
+https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
+#EXTINF:-1 channel id="TC.Televisión.(TCTV)..ec"tvg-chno="10" tvg-country="EC" tvg-language="Español" tvg-logo="https://imagenes.gatotv.com/logos /canales/oscuros/tc_television-mediano.png"group-title="ECUADOR",tc television
+https://youvideostreaming.club/hls/ecutv3.m3u8
+#EXTINF:-1 channel id="Teleamazonas.ec"tvg-chno="5" tvg-country="EC" tvg-language="Español"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/800px-Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
+https://youvideostreaming.club/hls/ecutv4.m3u8
+#EXTINF:-1channel id="RTU.EC"tvg-chno="34" tvg-country="EC" tvg-language="Español"tvg-logo="https://i0.wp.com/canalrtu. tv/wp-content/uploads/2022/07/rtu.png?fit=213%2C120&ssl=1g" group-title="ECUADOR",RTU (720p)
+https://streamingwowza.com:19360/rtutv/rtutv.m3u8
+#EXTINF:-1channel id="TELERAMA HD"tvg-chno="32" tvg-country="EC" tvg-language="Español"tvg-logo="https://upload.wikimedia.org/wikipedia/commons /8/83/Logo_Telerama.png" group-title="ECUADOR",TELERAMA (720p)
+https://envivo.telerama.ec/stream.m3u8
+#EXTINF:-1channel id="OROMAR HD"tvg-chno="26" tvg-country="EC" tvg-language="Español"tvg-logo="https://upload.wikimedia.org/wikipedia/commons /2/21/Oromar_logo.png" group-title="ECUADOR",OROMAR (720p)
+https://live-ak.vimeocdn.com/exp=1658970598~acl=%2F04757cd8-90cb-40a7-988e-0abf7a8add42%2F%2A~hmac=8af97d6fa9495b49ee56812831b842c6a35bd2bf8199477eaa8dd29b4e72518d/04757cd8-90cb-40a7-988e-0abf7a8add42/chunklist_b728000.m3u8 ?max_segmentos=10
+#EXTINF:-1channel id="EcuadorTV.ec"tvg-chno="7" tvg-country="EC" tvg-language="Español"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR",Ecuador TV
+https://playback2.akamaized.net/streams/27228685_9764041_lsifuzvx1vsjgzqtqmq_1/exp=1659064882~acl=%2f*~data=hdntl~hmac=802c31935d305caad8790b9427758ce1993540852d5d53e643d22583a3b2b16e/media/27228685_9764041_lsifuzvx1vsjgzqtqmq_1@2128000p.m3u8?dw=14400&ts=1658977200
