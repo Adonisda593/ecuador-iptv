@@ -1,92 +1,86 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv.programadorx.cl/epg/gratis/abril/guide.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ECUADOR",ESPN
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-country="MX" group-title="ECUADOR",ESPN
 http://181.176.148.142:8000/play/a02d
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ECUADOR",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-country="MX"  group-title="ECUADOR",ESPN 2
 http://181.176.148.142:8000/play/a02e
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ECUADOR",ESPN 3
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-country="MX"group-title="ECUADOR",ESPN 3
 http://181.176.148.142:8000/play/a02f
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="ECUADOR",ESPN 4
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-country="MX" group-title="ECUADOR",ESPN 4
 http://181.176.148.142:8000/play/a02g
-#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-language="Spanish" group-title="DISH MX",ESPN Extra
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra"  audio-track="spa"  tvg-country="MX" group-title="DISH MX",ESPN Extra
 http://187.247.148.24:9981/stream/channelid/1682565314?profile=pass
-#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="ESPN (México)" tvg-language="Spanish" group-title="DISH MX",ESPN
+#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="ESPN (México)"  audio-track="spa"  tvg-country="MX" group-title="DISH MX",ESPN
 http://187.247.148.24:9981/stream/channelid/1682565314?profile=pass
-#EXTINF:-1 tvg-id="espn-2.mx" tvg-name="ESPN 2 (México)" tvg-language="Spanish" group-title="DISH MX",ESPN 2
+#EXTINF:-1 tvg-id="espn-2.mx" tvg-name="ESPN 2 (México)"  audio-track="spa"  tvg-country="MX" group-title="DISH MX",ESPN 2
 http://38.123.205.70:8000/play/a092/index.m3u8
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (México)" tvg-language="Spanish" group-title="DISH MX",ESPN 3
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (México)"   tvg-country="MX" audio-track="spa" group-title="DISH MX",ESPN 3
 http://187.247.148.24:9981/stream/channelid/488983877?profile=pass#EXTINF:-1 grupo-título="DISH MX 2",ESPN
 http://76.128.24.147:9981/stream/channelid/1119636503?profile=pass
 #EXTINF:-1 grupo-título="DISH MX 2",ESPN 2
 http://76.128.24.147:9981/stream/channelid/1789720328?profile=pass
 #EXTINF:-1 grupo-título="DISH MX 2",ESPN 3
 http://76.128.24.147:9981/stream/channelid/325291368?profile=pass
-#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="ESPN México" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19158/s17725_h3_aa.png? w=55" group-title="MÉXICO",ESPN México
+#EXTINF:-1 tvg-id="ESPNMexico.mx" tvg-name="ESPN México"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19158/s17725_h3_aa.png? w=55" group-title="MÉXICO",ESPN México
 http://190.61.102.67:31589/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2 SD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/37747/s88735_h3_aa.png ?w=55" group-title="MÉXICO",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" tvg-name="ESPN 2 SD"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/37747/s88735_h3_aa.png ?w=55" group-title="MÉXICO",ESPN 2
 http://190.61.102.67:31589/play/a063/index.m3u8
-#EXTINF:-1 tvg-id="ESPNTres(Norte).mx(m3u4u)" tvg-name="ESPN 3" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79042/s73833_h3_aa .png?w=55" group-title="MÉXICO",ESPN 3 MX
+#EXTINF:-1 tvg-id="ESPNTres(Norte).mx(m3u4u)" tvg-name="ESPN 3"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/79042/s73833_h3_aa .png?w=55" group-title="MÉXICO",ESPN 3 MX
 http://190.61.102.67:31589/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx(m3u4u)" tvg-name="Claro Sports (HD)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/115713/s115713_h3_aa .png?w=55" group-title="MÉXICO",Claro Sports MX
+#EXTINF:-1 tvg-id="ClaroSports.mx(m3u4u)" tvg-name="Claro Sports (HD)"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/115713/s115713_h3_aa .png?w=55" group-title="MÉXICO",Claro Sports MX
 http://190.61.102.67:31589/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us(m3u4u)" tvg-name="Bein Ñ SD" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ being_sports_en_espanol.png" group-title="MEXICO",Bein Ñ
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us(m3u4u)" tvg-name="Bein Ñ SD"   tvg-country="ES" audio-track="spa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ being_sports_en_espanol.png" group-title="MEXICO",Bein Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8?
-#EXTINF:-1 tvg-id="GolTV.us" tvg-name="Gol TV" group-title="CLARO ECUADOR",GOL TV
+#EXTINF:-1 tvg-id="GolTV.us" tvg-name="Gol TV"  tvg-country="EC"group-title="CLARO ECUADOR",GOL TV
 http://200.24.132.99:8000/play/a023
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INTER PERU",FOX SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR"group-title="INTER PERU",FOX SPORTS 2
 http://181.176.148.142:8000/play/a02h
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INTER PERU",FOX SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR"group-title="INTER PERU",FOX SPORTS 3
 http://181.176.148.142:8000/play/a02i
-#EXTINF:-1 tvg-id="TNTMexico.mx" tvg-name="TNT México" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19384/s71148_h3_aa.png? w=55" group-title="MÉXICO",TNT México
+#EXTINF:-1 tvg-id="TNTMexico.mx" tvg-name="TNT México"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19384/s71148_h3_aa.png? w=55" group-title="MÉXICO",TNT México
 http://190.61.102.67:31589/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="Space SD" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60801/s16499_h3_aa.png? w=55" group-title="MÉXICO",Espacio MX
+#EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="Space SD"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60801/s16499_h3_aa.png? w=55" group-title="MÉXICO",Espacio MX
 http://190.61.102.67:31589/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="Cinecanal (SUB)" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16435/s105609_h3_aa. png?w=55" group-title="MÉXICO",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="Cinecanal (SUB)"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16435/s105609_h3_aa. png?w=55" group-title="MÉXICO",Cinecanal
 http://190.61.102.67:31589/play/a04q/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.mx(m3u4u)" tvg-name="Paramount Network" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91029/s91029_h3_aa.png? w=55" group-title="MÉXICO",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetwork.mx(m3u4u)" tvg-name="Paramount Network"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91029/s91029_h3_aa.png? w=55" group-title="MÉXICO",Paramount Network
 http://190.61.102.67:31589/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="FXMovies.mx(m3u4u)" tvg-name="FXMovies (SUB)" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19787/s25069_h3_aa. png?w=55" group-title="MÉXICO",FXMovies
-#EXTINF: http://bgapp.live/play/zufree-333.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3085
-#EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX SD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/46442/s46442_h3_aa.png? w=55" group-title="MÉXICO",FX Mex HD
+#EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX SD" tvg-country="MX"  tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/46442/s46442_h3_aa.png? w=55" group-title="MÉXICO",FX Mex HD
 http://190.61.102.67:31589/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id="CanalSony.mx(m3u4u)" tvg-name="Sony Channel SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png ?w=55" group-title="MÉXICO",Sony mx
+#EXTINF:-1 tvg-id="CanalSony.mx(m3u4u)" tvg-name="Sony Channel SD"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png ?w=55" group-title="MÉXICO",Sony mx
 http://190.61.102.67:31589/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="AandE.mx(m3u4u)" tvg-name="A&E SD" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18955/s10035_h3_aa. png?w=55" group-title="MÉXICO",A&E
+#EXTINF:-1 tvg-id="AandE.mx(m3u4u)" tvg-name="A&E SD"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18955/s10035_h3_aa. png?w=55" group-title="MÉXICO",A&E
 http://190.61.102.67:31589/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.mx(m3u4u)" tvg-name="Universal SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16799/s53218_h3_aa.png? w=55" group-title="MÉXICO",Universal
+#EXTINF:-1 tvg-id="UniversalTV.mx(m3u4u)" tvg-name="Universal SD"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16799/s53218_h3_aa.png? w=55" group-title="MÉXICO",Universal
 http://190.61.102.67:31589/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx(m3u4u)" tvg-name="Warner SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16213/s16213_h3_aa.png? w=55" group-title="MÉXICO",Warner
+#EXTINF:-1 tvg-id="WarnerChannel.mx(m3u4u)" tvg-name="Warner SD"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16213/s16213_h3_aa.png? w=55" group-title="MÉXICO",Warner
 http://190.61.102.67:31589/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="History.mx(m3u4u) tvg-name="Historial SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40137/s40137_h3_aa.png? w=55" group-title="MÉXICO",History
+#EXTINF:-1 tvg-id="History.mx(m3u4u) tvg-name="Historial SD"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40137/s40137_h3_aa.png? w=55" group-title="MÉXICO",History
 http://190.61.102.67:31589/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="Las Estrellas (HD)" tvg-language="Español"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas .png" group-title="MEXICO",las estrellas MX
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="Las Estrellas (HD)"  tvg-country="MX" audio-track="spa"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas .png" group-title="MEXICO",las estrellas MX
 http://190.61.102.67:31589/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-chno="55" tvg-language="Spanish" tvg-name="Cartoon Network (Colombia)" group-title="CLARO COLOMBIA",Cartoon Network Latin America
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-chno="55"  audio-track="spa"  tvg-country="CO" tvg-name="Cartoon Network (Colombia)" group-title="CLARO COLOMBIA",Cartoon Network Latin America
 http://181.78.6.57:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.us" tvg-name="Cartoon Network México"tvg-language="Spanish" group-title="DISH MX",Cartoon Network Latin America
-http://187.247.148.24:9981/stream/channelid/1538910214?profile=pass
-#EXTINF:-1 tvg-language="Español" grupo-título="DISH MX 2",Cartoon Network Latin America
-http://76.128.24.147:9981/stream/channelid/1109801495?profile=pass
-#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="Disney Channel (Colombia)" tvg-language="Spanish" group-title="CLARO CA",Disney
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="Disney Channel (Colombia)"  tvg-country="CO"  audio-track="spa" group-title="CLARO CA",Disney Channel
 http://45.5.119.202:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="nick.co" tvg-name="Nick" tvg-language="Spanish" group-title="CLARO CA",Nickelodeon
+#EXTINF:-1 tvg-id="nick.co" tvg-name="Nick"  audio-track="spa" tvg-country="CO"  group-title="CLARO CA",Nickelodeon
 http://45.5.119.202:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="StarSeries.mx(m3u4u)" tvg-name="Estrella Series (SUB)" group-title="CLARO CA",STAR SERIES HD
+#EXTINF:-1 tvg-id="StarSeries.mx(m3u4u)" tvg-name="Estrella Series (SUB)" tvg-country="MX" group-title="CLARO CA",STAR SERIES HD
 http://45.5.119.202:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="StarAction.mx(m3u4u)" tvg-name="Star Action (SUB)" group-title="CLARO CA",STAR ACTION HD
+#EXTINF:-1 tvg-id="StarAction.mx(m3u4u)" tvg-name="Star Action (SUB)" tvg-country="MX" group-title="CLARO CA",STAR ACTION HD
 http://45.5.119.202:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="StarComedy.us" tvg-name="Star Comedy" group-title="CLARO CA",STAR COMEDY HD
+#EXTINF:-1 tvg-id="StarComedy.us" tvg-name="Star Comedy" tvg-country="MX" group-title="CLARO CA",STAR COMEDY HD
 http://45.5.119.202:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="foxfamily.la" tvg-name="FOX Family (Latino)" tvg-language="Spanish" group-title="CLARO CA",STAR FUN HD
+#EXTINF:-1 tvg-id="foxfamily.la" tvg-name="FOX Family (Latino)"  tvg-country="MX" audio-track="spa" group-title="CLARO CA",STAR FUN HD
 http://45.5.119.202:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="StarHits.us" tvg-name="Star Hits" tvg-language="Spanish" group-title="CLARO CA",STAR HITS HD
+#EXTINF:-1 tvg-id="StarHits.us" tvg-name="Star Hits"  audio-track="spa" tvg-country="MX"group-title="CLARO CA",STAR HITS HD
 http://45.5.119.202:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="CA HD",Home Garden Latino
 http://76.128.24.147:9981/stream/channelid/2134923602?profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7" group-title="CLARO ECUADOR",Ecuador TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7" tvg-country="EC" group-title="CLARO ECUADOR",Ecuador TV
 http://200.24.132.99:8000/play/a02g
-#EXTINF:-1 tvg-id="Gamavision.ec" tvg-name=""tvg-chno="8"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"group-title="CLARO ECUADOR",Gamavision
+#EXTINF:-1 tvg-id="Gamavision.ec" tvg-name=""tvg-chno="8" tvg-country="EC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"group-title="CLARO ECUADOR",Gamavision
 http://200.24.132.99:8000/play/a02h
-#EXTINF:-1 tvg-id="discoveryhomehealth.co" tvg-name="" tvg-chno="4" group-title="INTER PERU",discovery H&H
+#EXTINF:-1 tvg-id="discoveryhomehealth.co" tvg-name="" tvg-country="PE" tvg-chno="45"  tvg-country="CO" group-title="INTER PERU",discovery H&H
 http://181.176.148.142:8000/play/a02l
 #EXTINF:-1 tvg-id="LOVE NATURE" tvg-name="" group-title="INTER PERU",LOVE NATURE
 http://181.176.148.142:8000/play/a02q
@@ -94,29 +88,29 @@ http://181.176.148.142:8000/play/a02q
 http://181.176.148.142:8000/play/a02r
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INTER PERU",MOVIES CLUB
 http://181.176.148.142:8000/play/a02s
-#EXTINF:-1 channel id="RTS.ec" tvg-chno="4" tvg-country="EC" tvg-language="Español" tvg-logo=" https://imagenes.gatotv.com/ logos/canales/oscuros/rts-mediano.png" group-title="ECUADOR",RTS.ec 
+#EXTINF:-1 channel id="RTS.ec" tvg-chno="4" tvg-country="EC"  audio-track="spa" tvg-logo=" https://imagenes.gatotv.com/ logos/canales/oscuros/rts-mediano.png" group-title="ECUADOR",RTS.ec 
 https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
-#EXTINF:-1 channel id="Ecuavisa.ec"tvg-chno="2"tvg-country="EC" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png" group-title="ECUADOR ",Ecuavisa
+#EXTINF:-1 channel id="Ecuavisa.ec"tvg-chno="2"tvg-country="EC"  audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png" group-title="ECUADOR ",Ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
-#EXTINF:-1 tvg-id="UCSG.ec" tvg-chno="42" tvg-country="EC" tvg-language="Español" tvg-logo="https://i.imgur.com/ otOhIe8.png"group-title="ECUADOR",UCSG (1080p)
+#EXTINF:-1 tvg-id="UCSG.ec" tvg-chno="42" tvg-country="EC"  audio-track="spa" tvg-logo="https://i.imgur.com/ otOhIe8.png"group-title="ECUADOR",UCSG (1080p)
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
-#EXTINF:-1 tvg-id="tvc" tvg-chno="11" tvg-country="EC" tvg-language="Español" tvg-logo="https://www.tvc.com.ec/ wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=2.0" group-title="ECUADOR",tvc
+#EXTINF:-1 tvg-id="tvc" tvg-chno="11" tvg-country="EC"  audio-track="spa" tvg-logo="https://www.tvc.com.ec/ wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=2.0" group-title="ECUADOR",tvc
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
-#EXTINF:-1 channel id="TCTV.ec"tvg-chno="10" tvg-country="EC" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp"group-title="ECUADOR",TC Television
+#EXTINF:-1 channel id="TCTV.ec"tvg-chno="10" tvg-country="EC"  audio-track="spa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp"group-title="ECUADOR",TC Television
 https://youvideostreaming.club/hls/ecutv3.m3u8
-#EXTINF:-1 channel id="Teleamazonas.ec"tvg-chno="5" tvg-country="EC" tvg-language="Español"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/800px-Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
+#EXTINF:-1 channel id="Teleamazonas.ec"tvg-chno="5" tvg-country="EC"  audio-track="spa"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/800px-Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
 https://youvideostreaming.club/hls/ecutv4.m3u8
-#EXTINF:-1channel id="RTU.EC"tvg-chno="34" tvg-country="EC" tvg-language="Español"tvg-logo="https://i0.wp.com/canalrtu. tv/wp-content/uploads/2022/07/rtu.png?fit=213%2C120&ssl=1g" group-title="ECUADOR",RTU (720p)
+#EXTINF:-1channel id="RTU.EC"tvg-chno="34" tvg-country="EC" tvg-country="EC" audio-track="spa"tvg-logo="https://i0.wp.com/canalrtu. tv/wp-content/uploads/2022/07/rtu.png?fit=213%2C120&ssl=1g" group-title="ECUADOR",RTU (720p)
 https://streamingwowza.com:19360/rtutv/rtutv.m3u8
-#EXTINF:-1 tvg-id="NickelodeonSur.us" tvg-name="Nickelodeon Sur" tvg-language="Spanish" group-title="CLARO ECUADOR",Nickelodeon
+#EXTINF:-1 tvg-id="NickelodeonSur.us" tvg-name="Nickelodeon Sur"  audio-track="spa" tvg-country="ec" group-title="CLARO ECUADOR",Nickelodeon 
 http://200.24.132.99:8000/play/a01b
-#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="Sony Channel Andes" tvg-language="Spanish" group-title="CLARO ECUADOR",Sony
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="Sony Channel Andes"  audio-track="spa" tvg-country="ec"group-title="CLARO ECUADOR",Sony 
 http://200.24.132.99:8000/play/a02o
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",Oromar SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ec"group-title="CLARO ECUADOR",Oromar SD
 http://200.24.132.99:8000/play/a02x
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",RTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ec"group-title="CLARO ECUADOR",RTS
 http://200.24.132.99:8000/play/a02s
-#EXTINF:-1 tvg-id="SpaceSur.ar" tvg-name="Space Sur" group-title="CLARO ECUADOR",Space
+#EXTINF:-1 tvg-id="SpaceSur.ar" tvg-name="Space Sur" tvg-country="ec" group-title="CLARO ECUADOR",Space
 http://200.24.132.99:8000/play/a02q
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="CINE",retro plus1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
@@ -126,23 +120,24 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-chno="1442" tvg-name="Historia Latinoamérica" group-title="ECUADOR",History
 http://138.36.253.14:8010/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="FXChile.cl" tvg-name="FX Chile" group-title="CLARO ECUADOR",FX
+#EXTINF:-1 tvg-id="FXChile.cl" tvg-name="FX Chile" tvg-country="CL"group-title="CLARO ECUADOR",FX
 http://200.24.132.99:8000/play/a02r
-#EXTINF:-1 tvg-id="FXMChile.cl" tvg-name="FXM Chile" group-title="CLARO ECUADOR",FX Movies
+#EXTINF:-1 tvg-id="FXMChile.cl" tvg-name="FXM Chile" tvg-country="CL"group-title="CLARO ECUADOR",FX Movies
 http://200.24.132.99:8000/play/a01t
-#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO (AR/CL/CO)" group-title="CLARO ECUADOR",HBO
+#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO (AR/CL/CO)"tvg-country="CO" group-title="CLARO ECUADOR",HBO
 http://45.71.185.142:8500/play/a02v
-#EXTINF:-1 tvg-id="hbo2.cl" tvg-name=HBO 2 (AR/CL/CO)"" group-title="CLARO ECUADOR",HBO 2
+#EXTINF:-1 tvg-id="hbo2.cl" tvg-name=" HBO 2 (AR/CL/CO)" tvg-country="CO" group-title="CLARO ECUADOR",HBO 2
 http://45.71.185.142:8500/play/a00z
-#EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us"tvg-language="Español" tvg-name="HBO Family Latinoamérica" group-title="CLARO ECUADOR",HBO Family
+#EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us" audio-track="spa" tvg-country="CO"tvg-name="HBO Family Latinoamérica" group-title="CLARO ECUADOR",HBO Family
 http://45.71.185.142:8500/play/a012
-#EXTINF:-1 tvg-id="hboplus.la" tvg-name="HBO Plus Este" tvg-language="Español" group-title="CLARO ECUADOR",HBO Plus
+#EXTINF:-1 tvg-id="hboplus.la" tvg-name="HBO Plus Este" tvg-country="EC"  audio-track="spa" group-title="CLARO ECUADOR",HBO Plus
 http://45.71.185.142:8500/play/a010
-#EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us" tvg-language="Español" tvg-name="HBO Xtreme Latinoamérica" group-title="CLARO ECUADOR",HBO XTREME SD
+#EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us"audio-track="spa" tvg-country="EC"tvg-name="HBO Xtreme Latinoamérica" group-title="CLARO ECUADOR",HBO XTREME SD
 http://45.71.185.142:8500/play/a011
-#EXTINF:-1 tvg-id="StarChannelColombia.co" tvg-language="Español" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",Star Channel
+#EXTINF:-1 tvg-id="StarChannelColombia.co" audio-track="spa" tvg-country="EC" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",Star Channel
 http://45.71.185.142:8500/play/a00c
-#EXTINF:-1 tvg-id="DisneyChannelSur.us" tvg-language="Español" tvg-name="Disney Channel Sur" group-title="CLARO ECUADOR",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannelSur.us"audio-track="spa" tvg-country="EC" tvg-name="Disney Channel Sur" group-title="CLARO ECUADOR",Disney Channel
 http://200.24.132.99:8000/play/a01w
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV 
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+
