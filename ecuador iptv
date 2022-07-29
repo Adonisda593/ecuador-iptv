@@ -40,7 +40,7 @@ http://181.176.148.142:8000/play/a02i
 http://190.61.102.67:31589/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="Space SD" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60801/s16499_h3_aa.png? w=55" group-title="MÉXICO",Espacio MX
 http://190.61.102.67:31589/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="Cinecanal (SUB)" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16435/s105609_h3_aa. png?w=55" group-title="MÉXICO",Cinecanal MX
+#EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="Cinecanal (SUB)" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16435/s105609_h3_aa. png?w=55" group-title="MÉXICO",Cinecanal
 http://190.61.102.67:31589/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx(m3u4u)" tvg-name="Paramount Network" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91029/s91029_h3_aa.png? w=55" group-title="MÉXICO",Paramount Network
 http://190.61.102.67:31589/play/a01s/index.m3u8
@@ -56,24 +56,20 @@ http://190.61.102.67:31589/play/a03f/index.m3u8
 http://190.61.102.67:31589/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.mx(m3u4u)" tvg-name="Warner SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16213/s16213_h3_aa.png? w=55" group-title="MÉXICO",Warner
 http://190.61.102.67:31589/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="Historial.mx(m3u4u)" tvg-name="Historial SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40137/s40137_h3_aa.png? w=55" group-title="MÉXICO",Historia mx
+#EXTINF:-1 tvg-id="History.mx(m3u4u) tvg-name="Historial SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40137/s40137_h3_aa.png? w=55" group-title="MÉXICO",History
 http://190.61.102.67:31589/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="Las Estrellas (HD)" tvg-language="Español"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas .png" group-title="MEXICO",las estrellas MX
 http://190.61.102.67:31589/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Cartoon Network (Colombia)"tvg-language="Español" group-title="CLARO COLOMBIA",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-chno="55" tvg-language="Spanish" tvg-name="Cartoon Network (Colombia)" group-title="CLARO COLOMBIA",Cartoon Network Latin America
 http://181.78.6.57:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.us" tvg-name="Cartoon Network México"tvg-language="Spanish" group-title="DISH MX",CARTOON NETWORK
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.us" tvg-name="Cartoon Network México"tvg-language="Spanish" group-title="DISH MX",Cartoon Network Latin America
 http://187.247.148.24:9981/stream/channelid/1538910214?profile=pass
-#EXTINF:-1 tvg-language="Español" grupo-título="DISH MX 2",Cartoon Network
+#EXTINF:-1 tvg-language="Español" grupo-título="DISH MX 2",Cartoon Network Latin America
 http://76.128.24.147:9981/stream/channelid/1109801495?profile=pass
-#EXTINF:-1 grupo-título="MOVISTAR+",DISNEY CH HD
-http://46.6.2.234:9981/stream/channelid/676019962?profile=pass
 #EXTINF:-1 tvg-id="disneychannel.co" tvg-name="Disney Channel (Colombia)" tvg-language="Spanish" group-title="CLARO CA",Disney
 http://45.5.119.202:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="nick.co" tvg-name="Nick" tvg-language="Spanish" group-title="CLARO CA",Nickelodeon
 http://45.5.119.202:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" tvg-name="Star Channel SD" tvg-language="Spanish" group-title="CLARO CA",STAR CHANNEL
-http://45.5.119.202:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="StarSeries.mx(m3u4u)" tvg-name="Estrella Series (SUB)" group-title="CLARO CA",STAR SERIES HD
 http://45.5.119.202:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="StarAction.mx(m3u4u)" tvg-name="Star Action (SUB)" group-title="CLARO CA",STAR ACTION HD
@@ -128,13 +124,11 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w732142691.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="CINE",retro plus3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="HistoryLatinoamerica.us" tvg-name="History Latinoamérica" group-title="CLARO ECUADOR",History Channel
-http://200.24.132.99:8000/play/a01e
-#EXTINF:-1 tvg-id="Historia2Latinoamerica.us" tvg-name="History 2 Latinoamérica" ??group-title="DISH MX",HISTORIA 2
-http://187.247.148.24:9981/stream/channelid/356159247?profile=pass
-#EXTINF:-1 tvg-id="FXChile.us" tvg-name="FX Chile" group-title="CLARO ECUADOR",FX
+#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-chno="1442" tvg-name="Historia Latinoamérica" group-title="ECUADOR",History
+http://138.36.253.14:8010/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="FXChile.cl" tvg-name="FX Chile" group-title="CLARO ECUADOR",FX
 http://200.24.132.99:8000/play/a02r
-#EXTINF:-1 tvg-id="FXMChile.us" tvg-name="FXM Chile" group-title="CLARO ECUADOR",FX Movies
+#EXTINF:-1 tvg-id="FXMChile.cl" tvg-name="FXM Chile" group-title="CLARO ECUADOR",FX Movies
 http://200.24.132.99:8000/play/a01t
 #EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO (AR/CL/CO)" group-title="CLARO ECUADOR",HBO
 http://45.71.185.142:8500/play/a02v
@@ -146,10 +140,8 @@ http://45.71.185.142:8500/play/a012
 http://45.71.185.142:8500/play/a010
 #EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us" tvg-language="Español" tvg-name="HBO Xtreme Latinoamérica" group-title="CLARO ECUADOR",HBO XTREME SD
 http://45.71.185.142:8500/play/a011
-#EXTINF:-1 tvg-id="StarChannelChile.us" tvg-language="Español" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",STAR CHANNEL
+#EXTINF:-1 tvg-id="StarChannelColombia.co" tvg-language="Español" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",Star Channel
 http://45.71.185.142:8500/play/a00c
-#EXTINF:-1 tvg-id="WarnerChannelPanregional.us"tvg-language="Español" tvg-name="Warner Channel Panregional" group-title="CLARO ECUADOR",Warner Channel
-http://200.24.132.99:8000/play/a01z
 #EXTINF:-1 tvg-id="DisneyChannelSur.us" tvg-language="Español" tvg-name="Disney Channel Sur" group-title="CLARO ECUADOR",Disney Channel
 http://200.24.132.99:8000/play/a01w
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV 
