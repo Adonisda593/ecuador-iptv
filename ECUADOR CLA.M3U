@@ -1,13 +1,13 @@
-#EXM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://iptv.programadorx.cl/epg/gratis/abril/guide.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
 #EXTINF:-1 tvg-id="espn2.cl" tvg-name="ESPN 2 Chile" group-title="CLARO ECUADOR",ESPN
 http://200.24.132.99:8000/play/a022
 #EXTINF:-1 tvg-id="ESPNChile.us" tvg-name="ESPN Chile" group-title="CLARO ECUADOR",ESPN 2
 http://200.24.132.99:8000/play/a01v
-#EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-name="ESPN 2 AmÈrica Latina" group-title="CLARO ECUADOR",ESPN 2 Latin
+#EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-name="ESPN 2 Am√©rica Latina" group-title="CLARO ECUADOR",ESPN 2 Latin
 http://200.24.132.99:8000/play/a021
 #EXTINF:-1 tvg-id="ESPN3Andino.us" tvg-name="ESPN 3 Andino" group-title="CLARO ECUADOR",ESPN 3
 http://200.24.132.99:8000/play/a02w
-#EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-name="ESPN 2 AmÈrica Latina" group-title="CLARO ECUADOR",ESPN CO
+#EXTINF:-1 tvg-id="ESPN2AmericaLatina.us" tvg-name="ESPN 2 Am√©rica Latina" group-title="CLARO ECUADOR",ESPN CO
 http://200.24.132.99:8000/play/a02m
 #EXTINF:-1 tvg-id="foxsports.co" tvg-name="Fox Sports Colombia" group-title="CLARO ECUADOR",Fox Sports
 http://200.24.132.99:8000/play/a02f
@@ -19,29 +19,29 @@ http://200.24.132.99:8000/play/a029
 http://200.24.132.99:8000/play/a023
 #EXTINF:-1 tvg-id="tycsports.la" tvg-name="TyC Sports" group-title="CLARO ECUADOR",TyC
 http://200.24.132.99:8000/play/a024
-#EXTINF:-1 tvg-id="AELatinoamerica.us" tvg-name="A&E LatinoamÈrica" group-title="CLARO ECUADOR",A&E
+#EXTINF:-1 tvg-id="AELatinoamerica.us" tvg-name="A&E Latinoam√©rica" group-title="CLARO ECUADOR",A&E
 http://200.24.132.99:8000/play/a025
 #EXTINF:-1 tvg-id="axn.co" tvg-name="AXN (Colombia)" group-title="CLARO ECUADOR",AXN
 http://200.24.132.99:8000/play/a02p
-#EXTINF:-1 tvg-id="AnimalPlanetLatinoamerica.us" tvg-name="Animal Planet LatinoamÈrica" group-title="CLARO ECUADOR",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanetLatinoamerica.us" tvg-name="Animal Planet Latinoam√©rica" group-title="CLARO ECUADOR",Animal Planet
 http://200.24.132.99:8000/play/a01y
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en EspaÒol" group-title="CLARO ECUADOR",CNN Espanol
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Espa√±ol" group-title="CLARO ECUADOR",CNN Espanol
 http://200.24.132.99:8000/play/a01q
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas (MÈxico)" group-title="CLARO ECUADOR",Canal Estrellas
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas (M√©xico)" group-title="CLARO ECUADOR",Canal Estrellas
 http://200.24.132.99:8000/play/a027
 #EXTINF:-1 tvg-id="CartoonNetworkChile.us" tvg-name="Cartoon Network Chile" group-title="CLARO ECUADOR",Cartoon Network
 http://200.24.132.99:8000/play/a01m
 #EXTINF:-1 tvg-id="cinecanal.cl" tvg-name="Cinecanal (Chile)" group-title="CLARO ECUADOR",Cinecanal
 http://200.24.132.99:8000/play/a01f
-#EXTINF:-1 tvg-id="CinemaxLatinoamerica.us" tvg-name="Cinemax LatinoamÈrica" group-title="CLARO ECUADOR",Cinemax
+#EXTINF:-1 tvg-id="CinemaxLatinoamerica.us" tvg-name="Cinemax Latinoam√©rica" group-title="CLARO ECUADOR",Cinemax
 http://200.24.132.99:8000/play/a02n
-#EXTINF:-1 tvg-id="DiscoveryChannelLatinoamerica.us" tvg-name="Discovery Channel LatinoamÈrica" group-title="CLARO ECUADOR",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinoamerica.us" tvg-name="Discovery Channel Latinoam√©rica" group-title="CLARO ECUADOR",Discovery Channel
 http://200.24.132.99:8000/play/a01x
 #EXTINF:-1 tvg-id="discoveryhomehealth.co" tvg-name="Discovery Home Health Colomb" group-title="CLARO ECUADOR",Discovery H&H
 http://200.24.132.99:8000/play/a02e
 #EXTINF:-1 tvg-id="discoverykids.cl" tvg-name="Discovery Kids (Chile)" group-title="CLARO ECUADOR",Discovery Kids
 http://200.24.132.99:8000/play/a01s
-#EXTINF:-1 tvg-id="DiscoveryTurboAmericaLatina.us" tvg-name="Discovery Turbo AmÈrica Latina" group-title="CLARO ECUADOR",Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurboAmericaLatina.us" tvg-name="Discovery Turbo Am√©rica Latina" group-title="CLARO ECUADOR",Discovery Turbo
 http://200.24.132.99:8000/play/a02u
 #EXTINF:-1 tvg-id="DisneyChannelSur.us" tvg-name="Disney Channel Sur" group-title="CLARO ECUADOR",Disney Channel
 http://200.24.132.99:8000/play/a01w
@@ -49,7 +49,7 @@ http://200.24.132.99:8000/play/a01w
 http://200.24.132.99:8000/play/a01u
 #EXTINF:-1 tvg-id="DisneyXDSur.us" tvg-name="Disney XD Sur" group-title="CLARO ECUADOR",Disney XD
 http://200.24.132.99:8000/play/a01c
-#EXTINF:-1 tvg-id="ELatinoamerica.us" tvg-name="E! LatinoamÈrica" group-title="CLARO ECUADOR",E Entertainment
+#EXTINF:-1 tvg-id="ELatinoamerica.us" tvg-name="E! Latinoam√©rica" group-title="CLARO ECUADOR",E Entertainment
 http://200.24.132.99:8000/play/a020
 #EXTINF:-1 tvg-id="FXChile.us" tvg-name="FX Chile" group-title="CLARO ECUADOR",FX
 http://200.24.132.99:8000/play/a02r
@@ -59,13 +59,13 @@ http://200.24.132.99:8000/play/a01t
 http://45.71.185.142:8500/play/a02v
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-name=HBO 2 (AR/CL/CO)"" group-title="CLARO ECUADOR",HBO 2
 http://45.71.185.142:8500/play/a00z
-#EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us" tvg-name="HBO Family LatinoamÈrica" group-title="CLARO ECUADOR",HBO Family
+#EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us" tvg-name="HBO Family Latinoam√©rica" group-title="CLARO ECUADOR",HBO Family
 http://45.71.185.142:8500/play/a012
 #EXTINF:-1 tvg-id="hboplus.la" tvg-name="HBO Plus Este" group-title="CLARO ECUADOR",HBO Plus
 http://45.71.185.142:8500/play/a010
-#EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us" tvg-name="HBO Xtreme LatinoamÈrica" group-title="CLARO ECUADOR",HBO XTREME SD
+#EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us" tvg-name="HBO Xtreme Latinoam√©rica" group-title="CLARO ECUADOR",HBO XTREME SD
 http://45.71.185.142:8500/play/a011
-#EXTINF:-1 tvg-id="HistoryLatinoamerica.us" tvg-name="History LatinoamÈrica" group-title="CLARO ECUADOR",History Channel
+#EXTINF:-1 tvg-id="HistoryLatinoamerica.us" tvg-name="History Latinoam√©rica" group-title="CLARO ECUADOR",History Channel
 http://200.24.132.99:8000/play/a01e
 #EXTINF:-1 tvg-id="ISat.ar" tvg-name="I-Sat" group-title="CLARO ECUADOR",I-Sat
 http://200.24.132.99:8000/play/a01h
@@ -83,17 +83,17 @@ http://200.24.132.99:8000/play/a01b
 http://200.24.132.99:8000/play/a02o
 #EXTINF:-1 tvg-id="SpaceSur.ar" tvg-name="Space Sur" group-title="CLARO ECUADOR",Space
 http://200.24.132.99:8000/play/a02q
-#EXTINF:-1 tvg-id="StarChannelChile.us" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",STAR CHANNEL
+#EXTINF:-1 tvg-id="StarChannelChile.us""tvg-chno="1204" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",STAR CHANNEL
 http://45.71.185.142:8500/play/a00c
-#EXTINF:-1 tvg-id="TBSAmericaLatina.us" tvg-name="TBS AmÈrica Latina" group-title="CLARO ECUADOR",TBS
+#EXTINF:-1 tvg-id="TBSAmericaLatina.us" tvg-name="TBS Am√©rica Latina" group-title="CLARO ECUADOR",TBS
 http://200.24.132.99:8000/play/a02d
 #EXTINF:-1 tvg-id="tcm.la" tvg-name="TCM Latino" group-title="CLARO ECUADOR",TCM
 http://200.24.132.99:8000/play/a01k
 #EXTINF:-1 tvg-id="tnt.cl" tvg-name="TNT Chile" group-title="CLARO ECUADOR",TNT
 http://200.24.132.99:8000/play/a01n
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 EspaÒol" group-title="CLARO ECUADOR",France 24
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Espa√±ol" group-title="CLARO ECUADOR",France 24
 http://200.24.132.99:8000/play/a02c
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica1.es" tvg-name="TVE Internacional AmÈrica 1" group-title="CLARO ECUADOR",TVE
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica1.es" tvg-name="TVE Internacional Am√©rica 1" group-title="CLARO ECUADOR",TVE
 http://200.24.132.99:8000/play/a01p
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" group-title="CLARO ECUADOR",Telemundo
 http://200.24.132.99:8000/play/a02a
@@ -103,19 +103,27 @@ http://200.24.132.99:8000/play/a01g
 http://200.24.132.99:8000/play/a01z
 #EXTINF:-1 tvg-id="ZonaLatina.cl" tvg-name="Zona Latina" group-title="CLARO ECUADOR",Zona Latina
 http://200.24.132.99:8000/play/a01j
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",ECTV SD
-http://200.24.132.99:8000/play/a00j
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",Ecuador TV
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="" group-title="CLARO ECUADOR",Ecuador TV
 http://200.24.132.99:8000/play/a02g
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",Ecuavisa
 http://200.24.132.99:8000/play/a02k
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",GamaTV
+#EXTINF:-1 tvg-id="Gamavision.ec" tvg-name="" tvg-chno="8"group-title="CLARO ECUADOR",Gamavision
 http://200.24.132.99:8000/play/a02h
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",Oromar SD
-http://200.24.132.99:8000/play/a02x
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",RTS
+#EXTINF:-1 tvg-id="" tvg-name="RTS.ec"tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png"  group-title="CLARO ECUADOR",RTS
 http://200.24.132.99:8000/play/a02s
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",TC Television
-http://200.24.132.99:8000/play/a00m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",Teleamazonas
-http://200.24.132.99:8000/play/a00n
+#EXTINF:-1 channel id="RTS.ec" tvg-chno="4" tvg-country="EC" tvg-language="Espa√±ol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS 
+https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
+#EXTINF:-1 channel id="Ecuavisa.ec"tvg-chno="2"tvg-country="EC" tvg-language="Espa√±ol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png" group-title="ECUADOR ",Ecuavisa
+https://youvideostreaming.club/hls/ecutv1.m3u8
+#EXTINF:-1 tvg-id="UCSG.ec" tvg-chno="42" tvg-country="EC" tvg-language="Espa√±ol" tvg-logo="https://i.imgur.com/ otOhIe8.png"group-title=="ECUADOR",UCSG (1080p)
+https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
+#EXTINF:-1 tvg-id="tvc" tvg-chno="11" tvg-country="EC" tvg-language="Espa√±ol" tvg-logo="https://www.tvc.com.ec/ wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=2.0" group-title="ECUADOR",tvc
+https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
+#EXTINF:-1 channel id="TCTV.ec"tvg-chno="10" tvg-country="EC" tvg-language="Espa√±ol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png"group-title="ECUADOR",TCTV
+https://youvideostreaming.club/hls/ecutv3.m3u8
+#EXTINF:-1 channel id="Teleamazonas.ec"tvg-chno="5" tvg-country="EC" tvg-language="Espa√±ol"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/800px-Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
+https://youvideostreaming.club/hls/ecutv4.m3u8
+#EXTINF:-1channel id="RTU.EC"tvg-chno="34" tvg-country="EC" tvg-language="Espa√±ol"tvg-logo="https://i0.wp.com/canalrtu. tv/wp-content/uploads/2022/07/rtu.png?fit=213%2C120&ssl=1g" group-title="ECUADOR",RTU (720p)
+https://streamingwowza.com:19360/rtutv/rtutv.m3u8
+#EXTINF:-1channel id="Canelatv.ec "tvg-chno="24" tvg-country="EC" tvg-language="Espa√±ol"tvg-logo="https://www.tvdeecuador.com/wp-content/uploads/2019/05/canelaTv.gif" group-title="ECUADOR",Canelatv
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
