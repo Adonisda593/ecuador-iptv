@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://iptv.programadorx.cl/epg/gratis/abril/guide.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv.programadorx.cl/epg/gratis/abril/guide.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ECUADOR",ESPN
 http://181.176.148.142:8000/play/a02d
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ECUADOR",ESPN 2
@@ -48,8 +48,6 @@ http://190.61.102.67:31589/play/a01s/index.m3u8
 #EXTINF: http://bgapp.live/play/zufree-333.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3085
 #EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX SD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/46442/s46442_h3_aa.png? w=55" group-title="MÉXICO",FX Mex HD
 http://190.61.102.67:31589/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkChile.us""tvg-chno="55" tvg-name="Cartoon Network Chile" group-title="CLARO ECUADOR",Cartoon Network
-http://200.24.132.99:8000/play/a01m
 #EXTINF:-1 tvg-id="CanalSony.mx(m3u4u)" tvg-name="Sony Channel SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png ?w=55" group-title="MÉXICO",Sony mx
 http://190.61.102.67:31589/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="AandE.mx(m3u4u)" tvg-name="A&E SD" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18955/s10035_h3_aa. png?w=55" group-title="MÉXICO",A&E
@@ -66,7 +64,7 @@ http://190.61.102.67:31589/play/a00g/index.m3u8
 http://181.78.6.57:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.us" tvg-name="Cartoon Network México"tvg-language="Spanish" group-title="DISH MX",CARTOON NETWORK
 http://187.247.148.24:9981/stream/channelid/1538910214?profile=pass
-#EXTINF:-1 tvg-language="Español" grupo-título="DISH MX 2",CartoonNetwork
+#EXTINF:-1 tvg-language="Español" grupo-título="DISH MX 2",Cartoon Network
 http://76.128.24.147:9981/stream/channelid/1109801495?profile=pass
 #EXTINF:-1 grupo-título="MOVISTAR+",DISNEY CH HD
 http://46.6.2.234:9981/stream/channelid/676019962?profile=pass
@@ -74,7 +72,7 @@ http://46.6.2.234:9981/stream/channelid/676019962?profile=pass
 http://45.5.119.202:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="nick.co" tvg-name="Nick" tvg-language="Spanish" group-title="CLARO CA",Nickelodeon
 http://45.5.119.202:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" tvg-name="Star Channel SD" tvg-language="Spanish" group-title="CLARO CA",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" tvg-name="Star Channel SD" tvg-language="Spanish" group-title="CLARO CA",STAR CHANNEL
 http://45.5.119.202:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="StarSeries.mx(m3u4u)" tvg-name="Estrella Series (SUB)" group-title="CLARO CA",STAR SERIES HD
 http://45.5.119.202:8000/play/a027/index.m3u8
