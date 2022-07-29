@@ -140,3 +140,27 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w732142691.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="CINE",retro plus3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="HistoryLatinoamerica.us" tvg-name="History Latinoamérica" group-title="CLARO ECUADOR",History Channel
+http://200.24.132.99:8000/play/a01e
+#EXTINF:-1 tvg-id="Historia2Latinoamerica.us" tvg-name="History 2 Latinoamérica" ??group-title="DISH MX",HISTORIA 2
+http://187.247.148.24:9981/stream/channelid/356159247?profile=pass
+#EXTINF:-1 tvg-id="FXChile.us" tvg-name="FX Chile" group-title="CLARO ECUADOR",FX
+http://200.24.132.99:8000/play/a02r
+#EXTINF:-1 tvg-id="FXMChile.us" tvg-name="FXM Chile" group-title="CLARO ECUADOR",FX Movies
+http://200.24.132.99:8000/play/a01t
+#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO (AR/CL/CO)" group-title="CLARO ECUADOR",HBO
+http://45.71.185.142:8500/play/a02v
+#EXTINF:-1 tvg-id="hbo2.cl" tvg-name=HBO 2 (AR/CL/CO)"" group-title="CLARO ECUADOR",HBO 2
+http://45.71.185.142:8500/play/a00z
+#EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us" tvg-name="HBO Family Latinoamérica" group-title="CLARO ECUADOR",HBO Family
+http://45.71.185.142:8500/play/a012
+#EXTINF:-1 tvg-id="hboplus.la" tvg-name="HBO Plus Este" group-title="CLARO ECUADOR",HBO Plus
+http://45.71.185.142:8500/play/a010
+#EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us" tvg-name="HBO Xtreme Latinoamérica" group-title="CLARO ECUADOR",HBO XTREME SD
+http://45.71.185.142:8500/play/a011
+#EXTINF:-1 tvg-id="StarChannelChile.us" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",STAR CHANNEL
+http://45.71.185.142:8500/play/a00c
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="Warner Channel Panregional" group-title="CLARO ECUADOR",Warner Channel
+http://200.24.132.99:8000/play/a01z
+#EXTINF:-1 tvg-id="DisneyChannelSur.us" tvg-name="Disney Channel Sur" group-title="CLARO ECUADOR",Disney Channel
+http://200.24.132.99:8000/play/a01w
