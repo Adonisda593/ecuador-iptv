@@ -100,7 +100,7 @@ http://45.5.119.202:8000/play/a026/index.m3u8
 http://76.128.24.147:9981/stream/channelid/2134923602?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="7" group-title="CLARO ECUADOR",Ecuador TV
 http://200.24.132.99:8000/play/a02g
-#EXTINF:-1 tvg-id="" tvg-name=""tvg-chno="8"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"group-title="CLARO ECUADOR",GamaTV
+#EXTINF:-1 tvg-id="Gamavision.ec" tvg-name=""tvg-chno="8"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"group-title="CLARO ECUADOR",Gamavision
 http://200.24.132.99:8000/play/a02h
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INTER PERU",H&H
 http://181.176.148.142:8000/play/a02l
@@ -132,10 +132,6 @@ http://200.24.132.99:8000/play/a02o
 http://200.24.132.99:8000/play/a02x
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",RTS
 http://200.24.132.99:8000/play/a02s
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",TC Television
-http://200.24.132.99:8000/play/a00m
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CLARO ECUADOR",Teleamazonas
-http://200.24.132.99:8000/play/a00n
 #EXTINF:-1 tvg-id="SpaceSur.ar" tvg-name="Space Sur" group-title="CLARO ECUADOR",Space
 http://200.24.132.99:8000/play/a02q
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="CINE",retro plus1
