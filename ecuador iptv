@@ -38,13 +38,13 @@ http://181.176.148.142:8000/play/a02h
 http://181.176.148.142:8000/play/a02i
 #EXTINF:-1 tvg-id="TNTMexico.mx" tvg-name="TNT México" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19384/s71148_h3_aa.png? w=55" group-title="MÉXICO",TNT México
 http://190.61.102.67:31589/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="Space SD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60801/s16499_h3_aa.png? w=55" group-title="MÉXICO",Espacio MX
+#EXTINF:-1 tvg-id="Space.mx(m3u4u)" tvg-name="Space SD" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60801/s16499_h3_aa.png? w=55" group-title="MÉXICO",Espacio MX
 http://190.61.102.67:31589/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="Cinecanal (SUB)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16435/s105609_h3_aa. png?w=55" group-title="MÉXICO",Cinecanal MX
+#EXTINF:-1 tvg-id="Cinecanal.mx(m3u4u)" tvg-name="Cinecanal (SUB)" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16435/s105609_h3_aa. png?w=55" group-title="MÉXICO",Cinecanal MX
 http://190.61.102.67:31589/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.mx(m3u4u)" tvg-name="Paramount Network" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91029/s91029_h3_aa.png? w=55" group-title="MÉXICO",Paramount Network
 http://190.61.102.67:31589/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="FXMovies.mx(m3u4u)" tvg-name="FXMovies (SUB)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19787/s25069_h3_aa. png?w=55" group-title="MÉXICO",FXMovies
+#EXTINF:-1 tvg-id="FXMovies.mx(m3u4u)" tvg-name="FXMovies (SUB)" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19787/s25069_h3_aa. png?w=55" group-title="MÉXICO",FXMovies
 #EXTINF: http://bgapp.live/play/zufree-333.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3085
 #EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX SD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/46442/s46442_h3_aa.png? w=55" group-title="MÉXICO",FX Mex HD
 http://190.61.102.67:31589/play/a05z/index.m3u8
@@ -52,7 +52,7 @@ http://190.61.102.67:31589/play/a05z/index.m3u8
 http://200.24.132.99:8000/play/a01m
 #EXTINF:-1 tvg-id="CanalSony.mx(m3u4u)" tvg-name="Sony Channel SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png ?w=55" group-title="MÉXICO",Sony mx
 http://190.61.102.67:31589/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="AandE.mx(m3u4u)" tvg-name="A&E SD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18955/s10035_h3_aa. png?w=55" group-title="MÉXICO",A&E
+#EXTINF:-1 tvg-id="AandE.mx(m3u4u)" tvg-name="A&E SD" tvg-language="Español" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18955/s10035_h3_aa. png?w=55" group-title="MÉXICO",A&E
 http://190.61.102.67:31589/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx(m3u4u)" tvg-name="Universal SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16799/s53218_h3_aa.png? w=55" group-title="MÉXICO",Universal
 http://190.61.102.67:31589/play/a03d/index.m3u8
@@ -60,27 +60,17 @@ http://190.61.102.67:31589/play/a03d/index.m3u8
 http://190.61.102.67:31589/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Historial.mx(m3u4u)" tvg-name="Historial SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40137/s40137_h3_aa.png? w=55" group-title="MÉXICO",Historia mx
 http://190.61.102.67:31589/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="Las Estrellas (HD)" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas .png" group-title="MEXICO",las estrellas MX
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" tvg-name="Las Estrellas (HD)" tvg-language="Español"tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas .png" group-title="MEXICO",las estrellas MX
 http://190.61.102.67:31589/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Cartoon Network (Colombia)" group-title="CLARO COLOMBIA",Cartoon Network
+#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Cartoon Network (Colombia)"tvg-language="Español" group-title="CLARO COLOMBIA",Cartoon Network
 http://181.78.6.57:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.us" tvg-name="Cartoon Network México"tvg-language="Spanish" group-title="DISH MX",CARTOON NETWORK
 http://187.247.148.24:9981/stream/channelid/1538910214?profile=pass
-#EXTINF:-1 grupo-título="DISH MX 2",CartoonNetwork
+#EXTINF:-1 tvg-language="Español" grupo-título="DISH MX 2",CartoonNetwork
 http://76.128.24.147:9981/stream/channelid/1109801495?profile=pass
-#EXTINF:-1 group-title="DISH MX 2",COMEDY CENTRAL
-http://76.128.24.147:9981/stream/channelid/1354419980?profile=pass
-#EXTINF:-1 group-title="DISH MX 2",E!
-http://76.128.24.147:9981/stream/channelid/499653289?profile=pass
 #EXTINF:-1 grupo-título="MOVISTAR+",DISNEY CH HD
 http://46.6.2.234:9981/stream/channelid/676019962?profile=pass
-#EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL" group-title="ESPANA2",GOL
-http://admin:admin@185.4.34.93:9981/stream/channelid/1957377570?profile=pass
-#EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL" group-title="ESPANA2",GOL 2
-http://212.230.117.159:10100/play/ES_gol_sd/index.m3u8
-#EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL" group-title="ESPANA2",GOL 3
-http://46.6.2.234:9981/stream/channelid/447306776?profile=pass
-#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="Disney Channel (Colombia)" group-title="CLARO CA",Disney
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="Disney Channel (Colombia)" tvg-language="Spanish" group-title="CLARO CA",Disney
 http://45.5.119.202:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="nick.co" tvg-name="Nick" tvg-language="Spanish" group-title="CLARO CA",Nickelodeon
 http://45.5.119.202:8000/play/a01k/index.m3u8
@@ -94,7 +84,7 @@ http://45.5.119.202:8000/play/a00r/index.m3u8
 http://45.5.119.202:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="foxfamily.la" tvg-name="FOX Family (Latino)" tvg-language="Spanish" group-title="CLARO CA",STAR FUN HD
 http://45.5.119.202:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="StarHits.us" tvg-name="Star Hits" group-title="CLARO CA",STAR HITS HD
+#EXTINF:-1 tvg-id="StarHits.us" tvg-name="Star Hits" tvg-language="Spanish" group-title="CLARO CA",STAR HITS HD
 http://45.5.119.202:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="CA HD",Home Garden Latino
 http://76.128.24.147:9981/stream/channelid/2134923602?profile=pass
@@ -102,7 +92,7 @@ http://76.128.24.147:9981/stream/channelid/2134923602?profile=pass
 http://200.24.132.99:8000/play/a02g
 #EXTINF:-1 tvg-id="Gamavision.ec" tvg-name=""tvg-chno="8"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"group-title="CLARO ECUADOR",Gamavision
 http://200.24.132.99:8000/play/a02h
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INTER PERU",H&H
+#EXTINF:-1 tvg-id="discoveryhomehealth.co" tvg-name="" tvg-chno="4" group-title="INTER PERU",discovery H&H
 http://181.176.148.142:8000/play/a02l
 #EXTINF:-1 tvg-id="LOVE NATURE" tvg-name="" group-title="INTER PERU",LOVE NATURE
 http://181.176.148.142:8000/play/a02q
@@ -152,17 +142,17 @@ http://200.24.132.99:8000/play/a01t
 http://45.71.185.142:8500/play/a02v
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-name=HBO 2 (AR/CL/CO)"" group-title="CLARO ECUADOR",HBO 2
 http://45.71.185.142:8500/play/a00z
-#EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us" tvg-name="HBO Family Latinoamérica" group-title="CLARO ECUADOR",HBO Family
+#EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us"tvg-language="Español" tvg-name="HBO Family Latinoamérica" group-title="CLARO ECUADOR",HBO Family
 http://45.71.185.142:8500/play/a012
-#EXTINF:-1 tvg-id="hboplus.la" tvg-name="HBO Plus Este" group-title="CLARO ECUADOR",HBO Plus
+#EXTINF:-1 tvg-id="hboplus.la" tvg-name="HBO Plus Este" tvg-language="Español" group-title="CLARO ECUADOR",HBO Plus
 http://45.71.185.142:8500/play/a010
-#EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us" tvg-name="HBO Xtreme Latinoamérica" group-title="CLARO ECUADOR",HBO XTREME SD
+#EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us" tvg-language="Español" tvg-name="HBO Xtreme Latinoamérica" group-title="CLARO ECUADOR",HBO XTREME SD
 http://45.71.185.142:8500/play/a011
-#EXTINF:-1 tvg-id="StarChannelChile.us" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",STAR CHANNEL
+#EXTINF:-1 tvg-id="StarChannelChile.us" tvg-language="Español" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",STAR CHANNEL
 http://45.71.185.142:8500/play/a00c
-#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="Warner Channel Panregional" group-title="CLARO ECUADOR",Warner Channel
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us"tvg-language="Español" tvg-name="Warner Channel Panregional" group-title="CLARO ECUADOR",Warner Channel
 http://200.24.132.99:8000/play/a01z
-#EXTINF:-1 tvg-id="DisneyChannelSur.us" tvg-name="Disney Channel Sur" group-title="CLARO ECUADOR",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannelSur.us" tvg-language="Español" tvg-name="Disney Channel Sur" group-title="CLARO ECUADOR",Disney Channel
 http://200.24.132.99:8000/play/a01w
-#EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV * | CL
+#EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV 
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
