@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://iptv.programadorx.cl/epg/gratis/abril/guide.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ECUADOR",ESPN
 http://181.176.148.142:8000/play/a02d
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IECUADOR",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ECUADOR",ESPN 2
 http://181.176.148.142:8000/play/a02e
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ECUADOR",ESPN 3
 http://181.176.148.142:8000/play/a02f
@@ -114,7 +114,7 @@ http://181.176.148.142:8000/play/a02s
 https://d6op0qag07k4o.cloudfront.net/hls/rts_480.m3u8
 #EXTINF:-1 channel id="Ecuavisa.ec"tvg-chno="2"tvg-country="EC" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png" group-title="ECUADOR ",Ecuavisa
 https://youvideostreaming.club/hls/ecutv1.m3u8
-#EXTINF:-1 tvg-id="UCSG.ec" tvg-chno="42" tvg-country="EC" tvg-language="Español" tvg-logo="https://i.imgur.com/ otOhIe8.png"group-title=="ECUADOR",UCSG (1080p)
+#EXTINF:-1 tvg-id="UCSG.ec" tvg-chno="42" tvg-country="EC" tvg-language="Español" tvg-logo="https://i.imgur.com/ otOhIe8.png"group-title="ECUADOR",UCSG (1080p)
 https://ecuastream.net:19360/ucsghd/ucsghd.m3u8
 #EXTINF:-1 tvg-id="tvc" tvg-chno="11" tvg-country="EC" tvg-language="Español" tvg-logo="https://www.tvc.com.ec/ wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png?ver=2.0" group-title="ECUADOR",tvc
 https://d6op0qag07k4o.cloudfront.net/hls/tvc_480.m3u8
