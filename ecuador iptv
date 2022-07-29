@@ -48,7 +48,7 @@ http://190.61.102.67:31589/play/a01s/index.m3u8
 #EXTINF: http://bgapp.live/play/zufree-333.php?blck=dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dg&c=3085
 #EXTINF:-1 tvg-id="FX.mx(m3u4u)" tvg-name="FX SD" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/46442/s46442_h3_aa.png? w=55" group-title="MÉXICO",FX Mex HD
 http://190.61.102.67:31589/play/a05z/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkChile.us" tvg-name="Cartoon Network Chile" group-title="CLARO ECUADOR",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetworkChile.us""tvg-chno="55" tvg-name="Cartoon Network Chile" group-title="CLARO ECUADOR",Cartoon Network
 http://200.24.132.99:8000/play/a01m
 #EXTINF:-1 tvg-id="CanalSony.mx(m3u4u)" tvg-name="Sony Channel SD" tvg-language="Spanish" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19385/s19385_h3_aa.png ?w=55" group-title="MÉXICO",Sony mx
 http://190.61.102.67:31589/play/a002/index.m3u8
