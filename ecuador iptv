@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv.programadorx.cl/epg/gratis/abril/guide.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
+
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-country="MX" group-title="ECUADOR",ESPN
 http://181.176.148.142:8000/play/a02d
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-country="MX"  group-title="ECUADOR",ESPN 2
