@@ -29,7 +29,7 @@ http://190.61.102.67:31589/play/a03n/index.m3u8
 http://190.61.102.67:31589/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us(m3u4u)" tvg-name="Bein Ñ SD"   tvg-country="ES" audio-track="spa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ being_sports_en_espanol.png" group-title="MEXICO",Bein Ñ
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8?
-#EXTINF:-1 tvg-id="GolTV.us" tvg-name="Gol TV"  tvg-country="EC"group-title="CLARO ECUADOR",GOL TV
+#EXTINF:-1 tvg-id="GolTV.us" tvg-name="Gol TV"  tvg-country="US" group-title="CLARO ECUADOR",GOL TV
 http://200.24.132.99:8000/play/a023
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR"group-title="INTER PERU",FOX SPORTS 2
 http://181.176.148.142:8000/play/a02h
@@ -117,25 +117,25 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w732142691.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" group-title="CINE",retro plus3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-chno="1442" tvg-name="Historia Latinoamérica" group-title="ECUADOR",History
+#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-chno="1442" tvg-name="Historia Latinoamérica" tvg-country="US" group-title="ECUADOR",History
 http://138.36.253.14:8010/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="FXChile.cl" tvg-name="FX Chile" tvg-country="CL"group-title="CLARO ECUADOR",FX
+#EXTINF:-1 tvg-id="FXChile.cl" tvg-name="FX Chile" tvg-country="LA"group-title="CLARO ECUADOR",FX
 http://200.24.132.99:8000/play/a02r
-#EXTINF:-1 tvg-id="FXMChile.cl" tvg-name="FXM Chile" tvg-country="CL"group-title="CLARO ECUADOR",FX Movies
+#EXTINF:-1 tvg-id="FXMChile.cl" tvg-name="FXM Chile" tvg-country="LA"group-title="CLARO ECUADOR",FX Movies
 http://200.24.132.99:8000/play/a01t
-#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO (AR/CL/CO)"tvg-country="CO" group-title="CLARO ECUADOR",HBO
+#EXTINF:-1 tvg-id="hbo.la" tvg-name="HBO (AR/CL/CO)"tvg-country="LA" group-title="CLARO ECUADOR",HBO
 http://45.71.185.142:8500/play/a02v
 #EXTINF:-1 tvg-id="hbo2.cl" tvg-name=" HBO 2 (AR/CL/CO)" tvg-country="CO" group-title="CLARO ECUADOR",HBO 2
 http://45.71.185.142:8500/play/a00z
-#EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us" audio-track="spa" tvg-country="CO"tvg-name="HBO Family Latinoamérica" group-title="CLARO ECUADOR",HBO Family
+#EXTINF:-1 tvg-id="HBOFamilyLatinoamerica.us" audio-track="spa" tvg-country="CO"tvg-name="HBO Family Latinoamérica" tvg-country="LA"group-title="CLARO ECUADOR",HBO Family
 http://45.71.185.142:8500/play/a012
-#EXTINF:-1 tvg-id="hboplus.la" tvg-name="HBO Plus Este" tvg-country="EC"  audio-track="spa" group-title="CLARO ECUADOR",HBO Plus
+#EXTINF:-1 tvg-id="hboplus.la" tvg-name="HBO Plus Este" tvg-country="LA"  audio-track="spa" group-title="CLARO ECUADOR",HBO Plus
 http://45.71.185.142:8500/play/a010
-#EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us"audio-track="spa" tvg-country="EC"tvg-name="HBO Xtreme Latinoamérica" group-title="CLARO ECUADOR",HBO XTREME SD
+#EXTINF:-1 tvg-id="HBOXtremeLatinoamerica.us"audio-track="spa" tvg-country="LA"tvg-name="HBO Xtreme Latinoamérica" group-title="CLARO ECUADOR",HBO XTREME SD
 http://45.71.185.142:8500/play/a011
-#EXTINF:-1 tvg-id="StarChannelColombia.co" audio-track="spa" tvg-country="EC" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",Star Channel
+#EXTINF:-1 tvg-id="StarChannelColombia.co" audio-track="spa" tvg-country="LA" tvg-name="Star Channel Chile" group-title="CLARO ECUADOR",Star Channel
 http://45.71.185.142:8500/play/a00c
-#EXTINF:-1 tvg-id="DisneyChannelSur.us"audio-track="spa" tvg-country="EC" tvg-name="Disney Channel Sur" group-title="CLARO ECUADOR",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannelSur.us"audio-track="spa" tvg-country="LA" tvg-name="Disney Channel Sur" group-title="CLARO ECUADOR",Disney Channel
 http://200.24.132.99:8000/play/a01w
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV 
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
