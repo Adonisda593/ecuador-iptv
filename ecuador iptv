@@ -51,7 +51,7 @@ http://190.61.102.67:31589/play/a002/index.m3u8
 http://190.61.102.67:31589/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx(m3u4u)" tvg-name="Universal SD"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16799/s53218_h3_aa.png? w=55" group-title="MÉXICO",Universal
 http://190.61.102.67:31589/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="WarnerChannel.mx(m3u4u)" tvg-name="Warner SD"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16213/s16213_h3_aa.png? w=55" group-title="MÉXICO",Warner
+#EXTINF:-1 tvg-id="WarnerChannel.mx(m3u4u)" tvg-name="Warner"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16213/s16213_h3_aa.png? w=55" group-title="MÉXICO",>Warner
 http://190.61.102.67:31589/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="History.mx(m3u4u) tvg-name="Historial SD"  audio-track="spa"  tvg-country="MX" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/40137/s40137_h3_aa.png? w=55" group-title="MÉXICO",History
 http://190.61.102.67:31589/play/a017/index.m3u8
