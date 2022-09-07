@@ -1,27 +1,29 @@
 #EXTM3U
+#EXTINF:-1 xui-id="151325" tvg-id="" tvg-name="Infantil: Boin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="INFANTILES⭐",Infantil: Boin
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30rJKSjJJ5V9xS-bHToOeuXg/ts
 #EXTINF:-1 xui-id="151340" tvg-id="" tvg-name="Nick" tvg-logo="https://fanc.tmsimg.com/assets/s16707_ll_h3_aa.png" group-title="INFANTILES⭐",NICK HD (NickHD)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30rfPP3lFjRl-05odeoX2R-S/ts
-#EXTINF:-1 xui-id="151341" tvg-id="" tvg-name="Nick 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTILES⭐",Nick 2 (CO)
+#EXTINF:-1 xui-id="151341" tvg-id="" tvg-name="Nick 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTILES⭐",Nick 2 (CO)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30ow2A4LPTEsdcqCPEq3VSX-/ts
-#EXTINF:-1 xui-id="151343" tvg-id="" tvg-name=" Nick ",co tvg-logo="https://fanc.tmsimg.com/assets/s16707_ll_h3_aa.png" group-title="INFANTILES⭐",NICKELODEON (Nickelodeon)
+#EXTINF:-1 xui-id="151343" tvg-id="" tvg-name="Nick" tvg-logo="https://fanc.tmsimg.com/assets/s16707_ll_h3_aa.png" group-title="INFANTILES⭐",NICKELODEON (Nickelodeon)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30ppy0M016oAF8JPK8xJ6pjS/ts
 #EXTINF:-1 xui-id="151344" tvg-id="" tvg-name="Nicktoons" tvg-logo="https://fanc.tmsimg.com/assets/s97047_ll_h3_aa.png" group-title="INFANTILES⭐",Nicktoons
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pNvmL0t7kJV5aBvsOgFaz3/ts
-#EXTINF:-1 xui-id="151328" tvg-id="" tvg-name=" Boomerang ",mx tvg-logo="http://nishbest.tk:8080/images/e1390ed0c91a6ae0a62d861460f7f469.png" group-title="INFANTILES⭐",Boomerang (Mexico) (BOOM)
+#EXTINF:-1 xui-id="151328" tvg-id="" tvg-name="Boomerang" tvg-logo="http://nishbest.tk:8080/images/e1390ed0c91a6ae0a62d861460f7f469.png" group-title="INFANTILES⭐",Boomerang (Mexico) (BOOM)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30qRZd8JRvCfBlfIsYmUJP3Q/ts
-#EXTINF:-1 xui-id="151329" tvg-id="CNMX" tvg-name=" Cartoon Network ",mx tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cartoon-network.png" group-title="INFANTILES⭐",Cartoon Network (Latin America - Mexico) (TOON)
+#EXTINF:-1 xui-id="151329" tvg-id="CNMX" tvg-name=" Cartoon Network " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cartoon-network.png" group-title="INFANTILES⭐",Cartoon Network (Latin America - Mexico) (TOON)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30rSjA38aFntwwIlevwp5QMr/ts
-#EXTINF:-1 xui-id="151330" tvg-id="CNCO" tvg-name=" Cartoon Network ",co tvg-logo="http://vip.hispanotv.org:80/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjkXM7gPfTOqdO7ZQIDFq9ET90i0pnIVfr7aqO53dwz9E.png" group-title="INFANTILES⭐",Cartoon Network (Latin America - Panregional) HDTV (TOONHD)
+#EXTINF:-1 xui-id="151330" tvg-id="CNCO" tvg-name="Cartoon Network" tvg-logo="http://vip.hispanotv.org:80/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjkXM7gPfTOqdO7ZQIDFq9ET90i0pnIVfr7aqO53dwz9E.png" group-title="INFANTILES⭐",Cartoon Network (Latin America - Panregional) HDTV (TOONHD)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30ppeRUWj41tfir7MJsUbwSs/ts
 #EXTINF:-1 xui-id="151332" tvg-id="" tvg-name=" Tooncast (MX)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tooncast_m.png" group-title="INFANTILES⭐",Tooncast (MX)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pH04H2E-63PsnE217ioDwp/ts
-#EXTINF:-1 xui-id="151333" tvg-id="" tvg-name=" Tooncast " tvg-logo="https://cdn.mitvstatic.com/channels/cl_tooncast_m.png" group-title="INFANTILES⭐",TOONCAST (Tooncast)
+#EXTINF:-1 xui-id="151333" tvg-id="" tvg-name="Tooncast" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tooncast_m.png" group-title="INFANTILES⭐",TOONCAST (Tooncast)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30o-LDzM7-tWOxYEduI8KsDI/ts
-#EXTINF:-1 xui-id="151336" tvg-id="" tvg-name=" Disney Channel ",mx tvg-logo="http://vip.hispanotv.org:80/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7TNswmSYKVXZvX-NGOIBwcWGaq-xxp4_zrLHzxUgQ_xCzjz75sVJlVpkp6QSBbrm_4.png" group-title="INFANTILES⭐",Disney Channel Full HD (MX)
+#EXTINF:-1 xui-id="151336" tvg-id="" tvg-name=" Disney Channel " tvg-logo="http://vip.hispanotv.org:80/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7TNswmSYKVXZvX-NGOIBwcWGaq-xxp4_zrLHzxUgQ_xCzjz75sVJlVpkp6QSBbrm_4.png" group-title="INFANTILES⭐",Disney Channel Full HD (MX)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30o0NHA6POJi324wgxqs_sTH/ts
-#EXTINF:-1 xui-id="151337" tvg-id="" tvg-name=" Disney Channel ",co tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png" group-title="INFANTILES⭐",DISNEY CHANNEL HD (DisneyHD)
+#EXTINF:-1 xui-id="151337" tvg-id="" tvg-name=" Disney Channel " tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png" group-title="INFANTILES⭐",DISNEY CHANNEL HD (DisneyHD)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pJ_MDXlYFsQvyjEQkPjysy/ts
-#EXTINF:-1 xui-id="85835" tvg-id="" tvg-name=" A&E " , co tvg-logo="https://www.ushuaiavision.com.ar/images/canales/aye.png" group-title="CINE Y SERIES ⭐", A&amp;E (A&amp;E)
+#EXTINF:-1 xui-id="85835" tvg-id="" tvg-name=" A&E " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/aye.png" group-title="CINE Y SERIES ⭐", A&E (A&E)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsS2d1lX7YlezQGCEqcdSa1M/ts
 #EXTINF:-1 xui-id="85836" tvg-id="" tvg-name=" A&E " tvg-logo="http://vip.hispanotv.org:80/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjX5x84JY6cBD9kpLIVWaH_g.png" group-title="CINE Y SERIES ⭐",A&amp;E (A&amp;E)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsS-Fv7usLr5923kmgeNlCzb/ts
@@ -63,44 +65,14 @@ http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsS6z-e1
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsTcwP8x22vuJWFLevPwfVYe/ts
 #EXTINF:-1 xui-id="85876" tvg-id="GLDENM" tvg-name=" Golden ©" tvg-logo="https://hosting.photobucket.com/images/nn175/DJCATRACHO_01/496px-Logo_Golden_TV.svg.png" group-title="CINE Y SERIES ⭐",Golden 
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsRfF_CZj51Thdwd72L5d7C5/ts
-#EXTINF:-1 xui-id="85883" tvg-id="" tvg-name=" HBO 2 HD" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/hbo_2.png" group-title="CINE Y SERIES ⭐",HBO 2 (Panamerican) (HBO 2)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsTvSyywDN9mAqr4dP1-SMeo/ts
-#EXTINF:-1 xui-id="85885" tvg-id="HBOHDA" tvg-name=" HBO Family HD ©" tvg-logo="http://vip.hispanotv.org:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZMijUI3Vq7EhdgAO6rVEglwlVqvyrQE3YxOfIeVjfzXQ.png" group-title="CINE Y SERIES ⭐",HBO Family (Spanish) (HBOFAM)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsTTHpmaSwiJr6o7fNoB0SWE/ts
-#EXTINF:-1 xui-id="85881" tvg-id="" tvg-name=" HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE Y SERIES ⭐",HBO Latin America HDTV (East) (HBOHD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsSUaRX6pmTaOL3BYIQODRng/ts
-#EXTINF:-1 xui-id="85891" tvg-id="" tvg-name=" HBO Mundi CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CINE Y SERIES ⭐",HBO MUNDI (HBO Mundi)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsRFwvdm-D7OJgJ4jjhlhycR/ts
-#EXTINF:-1 xui-id="85887" tvg-id="HBODA" tvg-name=" HBO Plus HD ©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/hbo_plus.png" group-title="CINE Y SERIES ⭐",HBO Plus (Panamericano) (HBO+)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsQhkKS2c50wzIznn-e2Hg9A/ts
-#EXTINF:-1 xui-id="85892" tvg-id="POPAM" tvg-name=" HBO Pop" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" group-title="CINE Y SERIES ⭐",HBO POP HDTV (Panamerican) (HBOPOP)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsQdScQ64HicEiORN-LC30Gm/ts
-#EXTINF:-1 xui-id="85888" tvg-id="HBOSIG" tvg-name=" HBO Signature" tvg-logo="http://vip.hispanotv.org:80/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqAkruDZ-MoxlkktbiFjDpNr56t1uuGW72yTw-yXSh4fuQ.png" group-title="CINE Y SERIES ⭐",HBO Signature HDTV (Panamerican) (HBOSGHD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsSWL3Lsa2Ot9Aprfan9HSxR/ts
-#EXTINF:-1 xui-id="85893" tvg-id="HBOXLAM" tvg-name=" HBO Xtreme" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="CINE Y SERIES ⭐",HBO Xtreme HDTV (Panamericano) (HBOXTR)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsTluEUvYXLXc1bN8HoFf0SC/ts
 #EXTINF:-1 xui-id="85913" tvg-id="" tvg-name=" ISat" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/isat.png" group-title="CINE Y SERIES ⭐",ISat
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_xWh1fl40DHokOiFwpEgX9u/ts
-#EXTINF:-1 xui-id="86076" tvg-id="" tvg-name=" Panico HD" tvg-logo="" group-title="24/7 - Peliculas", Panico HD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWmBvK6zQTGARohVAT5adq308PbdoO3653BZuzrz9J4kL/ts
 #EXTINF:-1 xui-id="85896" tvg-id="" tvg-name=" Paramount Channel (MX)" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png" group-title="CINE Y SERIES ⭐",Paramount Channel (Paramount HD)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsQSswt7MUuJqs0lloZpxT1C/ts
 #EXTINF:-1 xui-id="85897" tvg-id="" tvg-name=" Sony (CO) ©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/sony.png" group-title="CINE Y SERIES ⭐",Sony Entertainment Television (Andes feed) (SONY)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsSv1ilM7KcoPBDXXEsAwVBf/ts
 #EXTINF:-1 xui-id="85898" tvg-id="SONYM" tvg-name=" Sony MX" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/sony.png" group-title="CINE Y SERIES ⭐",Sony MX
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsRz24MrX2-wo7fmjYOOSpYX/ts
-#EXTINF:-1 xui-id="151827" tvg-id="" tvg-name="CINE Y TV : STAR CHANNEL" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CINE Y SERIES ⭐",STAR CHANNEL (STAR Channel)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pR22u-QPsVN5HN6O_tfvOQ/ts
-#EXTINF:-1 xui-id="189031" tvg-id="" tvg-name="01 | STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANALES PREMIUM UHD ⭐",STAR CHANNEL (STAR Channel)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6bQlhRNDmI4DhVNg4Ym0k10/ts
-#EXTINF:-1 xui-id="189032" tvg-id="" tvg-name="02 | STAR ACTION UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="CANALES PREMIUM UHD ⭐",Star Premium Action (East) (STARAC)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6YvN4L6itn5wZHIUNh0l59g/ts
-#EXTINF:-1 xui-id="189033" tvg-id="" tvg-name="03 | STAR CHANNEL UHD" tvg-logo="https://archive.org/download/star-channel-logo-21915a5369-seeklogo.com_202206/star-channel-logo-21915A5369-seeklogo.com.png" group-title="CANALES PREMIUM UHD ⭐",STAR CHANNEL (STAR Channel)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6Z9qn49nAPqI3TXQqoFDdyE/ts
-#EXTINF:-1 xui-id="189034" tvg-id="" tvg-name="04 | STAR COMEDY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/800px-Star_Comedy_2020.svg.png" group-title="CANALES PREMIUM UHD ⭐",Star Premium Comedy HDTV (STRCHD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6bVxDBLye9vHwHkNEJ1qFgK/ts
-#EXTINF:-1 xui-id="189035" tvg-id="" tvg-name="05 | STAR FAMILY UHD" tvg-logo="https://archive.org/download/star_20220607/star.jpg" group-title="CANALES PREMIUM UHD ⭐",Fox Premium Family (West) (FOXFAM)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6Yfo2nh3HMMeGztGKbyTJEU/ts
 #EXTINF:-1 xui-id="189037" tvg-id="" tvg-name="07 | ATRESERIES UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Atreseries.png/494px-Atreseries.png" group-title="CANALES PREMIUM UHD ⭐",07 | ATRESERIES UHD
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6a46Pc2WIOr4JvSoIj7iUt3/ts
 #EXTINF:-1 xui-id="189038" tvg-id="" tvg-name="100 | FX MOVIES ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CANALES PREMIUM UHD ⭐",100 | FX MOVIES ®
@@ -109,12 +81,6 @@ http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6ZJrzYt
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6YNEQE5VA2ezNaxYOmuh2qU/ts
 #EXTINF:-1 xui-id="277356" tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=42" group-title="LATINOS +3Mbps",STAR CHANNEL HD
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWsxU513t3yXWhRWlVWEkr0KeIFw5dmoE0YZmkQniagyC/ts
-#EXTINF:-1 xui-id="133435" tvg-id="" tvg-name="EVENTOS STAR+ FHD" tvg-logo="https://1.bp.blogspot.com/-y-JU_MqzZAU/VVephngVeRI/AAAAAAAAkXI/EZVQXWeAf_Y/s1600/espn_plus_andina.png" group-title="EVENTOS STAR+ (SOLO ABRE EN EVENTOS)",EVENTOS STAR+ FHD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWlYr-ACDHauCEkby6-0iRqKV2s7wYx1kRPoIW0xv33jp/ts
-#EXTINF:-1 xui-id="133436" tvg-id="" tvg-name="EVENTOS STAR+ HD" tvg-logo="https://1.bp.blogspot.com/-y-JU_MqzZAU/VVephngVeRI/AAAAAAAAkXI/EZVQXWeAf_Y/s1600/espn_plus_andina.png" group-title="EVENTOS STAR+ (SOLO ABRE EN EVENTOS)",EVENTOS STAR+ HD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWlYr-ACDHauCEkby6-0iRqKJuevJEyxN94wpQCAxn5L8/ts
-#EXTINF:-1 xui-id="133437" tvg-id="" tvg-name="EVENTOS STAR+ SD" tvg-logo="https://1.bp.blogspot.com/-y-JU_MqzZAU/VVephngVeRI/AAAAAAAAkXI/EZVQXWeAf_Y/s1600/espn_plus_andina.png" group-title="EVENTOS STAR+ (SOLO ABRE EN EVENTOS)",EVENTOS STAR+ SD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWlYr-ACDHauCEkby6-0iRqLG4uCPEhnQiYOmcelBPOwP/ts
 #EXTINF:-1 xui-id="133438" tvg-id="" tvg-name="FOX SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="EVENTOS STAR+ (SOLO ABRE EN EVENTOS)",FOX SPORT PREMIUM
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWlYr-ACDHauCEkby6-0iRqIROnlutXveftRB_MhnjLVE/ts
 #EXTINF:-1 xui-id="133439" tvg-id="" tvg-name="EVENTOS STAR+ OPC" tvg-logo="https://bolavip.com/__export/1641410195175/sites/bolavip/img/2022/01/05/2torneodeverano_crop1641409716788.png_1624932088.png" group-title="EVENTOS STAR+ (SOLO ABRE EN EVENTOS)",EVENTOS STAR+ OPC
@@ -179,4 +145,41 @@ http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_yRM1QZ
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_w2_YoIl8hQC2QSR-NkX-ph/ts
 #EXTINF:-1 xui-id="85906" tvg-id="" tvg-name="TNT Series HD (CO) ©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tnt_series_hd.png" group-title="CINE Y SERIES ⭐",TNT Series (TNT Series HD)
 http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_z0K38751uYZ3zg1KzVQ0LL/ts
-
+#EXTINF:-1 xui-id="85910" tvg-id="" tvg-name=" Studio Universal MX" tvg-logo="http://vip.hispanotv.org:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjD9lqp3_L45VApuH7YAcXOcBdLE44slPjLMr6f0jhYb3JTyA6V7kC3qnOkNJ7MNcsbcHy7yQSu9dde1ZKju8b7gv5pycQGtKpl1uopjGSu9k.png" group-title="CINE Y SERIES ⭐", Studio Universal MX
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_xGbZemsSZJxBYVDtQ0l2Bw/ts
+#EXTINF:-1 xui-id="85917" tvg-id="" tvg-name=" Warner Channel (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/warner.png" group-title="CINE Y SERIES ⭐", Warner Channel (CO)
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_zJajWV4d95GTpCtbPKocdy/ts
+#EXTINF:-1 xui-id="314639" tvg-id="" tvg-name="01 | STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANALES PREMIUM UHD ⭐", STAR CHANNEL UHD
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXwC7Y3gHmQ6rhHp9bj2tPYA/ts
+#EXTINF:-1 xui-id="314640" tvg-id="" tvg-name="02 | STAR ACTION UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="CANALES PREMIUM UHD ⭐", STAR ACTION UHD
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXwXtYJUq1BNdxsepE2Ouv9I/ts
+#EXTINF:-1 xui-id="314641" tvg-id="" tvg-name="03 | STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1024px-Star_Cinema_2020.svg.png" group-title="CANALES PREMIUM UHD ⭐", STAR CHANNEL UHD
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXw8ALi6ZEzBvLiYQzqqCHhz/ts
+#EXTINF:-1 xui-id="314642" tvg-id="" tvg-name="04 | STAR COMEDY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/800px-Star_Comedy_2020.svg.png" group-title="CANALES PREMIUM UHD ⭐", STAR COMEDY UHD
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXzu3HydLJaKPU7Vf_ancceL/ts
+#EXTINF:-1 xui-id="314643" tvg-id="" tvg-name="05 | STAR FAMILY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="CANALES PREMIUM UHD ⭐",STAR FAMILY UHD
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXxk7gskglZuizCzn7GuKRIE/ts
+#EXTINF:-1 xui-id="314644" tvg-id="" tvg-name="06 | STAR MOVIE UHD" tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png" group-title="CANALES PREMIUM UHD ⭐", STAR MOVIE UHD
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXwIjqHW-i9X7_bUghg_Iyrn/ts
+#EXTINF:-1 xui-id="315057" tvg-id="" tvg-name="24/7|  Cinema Toy Story" tvg-logo="https://w7.pngwing.com/pngs/599/443/png-transparent-toy-story-logo-film-pixar-toy-story-tshirt-text-label.png" group-title="24/7 - Peliculas",24/7|  Cinema Toy Story
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWpKyOW4-GuaC-UPr8x4C3aa4eMu0EEEjI0HkMGb7VCYX/ts
+#EXTINF:-1 xui-id="315058" tvg-id="" tvg-name="24/7|  Cinema Disney Pixar" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042012/cars_2.png?itok=JXy7Blmx" group-title="24/7 - Peliculas",24/7|  Cinema Disney Pixar
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWpKyOW4-GuaC-UPr8x4C3aZvNUKGz1zBNPry_sgjwho6/ts
+#EXTINF:-1 xui-id="315092" tvg-id="" tvg-name="24/7|  Cinema Piratas del Caribe" tvg-logo="https://e7.pngegg.com/pngimages/541/540/png-clipart-disney-pirates-of-the-caribbean-pirates-of-the-caribbean-silver-logo-at-the-movies-pirates-of-the-caribbean-thumbnail.png" group-title="24/7 - Peliculas",24/7|  Cinema Piratas del Caribe
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWpKyOW4-GuaC-UPr8x4C3aZk6iwsSwU9epTckOuj1znd/ts
+#EXTINF:-1 xui-id="314372" tvg-id="" tvg-name="Futurama" tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Futurama-Logo.png" group-title="24/7 - Infantiles",Futurama
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXypGFrMn0X1NMpbu84EGuRm/ts
+#EXTINF:-1 xui-id="314369" tvg-id="" tvg-name="LOS SIMPSONS" tvg-logo="https://logos.xbots.com.mx/402.png" group-title="24/7 - Infantiles",LOS SIMPSONS
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXxQHfsY9Vd15RWTOm0vvZ7P/ts
+#EXTINF:-1 xui-id="320496" tvg-id="" tvg-name="24/7 - INFANTILES LOS SIMPSON 2" tvg-logo="https://i.pinimg.com/originals/78/7e/10/787e1079c5d6c4232700673de8649034.png" group-title="24/7 - Infantiles",24/7 - INFANTILES LOS SIMPSON 2
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWqZ45mxBp3g8tm3tDhZMNxn02vNLNx_Zyqr1Z6WGUsk3/ts
+#EXTINF:-1 xui-id="320497" tvg-id="" tvg-name="24/7 - INFANTILES LOS SIMPSON 3" tvg-logo="https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/XO2YPLQR55FH7ATMRESDPKUSZY.png" group-title="24/7 - Infantiles",24/7 - INFANTILES LOS SIMPSON 3
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWqZ45mxBp3g8tm3tDhZMNxmRZakizHmESnymWgtbVPOg/ts
+#EXTINF:-1 xui-id="314836" tvg-id="" tvg-name="24/7 PADRE DE FAMILIA SD" tvg-logo="https://www.pngmart.com/files/15/Family-Guy-Logo-PNG-Transparent-Picture.png" group-title="24/7 INGLES",24/7 | PADRE DE FAMILIA  | SD
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXxEDffi07DjazDVKxutG9bE/ts
+#EXTINF:-1 xui-id="314431" tvg-id="" tvg-name="Los padrinos mágicos" tvg-logo="http://castlempire.site:8080/images/2e2d46b05f40807cc4780bac030ea36f.jpg" group-title="24/7 - Infantiles",Los padrinos mágicos
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXze2av2BjlEQj4HE-0VoB0P/ts
+#EXTINF:-1 xui-id="314698" tvg-id="" tvg-name="61 | NICK 2 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="CANALES PREMIUM UHD ⭐",61 | NICK 2 ®
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXyEIJoLsCaEy5Q77aJFhIGX/ts
+#EXTINF:-1 xui-id="314699" tvg-id="" tvg-name="62 | NICK ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png" group-title="CANALES PREMIUM UHD ⭐",62 | NICK ®
+http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXxmCN6Tsp2avBQ53lojVlMN/ts
