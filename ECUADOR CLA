@@ -1,185 +1,242 @@
 #EXTM3U
-#EXTINF:-1 xui-id="151325" tvg-id="" tvg-name="Infantil: Boin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="INFANTILES⭐",Infantil: Boin
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30rJKSjJJ5V9xS-bHToOeuXg/ts
-#EXTINF:-1 xui-id="151340" tvg-id="" tvg-name="Nick" tvg-logo="https://fanc.tmsimg.com/assets/s16707_ll_h3_aa.png" group-title="INFANTILES⭐",NICK HD (NickHD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30rfPP3lFjRl-05odeoX2R-S/ts
-#EXTINF:-1 xui-id="151341" tvg-id="" tvg-name="Nick 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTILES⭐",Nick 2 (CO)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30ow2A4LPTEsdcqCPEq3VSX-/ts
-#EXTINF:-1 xui-id="151343" tvg-id="" tvg-name="Nick" tvg-logo="https://fanc.tmsimg.com/assets/s16707_ll_h3_aa.png" group-title="INFANTILES⭐",NICKELODEON (Nickelodeon)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30ppy0M016oAF8JPK8xJ6pjS/ts
-#EXTINF:-1 xui-id="151344" tvg-id="" tvg-name="Nicktoons" tvg-logo="https://fanc.tmsimg.com/assets/s97047_ll_h3_aa.png" group-title="INFANTILES⭐",Nicktoons
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pNvmL0t7kJV5aBvsOgFaz3/ts
-#EXTINF:-1 xui-id="151328" tvg-id="" tvg-name="Boomerang" tvg-logo="http://nishbest.tk:8080/images/e1390ed0c91a6ae0a62d861460f7f469.png" group-title="INFANTILES⭐",Boomerang (Mexico) (BOOM)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30qRZd8JRvCfBlfIsYmUJP3Q/ts
-#EXTINF:-1 xui-id="151329" tvg-id="CNMX" tvg-name=" Cartoon Network " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cartoon-network.png" group-title="INFANTILES⭐",Cartoon Network (Latin America - Mexico) (TOON)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30rSjA38aFntwwIlevwp5QMr/ts
-#EXTINF:-1 xui-id="151330" tvg-id="CNCO" tvg-name="Cartoon Network" tvg-logo="http://vip.hispanotv.org:80/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjkXM7gPfTOqdO7ZQIDFq9ET90i0pnIVfr7aqO53dwz9E.png" group-title="INFANTILES⭐",Cartoon Network (Latin America - Panregional) HDTV (TOONHD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30ppeRUWj41tfir7MJsUbwSs/ts
-#EXTINF:-1 xui-id="151332" tvg-id="" tvg-name=" Tooncast (MX)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tooncast_m.png" group-title="INFANTILES⭐",Tooncast (MX)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pH04H2E-63PsnE217ioDwp/ts
-#EXTINF:-1 xui-id="151333" tvg-id="" tvg-name="Tooncast" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tooncast_m.png" group-title="INFANTILES⭐",TOONCAST (Tooncast)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30o-LDzM7-tWOxYEduI8KsDI/ts
-#EXTINF:-1 xui-id="151336" tvg-id="" tvg-name=" Disney Channel " tvg-logo="http://vip.hispanotv.org:80/images/zKfiZc2EbAJTgBT8Q9G5p-ormWcxxYlH0z1oByaXo7TNswmSYKVXZvX-NGOIBwcWGaq-xxp4_zrLHzxUgQ_xCzjz75sVJlVpkp6QSBbrm_4.png" group-title="INFANTILES⭐",Disney Channel Full HD (MX)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30o0NHA6POJi324wgxqs_sTH/ts
-#EXTINF:-1 xui-id="151337" tvg-id="" tvg-name=" Disney Channel " tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/disney_channel-mediano.png" group-title="INFANTILES⭐",DISNEY CHANNEL HD (DisneyHD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pJ_MDXlYFsQvyjEQkPjysy/ts
-#EXTINF:-1 xui-id="85835" tvg-id="" tvg-name=" A&E " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/aye.png" group-title="CINE Y SERIES ⭐", A&E (A&E)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsS2d1lX7YlezQGCEqcdSa1M/ts
-#EXTINF:-1 xui-id="85836" tvg-id="" tvg-name=" A&E " tvg-logo="http://vip.hispanotv.org:80/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjX5x84JY6cBD9kpLIVWaH_g.png" group-title="CINE Y SERIES ⭐",A&amp;E (A&amp;E)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsS-Fv7usLr5923kmgeNlCzb/ts
-#EXTINF:-1 xui-id="85837" tvg-id="" tvg-name=" AMC " tvg-logo="https://www.ushuaiavision.com.ar/images/canales/amc.png" group-title="CINE Y SERIES ⭐",AMC HD (AMC HD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsQ8N9VJWOLUbpaRVFHDNTN2/ts
-#EXTINF:-1 xui-id="85838" tvg-id="" tvg-name=" AMC MX" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/amc.png" group-title="CINE Y SERIES ⭐",AMC (AMC Col IPTV)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsSglTIATxk_quB8Rzmrir95/ts
-#EXTINF:-1 xui-id="85841" tvg-id="" tvg-name=" AXN (MX)" tvg-logo="http://vip.hispanotv.org:80/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjLfHVmV4I4klJF7LFOe5aYw.png" group-title="CINE Y SERIES ⭐",AXN (Axn)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsQneEk8ZdUxatdKWpUzrIIH/ts
-#EXTINF:-1 xui-id="85840" tvg-id="" tvg-name=" AXN HD " tvg-logo="http://vip.hispanotv.org:80/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjE60nRyAmK1ASETs_zg1Scw.png" group-title="CINE Y SERIES ⭐",AXN HD (AXNHD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsTtTrU-IjxmoNP9npVx205m/ts
-#EXTINF:-1 xui-id="85847" tvg-id="CINL" tvg-name=" Cine Latino ©" tvg-logo="http://vip.hispanotv.org:80/images/guDhMh-txtQMOxE86BPbpTrBIBflP3lzDPdBaWgXJ9df6YILBNhaaGlys1Dqh0kCVX4tNdyyid7IGLmIoCLD6A.png" group-title="CINE Y SERIES ⭐",Cine Latino (Mexico City) (CINELA)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsSxSnleTb2NIVEgFK5YpNJ2/ts
-#EXTINF:-1 xui-id="85844" tvg-id="CCANAL" tvg-name=" Cinecanal" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinecanal.png" group-title="CINE Y SERIES ⭐",Cinecanal (Colombia) (CINEC)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsSnIBks-O-Rt8eS8WhxefsO/ts
-#EXTINF:-1 xui-id="85843" tvg-id="" tvg-name=" Cinecanal HD (CO)" tvg-logo="http://vip.hispanotv.org:80/images/ZqF2jpfd87PeoMom9TM-RIpdBDcezuoWdOy5Xkn8IFB5lmbooXeCnuxKcjSwC1IjcTV_v9m6cdh9KDbNP9b8qzUB8_yYia3XnKFQiIBJ2Tg.png" group-title="CINE Y SERIES ⭐",Cinecanal (Colombia) (CINEC)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsThbSekzTeT-IbRtCaMKpnH/ts
-#EXTINF:-1 xui-id="85848" tvg-id="CDINA" tvg-name=" Cinema Dinamita" tvg-logo="http://vip.hispanotv.org:80/images/-s-6WFRJco44zBZG0__ikfTMrLaTi-QOVBveUnHro08BDP_2knXSJnSKNH_2_5eL10qLMQTBceKiJoWx74P-TM-pCwifw7g6fJiwWOmb2mvN3qsjuZwntRKJ_vSeuXOm.png" group-title="CINE Y SERIES ⭐",Cinema Dinamita
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsS8EA9VjpkX2q3p8qM-frf9/ts
-#EXTINF:-1 xui-id="85845" tvg-id="" tvg-name=" Cinemax (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="CINE Y SERIES ⭐",CINEMAX SUR (Cinemax)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsTfKXFFDK-o9Seqz5zQR_mb/ts
-#EXTINF:-1 xui-id="85846" tvg-id="" tvg-name=" Cinemax (MX)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/cinemax.png" group-title="CINE Y SERIES ⭐",Cinemax (Mexico) (CINEMAX)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsTkgG8BDuLHqNBUNgGjasbI/ts
-#EXTINF:-1 xui-id="85912" tvg-id="DPLUSSD" tvg-name=" De Pelicula HD" tvg-logo="https://cdn.mitvstatic.com/channels/sv_de-pelicula_m.png" group-title="CINE Y SERIES ⭐",De Pelicula
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_ztP9dZShng-wqgdaGmzHGt/ts
-#EXTINF:-1 xui-id="85850" tvg-id="" tvg-name=" DHE" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/dhe.png" group-title="CINE Y SERIES ⭐", DHE
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsQqT7IJLBb_ex749vDkp5AW/ts
-#EXTINF:-1 xui-id="85914" tvg-id="" tvg-name=" Film And Arts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CINE Y SERIES ⭐", Film And Arts
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_xM5Pyz8Ud2QqkKKUgMFL90/ts
-#EXTINF:-1 xui-id="85872" tvg-id="" tvg-name=" FX HD (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/fx_hd.png" group-title="CINE Y SERIES ⭐",FX (FX)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsSPkHQCHX6yBjfIDwxNacnn/ts
-#EXTINF:-1 xui-id="85874" tvg-id="" tvg-name=" FX HD (MX)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/fx_hd.png" group-title="CINE Y SERIES ⭐",Fx Hd
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsRyDiWo1StczhgwZIirdG4M/ts
-#EXTINF:-1 xui-id="85878" tvg-id="" tvg-name=" Golden Edge (MX) ©" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/Golden-edge-980x473.png" group-title="CINE Y SERIES ⭐",Golden Edge 
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsSbV4GyOrWpT-cYEVuuhyiv/ts
-#EXTINF:-1 xui-id="85879" tvg-id="" tvg-name=" Golden Plus (MX)" tvg-logo="http://vip.hispanotv.org:80/images/j8j8J_gYJboyYE5WImYT4A1JLz-qrzfHakSoap8VTHMms1pPOYQcByx-TjaIK8OuQg4az5axByCvIo5h9Lvel2cVmn3d0ghbjWtGUvomXebUcu-s_Ni48vVpJ3uvK4WA.png" group-title="CINE Y SERIES ⭐",Golden Plus Hd
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsS6z-e1iHvlyefDzOBzrYEa/ts
-#EXTINF:-1 xui-id="85877" tvg-id="GLDPREM" tvg-name=" Golden Premier" tvg-logo="https://hosting.photobucket.com/images/nn175/DJCATRACHO_01/Golden_premier.png" group-title="CINE Y SERIES ⭐",Golden Premier
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsTcwP8x22vuJWFLevPwfVYe/ts
-#EXTINF:-1 xui-id="85876" tvg-id="GLDENM" tvg-name=" Golden ©" tvg-logo="https://hosting.photobucket.com/images/nn175/DJCATRACHO_01/496px-Logo_Golden_TV.svg.png" group-title="CINE Y SERIES ⭐",Golden 
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsRfF_CZj51Thdwd72L5d7C5/ts
-#EXTINF:-1 xui-id="85913" tvg-id="" tvg-name=" ISat" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/isat.png" group-title="CINE Y SERIES ⭐",ISat
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_xWh1fl40DHokOiFwpEgX9u/ts
-#EXTINF:-1 xui-id="85896" tvg-id="" tvg-name=" Paramount Channel (MX)" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png" group-title="CINE Y SERIES ⭐",Paramount Channel (Paramount HD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsQSswt7MUuJqs0lloZpxT1C/ts
-#EXTINF:-1 xui-id="85897" tvg-id="" tvg-name=" Sony (CO) ©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/sony.png" group-title="CINE Y SERIES ⭐",Sony Entertainment Television (Andes feed) (SONY)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsSv1ilM7KcoPBDXXEsAwVBf/ts
-#EXTINF:-1 xui-id="85898" tvg-id="SONYM" tvg-name=" Sony MX" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/sony.png" group-title="CINE Y SERIES ⭐",Sony MX
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWhIvW61oQOaGknyhe-RtdsRz24MrX2-wo7fmjYOOSpYX/ts
-#EXTINF:-1 xui-id="189037" tvg-id="" tvg-name="07 | ATRESERIES UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Atreseries.png/494px-Atreseries.png" group-title="CANALES PREMIUM UHD ⭐",07 | ATRESERIES UHD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6a46Pc2WIOr4JvSoIj7iUt3/ts
-#EXTINF:-1 xui-id="189038" tvg-id="" tvg-name="100 | FX MOVIES ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CANALES PREMIUM UHD ⭐",100 | FX MOVIES ®
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6ZJrzYt9xN4KZhxYzTquczB/ts
-#EXTINF:-1 xui-id="189039" tvg-id="" tvg-name="101 | STAR FUN ®" tvg-logo="https://archive.org/download/download-1_20220607/download%20(1).png" group-title="CANALES PREMIUM UHD ⭐",Star Fun
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWunGN261Hh2djJp644QDh6YNEQE5VA2ezNaxYOmuh2qU/ts
-#EXTINF:-1 xui-id="277356" tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=42" group-title="LATINOS +3Mbps",STAR CHANNEL HD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWsxU513t3yXWhRWlVWEkr0KeIFw5dmoE0YZmkQniagyC/ts
-#EXTINF:-1 xui-id="133438" tvg-id="" tvg-name="FOX SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="EVENTOS STAR+ (SOLO ABRE EN EVENTOS)",FOX SPORT PREMIUM
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWlYr-ACDHauCEkby6-0iRqIROnlutXveftRB_MhnjLVE/ts
-#EXTINF:-1 xui-id="133439" tvg-id="" tvg-name="EVENTOS STAR+ OPC" tvg-logo="https://bolavip.com/__export/1641410195175/sites/bolavip/img/2022/01/05/2torneodeverano_crop1641409716788.png_1624932088.png" group-title="EVENTOS STAR+ (SOLO ABRE EN EVENTOS)",EVENTOS STAR+ OPC
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWlYr-ACDHauCEkby6-0iRqIBbjvh5aoXxHYRmX31c85m/ts
-#EXTINF:-1 xui-id="133440" tvg-id="" tvg-name="EVENTOS STAR+ 2 HD" tvg-logo="https://bolavip.com/__export/1641410195175/sites/bolavip/img/2022/01/05/2torneodeverano_crop1641409716788.png_1624932088.png" group-title="EVENTOS STAR+ (SOLO ABRE EN EVENTOS)",EVENTOS STAR+ 2 HD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWlYr-ACDHauCEkby6-0iRqIc8b6nP_GZjNkKw28zontH/ts
-#EXTINF:-1 xui-id="133441" tvg-id="" tvg-name="EVENTOS STAR+ 2 FHD" tvg-logo="https://bolavip.com/__export/1641410195175/sites/bolavip/img/2022/01/05/2torneodeverano_crop1641409716788.png_1624932088.png" group-title="EVENTOS STAR+ (SOLO ABRE EN EVENTOS)",EVENTOS STAR+ 2 FHD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWlYr-ACDHauCEkby6-0iRqKOWhGvoU8ScEnDKSlskhas/ts
-#EXTINF:-1 xui-id="151593" tvg-id="" tvg-name="EC: Canela Tv" tvg-logo="https://image.roku.com/developer_channels/prod/583e3c91ab4f74df8cacbdd7bb811d49d2ded1c54784d4c8d5dff6305820dd67.png" group-title="Ecuador",EC: Canela Tv
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30q0WyhoQzViHN8eM2SVNboU/ts
-#EXTINF:-1 xui-id="151594" tvg-id="" tvg-name="EC: Ecuador TV Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="Ecuador",Ecuador TV National (ECUATV)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30owgma9A9mwWrknel2hY27M/ts
-#EXTINF:-1 xui-id="151595" tvg-id="" tvg-name="Ecuavisa" tvg-logo="http://vip.hispanotv.org:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjIMFuqzxUP-rKLq66INY1kIOgaScOelIMIx6PuMvJOmaGafqfGs0TNhkr9eWT8N2lqvvSZFLP39-v8_xWDjCZtA.png" group-title="Ecuador", Ecuavisa
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30rZcul9QjjE34cmaIIvQy8n/ts
-#EXTINF:-1 xui-id="ecuavisa" tvg-id="" tvg-name="Ecuavisa Guayaquil" tvg-logo="http://vip.hispanotv.org:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjIMFuqzxUP-rKLq66INY1kIOgaScOelIMIx6PuMvJOmaGafqfGs0TNhkr9eWT8N2lqvvSZFLP39-v8_xWDjCZtA.png" group-title="Ecuador",Ecuavisa 
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pZNh5gmM02lkHjXIwWHbWk/ts
-#EXTINF:-1 xui-id="151597" tvg-id="" tvg-name="Ecuavisa Quito HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/1200px-Ecuavisa_Logo_2019.png" group-title="Ecuador",Ecuavisa 
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30oIGDf6CNagJKvayzVEI0KF/ts
-#EXTINF:-1 xui-id="151598" tvg-id="" tvg-name="Ecuavisa Quito Full HD" tvg-logo="http://vip.hispanotv.org:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjIMFuqzxUP-rKLq66INY1kIOgaScOelIMIx6PuMvJOmaGafqfGs0TNhkr9eWT8N2lqvvSZFLP39-v8_xWDjCZtA.png" group-title="Ecuador",Ecuavisa (Nacional-centro norte) (ECUAVI)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30ovkSKiFMchAywIv_q9UqhU/ts
-#EXTINF:-1 xui-id="151599" tvg-id="" tvg-name="Gamavision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Gama TV (GAMATV)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30qXXwVlBCXSXf7c9KBb66Uy/ts
-#EXTINF:-1 xui-id="151600" tvg-id="" tvg-name="EC: Oromar" tvg-logo="http://vip.hispanotv.org:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8UVSi-8kBbrC7E0tJ5t5zddY0fFNys33wWT2hSjJIYiXY.png" group-title="Ecuador",Oromar
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30qCL6NVKXou1yYuFvdbrKdI/ts
-#EXTINF:-1 xui-id="151601" tvg-id="" tvg-name="EC: Rts Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="Ecuador",RTS Red Telesistema (RTS)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30qE03e2jYHf3crpfuRnupNr/ts
-#EXTINF:-1 xui-id="151602" tvg-id="" tvg-name="EC: Tc Television Full HD" tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="Ecuador",TC Televisión (TCTV)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30oGqKpL8ePuTVLx2DMrDhiU/ts
-#EXTINF:-1 xui-id="151603" tvg-id="" tvg-name="EC: Teleamazonas" tvg-logo="http://vip.hispanotv.org:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJDKcGYaABuVm-8T7HlGd-q_1oTCTnitCwgJzOC4YccScw.png" group-title="Ecuador",Teleamazonas (Quito) (TAMAZ)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30ppcQaaK57KQiXEu8QrjVn9/ts
-#EXTINF:-1 xui-id="151604" tvg-id="" tvg-name="EC: Teleamazonas FHD (Guayaquil)" tvg-logo="http://vip.hispanotv.org:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJDKcGYaABuVm-8T7HlGd-q_1oTCTnitCwgJzOC4YccScw.png" group-title="Ecuador",Teleamazonas (Quito) (TAMAZ)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30qnlqfRFopLBXF-pC9JJofQ/ts
-#EXTINF:-1 xui-id="151605" tvg-id="" tvg-name="EC: Teleamazonas Full HD (Quito)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Ecuador",Teleamazonas (Quito) (TAMAZ)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pOI0w5LWfwsgqrbVj2BIAu/ts
-#EXTINF:-1 xui-id="151606" tvg-id="" tvg-name="EC: Tvc HD" tvg-logo="http://vip.hispanotv.org:80/images/czBHon3PcsOVYrSo-ML7vfJ1iqYNTFbykd64JnEGDI2moxITlnIA0j5tmKZ7RfWJc2Q0Dj1kU-ltc9FPawHP65vcegexFA7tvF6KF_lVIVA.png" group-title="Ecuador",EC: Tvc HD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30oXJy2-MyFP0_UOxO0Pof6O/ts
-#EXTINF:-1 xui-id="151607" tvg-id="" tvg-name="SP: EC: GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Ecuador",GOL TV HD (GolTV HD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30r4hHZ0NFQsaeEVtOhVacUs/ts
-#EXTINF:-1 xui-id="151608" tvg-id="" tvg-name="SP: EC: GOL TV OPC. 2" tvg-logo="http://vip.hispanotv.org:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVyNdGSIrPSU-Q9fVLW48RivO5UDL7tQhQKv2p3cHo7gA.png" group-title="Ecuador",GOL TV HD (GolTV HD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30oAJ3QNryjzHQzKTAwzT031/ts
-#EXTINF:-1 xui-id="151610" tvg-id="" tvg-name="SP: EC: Directv Ecuador HD" tvg-logo="http://tvpremiumhonduras.com:8080/images/956ee0f14a5b1bae48bca6fba86335f5.png" group-title="Ecuador",Directv Ecuador HD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30oYp-ExKE7vWQ05VbMwiWUU/ts
-#EXTINF:-1 xui-id="151611" tvg-id="" tvg-name="SP: EC: DIRECTV SPORTS OPC. 2" tvg-logo="https://fanc.tmsimg.com/assets/s78911_ll_h3_aa.png" group-title="Ecuador",DIRECTV SPORTS 
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30o9m6yOte7MbA2N6StqTIgk/ts
-#EXTINF:-1 xui-id="151612" tvg-id="" tvg-name="SP: EC: DIREC-TV SPORTS 2" tvg-logo="https://fanc.tmsimg.com/assets/s78911_ll_h3_aa.png" group-title="Ecuador", DIREC-TV SPORTS 2
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30qGj2aBKoozABH3T9p6azum/ts
-#EXTINF:-1 xui-id="151613" tvg-id="" tvg-name="SP: EC: El Canal del Futbol" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="Ecuador", El Canal del Futbol
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pItm6Dcngm2tOBbjEk6YBR/ts
-#EXTINF:-1 xui-id="151614" tvg-id="" tvg-name="SP: EC: El Canal del Futbol FHD" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="Ecuador", El Canal del Futbol FHD
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pHUrvzveifVGu6057pNDwy/ts
-#EXTINF:-1 xui-id="151615" tvg-id="" tvg-name="SP: EC: LIGA PRO ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="Ecuador",SP: EC: LIGA PRO ECUADOR
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWiqterOFOdtXqw_QJOXQ30pNh0k6EBlFGGx37wKyee0f/ts
-#EXTINF:-1 xui-id="277385" tvg-id="" tvg-name="HISTORY CHANNEL 2 " tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=1519" group-title="LATINOS +3Mbps",History 2 HDTV (Latin America) (H2HD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWsxU513t3yXWhRWlVWEkr0Lg_b-mNJ1dxbMSgVqdtYl4/ts
-#EXTINF:-1 xui-id="277371" tvg-id="" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=14" group-title="LATINOS +3Mbps",The History Channel (Andes) (THC)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWsxU513t3yXWhRWlVWEkr0Kdj0D3zeXLp7kg7OEhZkax/ts
-#EXTINF:-1 xui-id="85904" tvg-id="" tvg-name=" TNT (MX)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tnt_HD.png" group-title="CINE Y SERIES ⭐",Cine TV: TNT (MX)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_yJAKm5rNz2O_9ou82_PkHz/ts
-#EXTINF:-1 xui-id="85903" tvg-id="" tvg-name=" TNT HD (CO) ©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tnt_HD.png" group-title="CINE Y SERIES ⭐",TNT HD (TNT HD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_yRM1QZTY2GZW_kb4Xfw0W1/ts
-#EXTINF:-1 xui-id="85907" tvg-id="" tvg-name="TNT Series MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="CINE Y SERIES ⭐",Cine TV: TNT Series MX
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_w2_YoIl8hQC2QSR-NkX-ph/ts
-#EXTINF:-1 xui-id="85906" tvg-id="" tvg-name="TNT Series HD (CO) ©" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/tnt_series_hd.png" group-title="CINE Y SERIES ⭐",TNT Series (TNT Series HD)
-http://tvpremium504.net:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_z0K38751uYZ3zg1KzVQ0LL/ts
-#EXTINF:-1 xui-id="85910" tvg-id="" tvg-name=" Studio Universal MX" tvg-logo="http://vip.hispanotv.org:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjD9lqp3_L45VApuH7YAcXOcBdLE44slPjLMr6f0jhYb3JTyA6V7kC3qnOkNJ7MNcsbcHy7yQSu9dde1ZKju8b7gv5pycQGtKpl1uopjGSu9k.png" group-title="CINE Y SERIES ⭐", Studio Universal MX
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_xGbZemsSZJxBYVDtQ0l2Bw/ts
-#EXTINF:-1 xui-id="85917" tvg-id="" tvg-name=" Warner Channel (CO)" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/warner.png" group-title="CINE Y SERIES ⭐", Warner Channel (CO)
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWg2IDDkHwbGge7OJqkIPa_zJajWV4d95GTpCtbPKocdy/ts
-#EXTINF:-1 xui-id="314639" tvg-id="" tvg-name="01 | STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="CANALES PREMIUM UHD ⭐", STAR CHANNEL UHD
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXwC7Y3gHmQ6rhHp9bj2tPYA/ts
-#EXTINF:-1 xui-id="314640" tvg-id="" tvg-name="02 | STAR ACTION UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="CANALES PREMIUM UHD ⭐", STAR ACTION UHD
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXwXtYJUq1BNdxsepE2Ouv9I/ts
-#EXTINF:-1 xui-id="314641" tvg-id="" tvg-name="03 | STAR CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Star_Cinema_2020.svg/1024px-Star_Cinema_2020.svg.png" group-title="CANALES PREMIUM UHD ⭐", STAR CHANNEL UHD
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXw8ALi6ZEzBvLiYQzqqCHhz/ts
-#EXTINF:-1 xui-id="314642" tvg-id="" tvg-name="04 | STAR COMEDY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/800px-Star_Comedy_2020.svg.png" group-title="CANALES PREMIUM UHD ⭐", STAR COMEDY UHD
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXzu3HydLJaKPU7Vf_ancceL/ts
-#EXTINF:-1 xui-id="314643" tvg-id="" tvg-name="05 | STAR FAMILY UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="CANALES PREMIUM UHD ⭐",STAR FAMILY UHD
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXxk7gskglZuizCzn7GuKRIE/ts
-#EXTINF:-1 xui-id="314644" tvg-id="" tvg-name="06 | STAR MOVIE UHD" tvg-logo="https://seeklogo.com/images/S/star-movies-logo-D9674609C3-seeklogo.com.png" group-title="CANALES PREMIUM UHD ⭐", STAR MOVIE UHD
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXwIjqHW-i9X7_bUghg_Iyrn/ts
-#EXTINF:-1 xui-id="315057" tvg-id="" tvg-name="24/7|  Cinema Toy Story" tvg-logo="https://w7.pngwing.com/pngs/599/443/png-transparent-toy-story-logo-film-pixar-toy-story-tshirt-text-label.png" group-title="24/7 - Peliculas",24/7|  Cinema Toy Story
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWpKyOW4-GuaC-UPr8x4C3aa4eMu0EEEjI0HkMGb7VCYX/ts
-#EXTINF:-1 xui-id="315058" tvg-id="" tvg-name="24/7|  Cinema Disney Pixar" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042012/cars_2.png?itok=JXy7Blmx" group-title="24/7 - Peliculas",24/7|  Cinema Disney Pixar
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWpKyOW4-GuaC-UPr8x4C3aZvNUKGz1zBNPry_sgjwho6/ts
-#EXTINF:-1 xui-id="315092" tvg-id="" tvg-name="24/7|  Cinema Piratas del Caribe" tvg-logo="https://e7.pngegg.com/pngimages/541/540/png-clipart-disney-pirates-of-the-caribbean-pirates-of-the-caribbean-silver-logo-at-the-movies-pirates-of-the-caribbean-thumbnail.png" group-title="24/7 - Peliculas",24/7|  Cinema Piratas del Caribe
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWpKyOW4-GuaC-UPr8x4C3aZk6iwsSwU9epTckOuj1znd/ts
-#EXTINF:-1 xui-id="314372" tvg-id="" tvg-name="Futurama" tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Futurama-Logo.png" group-title="24/7 - Infantiles",Futurama
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXypGFrMn0X1NMpbu84EGuRm/ts
-#EXTINF:-1 xui-id="314369" tvg-id="" tvg-name="LOS SIMPSONS" tvg-logo="https://logos.xbots.com.mx/402.png" group-title="24/7 - Infantiles",LOS SIMPSONS
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXxQHfsY9Vd15RWTOm0vvZ7P/ts
-#EXTINF:-1 xui-id="320496" tvg-id="" tvg-name="24/7 - INFANTILES LOS SIMPSON 2" tvg-logo="https://i.pinimg.com/originals/78/7e/10/787e1079c5d6c4232700673de8649034.png" group-title="24/7 - Infantiles",24/7 - INFANTILES LOS SIMPSON 2
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWqZ45mxBp3g8tm3tDhZMNxn02vNLNx_Zyqr1Z6WGUsk3/ts
-#EXTINF:-1 xui-id="320497" tvg-id="" tvg-name="24/7 - INFANTILES LOS SIMPSON 3" tvg-logo="https://arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/XO2YPLQR55FH7ATMRESDPKUSZY.png" group-title="24/7 - Infantiles",24/7 - INFANTILES LOS SIMPSON 3
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWqZ45mxBp3g8tm3tDhZMNxmRZakizHmESnymWgtbVPOg/ts
-#EXTINF:-1 xui-id="314836" tvg-id="" tvg-name="24/7 PADRE DE FAMILIA SD" tvg-logo="https://www.pngmart.com/files/15/Family-Guy-Logo-PNG-Transparent-Picture.png" group-title="24/7 INGLES",24/7 | PADRE DE FAMILIA  | SD
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXxEDffi07DjazDVKxutG9bE/ts
-#EXTINF:-1 xui-id="314431" tvg-id="" tvg-name="Los padrinos mágicos" tvg-logo="http://castlempire.site:8080/images/2e2d46b05f40807cc4780bac030ea36f.jpg" group-title="24/7 - Infantiles",Los padrinos mágicos
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXze2av2BjlEQj4HE-0VoB0P/ts
-#EXTINF:-1 xui-id="314698" tvg-id="" tvg-name="61 | NICK 2 ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="CANALES PREMIUM UHD ⭐",61 | NICK 2 ®
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXyEIJoLsCaEy5Q77aJFhIGX/ts
-#EXTINF:-1 xui-id="314699" tvg-id="" tvg-name="62 | NICK ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_(Logo).png" group-title="CANALES PREMIUM UHD ⭐",62 | NICK ®
-http://vip.hispanotv.org:80/play/VTaquHCzb8frmtPB5TrmWthv7--jMO5DYW6CBCslYXxmCN6Tsp2avBQ53lojVlMN/ts
+#EXTINF:-1 tvg-ID="2-14" tvg-name="TNT SPORTS CHILE HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/52887750181d4fd5bd52bb5772cebf34.jpg" group-title="HD+(265)",TNT SPORTS CHILE HD+
+http://84.17.40.49:36448/7epzc63i464uy00s1lm9ms6h3qur4cljlft0rmogvkqxayqpl/index.m3u8?un=Adonis565&tm=1667455754&sn=TyIhQ6TRCjVogvnltBT9glcfO3V
+#EXTINF:-1 tvg-ID="2-15" tvg-name="ESPN 3 Central HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/b100861f553846a1ab79928121541d83.jpg" group-title="HD+(265)",ESPN 3 Central HD+
+http://84.17.40.49:36448/pj1k1ki0cdzfa1axt0a70u30mqxh09lk4nvhgsa4uonzlytmguy/index.m3u8?un=Adonis565&tm=1667455754&sn=YnP1h33TGJK4bEfTHTrPJaB3T0Q
+#EXTINF:-1 tvg-ID="2-16" tvg-name="Warner HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/484f285946dd490ebebec24bae96dea7.jpg" group-title="HD+(265)",Warner HD+
+http://84.17.40.49:36448/kc719stuo3ahghgiirfj2xw6mtc16tlkj0t4jwlm09i8oxclctr/index.m3u8?un=Adonis565&tm=1667455754&sn=SSMREVtyorMZR1Dy6Vy6HnXwPqC
+#EXTINF:-1 tvg-ID="2-17" tvg-name="ESPN HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/b0609fa676894c9b8cf3a0e2c5f77294.jpg" group-title="HD+(265)",ESPN HD+
+http://84.17.40.49:36448/4caonc2j9jl8ah8b09plx2j1xh50evbcpawgdvtn44vh43kmcu/index.m3u8?un=Adonis565&tm=1667455754&sn=BKndNApxxsnuGRTzpEYYoyhhyJv
+#EXTINF:-1 tvg-ID="2-18" tvg-name="ESPN 2 HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/9ec9bfbf8124410c9ee36e13c4fe52a6.jpg" group-title="HD+(265)",ESPN 2 HD+
+http://84.17.40.49:36448/3mu8ttqnndtk0d3skns80nrl4wiw90gt5lx4rys33t0htfz53u/index.m3u8?un=Adonis565&tm=1667455754&sn=Wgpy7IcU7Q1M13THtIrhraNxUJ
+#EXTINF:-1 tvg-ID="2-19" tvg-name="STAR CHANNEL HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/5ef14f40d37e42a7961519aa4eec7f64.jpg" group-title="HD+(265)",STAR CHANNEL HD+
+http://84.17.40.49:36448/4jwc4n2o97fnb0cnxmvh3pmue67v2iho4e2sjcx99725hkwevw/index.m3u8?un=Adonis565&tm=1667455754&sn=KwJjyJA0kEgrRM5fnbY6Qwagpe1
+#EXTINF:-1 tvg-ID="2-20" tvg-name="HBO HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/210ea7d54a7c477391db752bbe74d2f4.jpg" group-title="HD+(265)",HBO HD+
+http://84.17.40.49:36448/1nhjr0pwz3dgqbaljsgaonsivqowoy5s0s2bvxf2xrdhmf1e2u/index.m3u8?un=Adonis565&tm=1667455754&sn=ASoKjQCRj3UIWAzkIdvjXTxktCM
+#EXTINF:-1 tvg-ID="2-21" tvg-name="Fox Sports 2 HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/2ba5e9271fc54a9d96b5377b2e0ee4c3.jpg" group-title="HD+(265)",Fox Sports 2 HD+
+http://84.17.40.49:36448/5a4ms5cedp72bipnkwc66tbfztkgmyg67k2ii9tq5sg337t5u2/index.m3u8?un=Adonis565&tm=1667455754&sn=BcBnXVxAFHris7pNmYhg2WtJfO2
+#EXTINF:-1 tvg-ID="2-22" tvg-name="Discovery HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/0e24fe8e296e465e94486c36b5d0065d.jpg" group-title="HD+(265)",Discovery HD+
+http://84.17.40.49:36448/51gs44wffv1flglk3ihihc7kfquq758f250501g3gpk6hh7jxu/index.m3u8?un=Adonis565&tm=1667455754&sn=1UEzZumYHXpbIyj8Ssm40FmVgRP
+#EXTINF:-1 tvg-ID="2-23" tvg-name="History HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/60512957681c40608a45fa99d612c6a1.jpg" group-title="HD+(265)",History HD+
+http://84.17.40.49:36448/2ankqwib64122df0pkcnstn72udfnl8qwutmou48eqmn175vl2/index.m3u8?un=Adonis565&tm=1667455754&sn=1vVMwsiIT9OS7vzTBEdIMQGbUL2
+#EXTINF:-1 tvg-ID="2-24" tvg-name="Nat Geo Wild HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/d65ff5b370ee4aaa9e79eb0f248296b9.jpg" group-title="HD+(265)",Nat Geo Wild HD+
+http://84.17.40.49:36448/5rla229pkiuuelkthbm4cz6ek2omc49fpl8tr1nblw97jef6tx/index.m3u8?un=Adonis565&tm=1667455754&sn=1hGItHBjbiXoZYwnFVWTKeNy4mA
+#EXTINF:-1 tvg-ID="2-25" tvg-name="Nat Geo HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/e65b8ff76d9342b48fdab840c46cc1e8.jpg" group-title="HD+(265)",Nat Geo HD+
+http://84.17.40.49:36448/4g45roojt0g216vl90elzaizber24mqka6g8xowpx50cl745xs/index.m3u8?un=Adonis565&tm=1667455754&sn=Tk2BCTJGZ2wmAcgy5rU3hBizYJ
+#EXTINF:-1 tvg-ID="2-26" tvg-name="ESPN 4 HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/118f8099972b1b278609c3d9e2417ea6.jpg" group-title="HD+(265)",ESPN 4 HD+
+http://84.17.40.49:36448/39ztnd3vbqpsc0jyetjp75nm84m4lvuaaen9cv8h1l6r5oldbg/index.m3u8?un=Adonis565&tm=1667455754&sn=5XmDid4Cvgz2IKgVvOuXC47P9EE
+#EXTINF:-1 tvg-ID="2-27" tvg-name="TNT Sports Arg HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/235a6da2d81c4e3fbe8d794e56d5c166.jpg" group-title="HD+(265)",TNT Sports Arg HD+
+http://84.17.40.49:36448/l5ib2sxnk4zrry8wcnxg84w7m51hxqeuu8w5ed3ggt0b2dtl7gh/index.m3u8?un=Adonis565&tm=1667455754&sn=95n5MteLBw8rpDcP2apb95iZ6Hu
+#EXTINF:-1 tvg-ID="2-28" tvg-name="ESPN PREMIUM ARG HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/21bce932f5c52a38720b95cdc201f634.jpg" group-title="HD+(265)",ESPN PREMIUM ARG HD+
+http://84.17.40.49:36448/3xde2q4qy3o4sn97wtlz4umy8v6ip8o9pqn2ccsabdkpn3gp8m/index.m3u8?un=Adonis565&tm=1667455754&sn=J2I6PU1WQX4nU1vW2GfVG2hIQhK
+#EXTINF:-1 tvg-ID="2-29" tvg-name="ESPN 3 HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/ebde46d1374a470dbf90902f6eab510a.jpg" group-title="HD+(265)",ESPN 3 HD+
+http://84.17.40.49:36448/610xquzgt9st3l0u7t4b8q4o8yhbin4u9bii1ro1b6ian7et4l/index.m3u8?un=Adonis565&tm=1667455754&sn=XMD5jFqHCzbzitcwO79y1ac5swr
+#EXTINF:-1 tvg-ID="9-187" tvg-name="FOX FS1 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/1b5fc47dc9864261a61fdfc7b1621e90.jpg" group-title="Deportes",FOX FS1 HD
+http://84.17.40.49:36448/6cp3gu55la2cbwbqqc5865886llrpobkz7k3oq1oq0izf2w5bg56wj7b/index.m3u8?un=Adonis565&tm=1667455754&sn=FpNwYSZkmgTgqm1makPzm6mxlwf
+#EXTINF:-1 tvg-ID="9-188" tvg-name="ESPN 1 Arg HD" tvg-logo="http://haibao.magstv.com/data/usee/space/0898d8f03a8540ac8e1696728b4070d1.jpg" group-title="Deportes",ESPN 1 Arg HD
+http://84.17.40.49:36448/44m0hzwxuu7fu7cqqt70feyn82izwfe1ikujieq58bsng8s15vfurp1x8x1/index.m3u8?un=Adonis565&tm=1667455754&sn=FF0vVyFSKYwG0nGkwLUDcWwxP6c
+#EXTINF:-1 tvg-ID="9-189" tvg-name="NFL PASS 04 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/00cbff26a3fe4b5385819fb86478a89d.jpg" group-title="Deportes",NFL PASS 04 HD
+http://84.17.40.49:36448/18tbxe1a0ah3g6w1wllwp4l1g1aqsu864yx9679io8g7udyv2ipjbzhebh/index.m3u8?un=Adonis565&tm=1667455754&sn=KU2OpVaAVADQKDTJrXdfAcGpKnm
+#EXTINF:-1 tvg-ID="9-190" tvg-name="bein sport 13 hd" tvg-logo="http://haibao.magstv.com/data/usee/space/004533362e1e49b4839c40f976b57172.jpg" group-title="Deportes",bein sport 13 hd
+http://84.17.40.49:36448/z6i83kp63khcruil2mrxzv1j36jzehepltldrzhh07tjx5o9o/index.m3u8?un=Adonis565&tm=1667455754&sn=Ls08O0kD6VF7Iw3UyCV2fufaAmc
+#EXTINF:-1 tvg-ID="9-191" tvg-name="TIGO SPORTS HON HD" tvg-logo="http://haibao.magstv.com/data/usee/space/317a39c539c043d498af6b04e1ea6c25.jpg" group-title="Deportes",TIGO SPORTS HON HD
+http://84.17.40.49:36448/10vrmmtn9v8lreoe2zuvcqad4l253f4gjtrwa6pdin0if5mo24pto8zgdzupisron36ao/index.m3u8?un=Adonis565&tm=1667455754&sn=4xr0wi0CxwY5zo6q9xMUkvaYWwl
+#EXTINF:-1 tvg-ID="9-192" tvg-name="DAZN  3 HD (Eventos)" tvg-logo="http://haibao.magstv.com/data/usee/space/77122776f65a47c3a2dbf9ee7cb1015f.jpg" group-title="Deportes",DAZN  3 HD (Eventos)
+http://84.17.40.49:36448/7xpx2osc9s28swwvcaw5o282lvtw9u3l95vg0l4sjbag0y6g/index.m3u8?un=Adonis565&tm=1667455754&sn=WnHmVJRVSnKIxYuawpQgvY4DoDc
+#EXTINF:-1 tvg-ID="9-193" tvg-name="WWE PLUS HD" tvg-logo="http://haibao.magstv.com/data/usee/space/c942a1ecbb6542cebd2af7c9ecd3fbd7.jpg" group-title="Deportes",WWE PLUS HD
+http://84.17.40.49:36448/1yha1f4ep9djxk3w9d8qu084vsmdxdf4ubbnxv53kv8d6sz37zl1tfd9b9/index.m3u8?un=Adonis565&tm=1667455754&sn=7QGtngyeF2jc6GsvHq22NdU5qYE
+#EXTINF:-1 tvg-ID="9-194" tvg-name="Fight network HD" tvg-logo="http://haibao.magstv.com/data/usee/space/22f588b5943247dbae77e392a1e3f345.jpg" group-title="Deportes",Fight network HD
+http://84.17.40.49:36448/8k9xtzn8nad5wf132418w3ghjgt9g994wj8nkg8ui8y256xxvr1chs3zbiusktdty/index.m3u8?un=Adonis565&tm=1667455754&sn=KQQMOwDN6SzvQVTnfYDOkj3mnRZ
+#EXTINF:-1 tvg-ID="9-195" tvg-name="MOVISTAR LA LIGA FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/26ee10158c39496db5df1008ca8ad7f6.jpg" group-title="Deportes",MOVISTAR LA LIGA FHD
+http://84.17.40.49:36448/oxa8rrkn6b3u1vk0zwvfdjf2ctyh0vbq418ckwo23yfsl811jsa0x0k15jpcjt2ei854hyw/index.m3u8?un=Adonis565&tm=1667455754&sn=UjpzInO8tkW2M3Emkor1e1EyM2v
+#EXTINF:-1 tvg-ID="9-196" tvg-name="ESPN HD" tvg-logo="http://haibao.magstv.com/data/usee/space/6ba648d194ea484d8a0b59e97c6c0ea2.jpg" group-title="Deportes",ESPN HD
+http://84.17.40.49:36448/4wuc0lka9m3syzzxmj1b4357dhkb419fdiop4ucg7r4d5wo3nj/index.m3u8?un=Adonis565&tm=1667455754&sn=H72EjoIuZ5BqLjxORyllsT1nOaQ
+#EXTINF:-1 tvg-ID="9-197" tvg-name="ESPN 3 HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/ebde46d1374a470dbf90902f6eab510a.jpg" group-title="Deportes",ESPN 3 HD+
+http://84.17.40.49:36448/27mxt9q7qyx3yh8ntarxc39yd3ygaolswrag1jzt5o1vkf4k39/index.m3u8?un=Adonis565&tm=1667455754&sn=3xcss3MDVPmjnI3nwZmCfKIFXLa
+#EXTINF:-1 tvg-ID="9-198" tvg-name="ESPN 2 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9ef83b7dbe62485fa8fe078eb8b5ad77.jpg" group-title="Deportes",ESPN 2 HD
+http://84.17.40.49:36448/k9awo4p4s9cfg0bme2kh3cuaf69dwtjtm45ivhyvhxlq1bfip/index.m3u8?un=Adonis565&tm=1667455754&sn=1sjkWV38vXDY5sSTpRH26JLFnrg
+#EXTINF:-1 tvg-ID="9-199" tvg-name="ESPN 4 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/118f8099972b1b278609c3d9e2417ea6.jpg" group-title="Deportes",ESPN 4 HD
+http://84.17.40.49:36448/3bypjk8n00pwffhskuc1czao41i0zvkyn3xzt6cfjzu41v0vja/index.m3u8?un=Adonis565&tm=1667455754&sn=XcXx1Sj0BOGe9dtoaEKXmVX1Kjg
+#EXTINF:-1 tvg-ID="9-200" tvg-name="Fox Sports 2 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/62d4280d1e114308a7dbf7c0ecc2a20a.jpg" group-title="Deportes",Fox Sports 2 HD
+http://84.17.40.49:36448/sip0gh49pe0dsrmu8campq2p3zpq971s2vrfndy7yh4xjejqo/index.m3u8?un=Adonis565&tm=1667455754&sn=UxK2z3vzvqv0YG7yVuva9kDhB2G
+#EXTINF:-1 tvg-ID="9-201" tvg-name="Fox Sports 3 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/656e6a5573ee4e1296ea0b97861f2caa.jpg" group-title="Deportes",Fox Sports 3 HD
+http://84.17.40.49:36448/164kqkyrd3s0b217yy5vrqtw116ydjstn4g72z7mzjxy9qtdjdxk2lqxexg3e026/index.m3u8?un=Adonis565&tm=1667455754&sn=OyaTLAzssRFnPcQyGplkP1RI7ea
+#EXTINF:-1 tvg-ID="9-202" tvg-name="ESPN+ HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9a12bbfdea0541078bd459425775b2c0.jpg" group-title="Deportes",ESPN+ HD
+http://84.17.40.49:36448/3sjiot7lb48i2i9jxok11q6avlyo6mq310norifim8gegskgxp/index.m3u8?un=Adonis565&tm=1667455754&sn=GfsTVWreInJuNRdgsqtwwn9fXGK
+#EXTINF:-1 tvg-ID="9-203" tvg-name="TyC Sports HD" tvg-logo="http://haibao.magstv.com/data/usee/space/e94bdd62c15c468b90ee9f552b1032d3.jpg" group-title="Deportes",TyC Sports HD
+http://84.17.40.49:36448/ly06yscdoce5tnuplh3wt6fk6nxzdvvugar315cvof9jfs7dm2z/index.m3u8?un=Adonis565&tm=1667455754&sn=GjJdmHyDxJ7y0QZJSrz1icYZhS9
+#EXTINF:-1 tvg-ID="9-204" tvg-name="Fox Sports 1 Chile HD" tvg-logo="http://haibao.magstv.com/data/usee/space/f3c1040307204f42be7c5a53f65ceb41.jpg" group-title="Deportes",Fox Sports 1 Chile HD
+http://84.17.40.49:36448/4a1dg3efkriqfyfqvoio2kzne85azp2884uzigahr0k6t9ho3d/index.m3u8?un=Adonis565&tm=1667455754&sn=8QmXgPeF3wXcUDkrutvaiKpYkDD
+#EXTINF:-1 tvg-ID="9-205" tvg-name="ESPN 2 Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/c0671b98a51140c883cf42c2d1971fcd.jpg" group-title="Deportes",ESPN 2 Central HD
+http://84.17.40.49:36448/25sqmpl0c73xnnlnydynbuwiw4kmkh0pspcmx7i25whaf7mqna/index.m3u8?un=Adonis565&tm=1667455754&sn=IQu0MSVrplwmxW9lYVS8JAbFQ2s
+#EXTINF:-1 tvg-ID="9-206" tvg-name="Fox Sports Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/25aedbd4b42341a185f3a4ab9a993a06.jpg" group-title="Deportes",Fox Sports Central HD
+http://84.17.40.49:36448/45ubsifw1bamffrmb50c877rg4gqgu3s2e8un4s0s218wk4d7h/index.m3u8?un=Adonis565&tm=1667455754&sn=9HKoUTU1PV4t9T8dnmL242xtM6u
+#EXTINF:-1 tvg-ID="9-207" tvg-name="ESPN+ Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/4d9ad112cc2e4949a275ad5a6d16c26c.jpg" group-title="Deportes",ESPN+ Central HD
+http://84.17.40.49:36448/4x517rqmiyu10q0by6oo4g7flep7zfne0vgvcwhod7vklnx5o5/index.m3u8?un=Adonis565&tm=1667455754&sn=P79NDdwjoV28FkE4yJIIHHvzX8X
+#EXTINF:-1 tvg-ID="9-208" tvg-name="Fox Sports 2 Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/a9a8ef66b3a14ceea3f5d880181d3ac3.jpg" group-title="Deportes",Fox Sports 2 Central HD
+http://84.17.40.49:36448/53xq7y9n7huc2hya5n3nj6v9vqoce817n3a86wi28puqi2vntx/index.m3u8?un=Adonis565&tm=1667455754&sn=Fl1rlDUzTR071O7Lp0ftw7oKmBE
+#EXTINF:-1 tvg-ID="9-209" tvg-name="ESPN 3 Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/158c02a39b2d4f298840582b3632b561.jpg" group-title="Deportes",ESPN 3 Central HD
+http://84.17.40.49:36448/234240t0dpy0o4e15m9aqve0zbav0gg8dw5zolehlhqc9l5ewa/index.m3u8?un=Adonis565&tm=1667455754&sn=aKzLPod5CoK4py0Z80x3imqKQ50
+#EXTINF:-1 tvg-ID="9-210" tvg-name="Golf Latin America HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9cfb6cdb31ae4496b2fa5faca768cd5c.jpg" group-title="Deportes",Golf Latin America HD
+http://84.17.40.49:36448/3hg5xjre6ln1erkigw9155a11rp7lskz3fj5uwxqnbmqkongysl79wmgqp8c7s7gs29wsjd31/index.m3u8?un=Adonis565&tm=1667455754&sn=AIVwNBNmstHHM1rTN5gwe8eamAL
+#EXTINF:-1 tvg-ID="9-211" tvg-name="Claro Sports HD" tvg-logo="http://haibao.magstv.com/data/usee/space/3c9c99f37b354f3cbca4d72fe940dee0.jpg" group-title="Deportes",Claro Sports HD
+http://84.17.40.49:36448/1rjyqlzekdeitrlqlhvy62iq90kdtwcv6sb1nprhiidqd95ggv/index.m3u8?un=Adonis565&tm=1667455754&sn=Y2dA8B5M2KBbdGMfEBjYa5PFVCV
+#EXTINF:-1 tvg-ID="9-212" tvg-name="TNT Sports Arg HD" tvg-logo="http://haibao.magstv.com/data/usee/space/cf5304151280484a89e39f0b88a405b7.jpg" group-title="Deportes",TNT Sports Arg HD
+http://84.17.40.49:36448/fmua3pdo8czmmcyjjgooaxyamb4kw8ua01wa3lfv7eg8kuyuvm3/index.m3u8?un=Adonis565&tm=1667455754&sn=4oPkgQ55Lmzgu1D92SMnMInLJqO
+#EXTINF:-1 tvg-ID="9-213" tvg-name="TNT Sports Arg HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/235a6da2d81c4e3fbe8d794e56d5c166.jpg" group-title="Deportes",TNT Sports Arg HD+
+http://84.17.40.49:36448/cu2zwl46o257awbthfaq979wczzh9yis4avjazf071btwp1wdzm/index.m3u8?un=Adonis565&tm=1667455754&sn=60BVFAtwBSruHnJ8kLFOP8Zc6Bp
+#EXTINF:-1 tvg-ID="9-214" tvg-name="ESPN PREMIUM ARG HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/21bce932f5c52a38720b95cdc201f634.jpg" group-title="Deportes",ESPN PREMIUM ARG HD+
+http://84.17.40.49:36448/1iykyejy7q2nmdphppj4ex6wra5zvchq2fl5fpl1itaoifciv6/index.m3u8?un=Adonis565&tm=1667455754&sn=KHjbvIYETxO9rkPhzErQJs8vK0N
+#EXTINF:-1 tvg-ID="9-215" tvg-name="ESPN HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/b0609fa676894c9b8cf3a0e2c5f77294.jpg" group-title="Deportes",ESPN HD+
+http://84.17.40.49:36448/f91sz75drz8az8h3fis06lkhcy7gtghw4dqyvr4k3f9u2tbwx/index.m3u8?un=Adonis565&tm=1667455754&sn=TuaoZrvT9EF7Wol5Sq3ScB6PAYq
+#EXTINF:-1 tvg-ID="9-216" tvg-name="ESPN 2 HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/9ec9bfbf8124410c9ee36e13c4fe52a6.jpg" group-title="Deportes",ESPN 2 HD+
+http://84.17.40.49:36448/2f0alk82xafvlqhkce0f4uqhd7n07tcwrue15jycakzckppvf3/index.m3u8?un=Adonis565&tm=1667455754&sn=Xfb4J6DcWvldSF4IgkQwNTdi9Ix
+#EXTINF:-1 tvg-ID="9-217" tvg-name="ESPN 4 HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/118f8099972b1b278609c3d9e2417ea6.jpg" group-title="Deportes",ESPN 4 HD+
+http://84.17.40.49:36448/3pa12jr75pt6iduakmzy2kkg6gby10fhs3df7ncvzq3nv53dwf/index.m3u8?un=Adonis565&tm=1667455754&sn=NYpvl1ZFU72o9NkdjduCEDRTEP6
+#EXTINF:-1 tvg-ID="9-218" tvg-name="Fox Sports 2 HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/2ba5e9271fc54a9d96b5377b2e0ee4c3.jpg" group-title="Deportes",Fox Sports 2 HD+
+http://84.17.40.49:36448/55jbqw3tyjrhaz31f240zuz21jh8qdpb54dhd8oajmwh0l05ek/index.m3u8?un=Adonis565&tm=1667455754&sn=HydRU9ox8qNZ1qs5uOu998INL9t
+#EXTINF:-1 tvg-ID="9-219" tvg-name="ESPN 3 Central HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/b100861f553846a1ab79928121541d83.jpg" group-title="Deportes",ESPN 3 Central HD+
+http://84.17.40.49:36448/emsiem1so895zwegrvfdexcso4cb4ezlp7swaagauxhlh263gob/index.m3u8?un=Adonis565&tm=1667455754&sn=41xPUFPjAY717N2Ujt8WG9dW8cB
+#EXTINF:-1 tvg-ID="9-220" tvg-name="WIN Sports HD" tvg-logo="http://haibao.magstv.com/data/usee/space/37304a999bf145718018e716ccbe55a0.jpg" group-title="Deportes",WIN Sports HD
+http://84.17.40.49:36448/8xkjf32gp6nsz480y3vmxu1om3fuxzydgbd7jflgdn6jglvqybw/index.m3u8?un=Adonis565&tm=1667455754&sn=4bqEjajf6K1Z5rHRt0ReTJZA303
+#EXTINF:-1 tvg-ID="9-221" tvg-name="Combate HD" tvg-logo="http://haibao.magstv.com/data/usee/space/f9f485f541674258b4ab5e6a9281fb16.jpg" group-title="Deportes",Combate HD
+http://84.17.40.49:36448/65dj00k8xtklsmsuvd00ner7zw2rhdwcwhhce8jg5a3ekmkmjtqn6gs4/index.m3u8?un=Adonis565&tm=1667455754&sn=Y5Aukm4Kj77ZpP0yyr1lLS4QoDf
+#EXTINF:-1 tvg-ID="9-222" tvg-name="Movistar Deportes HD" tvg-logo="http://haibao.magstv.com/data/usee/space/ff23d8d6ba02472aa28d5905df7ba724.jpg" group-title="Deportes",Movistar Deportes HD
+http://84.17.40.49:36448/4k2p5xpbt5duyeg4qzpfl55ksybxvcemybipiteyfguek6v262/index.m3u8?un=Adonis565&tm=1667455754&sn=6x4nxxwy5uWIO5gMQC3sD83GXf8
+#EXTINF:-1 tvg-ID="9-223" tvg-name="Fox Sports 3 HD Central" tvg-logo="http://haibao.magstv.com/data/usee/space/19eaa5d58f114b839fedd0e06948dcd1.jpg" group-title="Deportes",Fox Sports 3 HD Central
+http://84.17.40.49:36448/40an7n9c4djutl68xp8kurvoolh3sw0ajl921fx0amt74o21h7uake3vxn0dwgq4i08ij54dtbyf/index.m3u8?un=Adonis565&tm=1667455754&sn=QQ7FQz2hImPquGEWBIGXmBNmSML
+#EXTINF:-1 tvg-ID="32-1008" tvg-name="BOB ESPONJA 24/7 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/4e10b8b4f68a43d6bb428196a655dbbc.jpg" group-title="Canales 24/7",BOB ESPONJA 24/7 HD
+http://84.17.40.49:36448/v0abrifoj2hjmfm8m0xq8iriqb8f5e2fb4zg2e6a6qswmctwi10fjj7nhexd8huaisgnb/index.m3u8?un=Adonis565&tm=1667455754&sn=KibsheQoyZrYz2qH13POlNhORwR
+#EXTINF:-1 tvg-ID="32-1041" tvg-name="EL CHAVO DEL 8  ANIMADA 24/7 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/77dff724bab9448c8f1a7449663003cc.jpg" group-title="Canales 24/7",EL CHAVO DEL 8  ANIMADA 24/7 HD
+http://84.17.40.49:36448/1ud0a84953cek0op35803nwhvvmyg1m0ehafeg2kbofdp4q902sheuocdvp804r07rfanjcx6so4kz24k3k7nlp/index.m3u8?un=Adonis565&tm=1667455754&sn=MYbrNpjFkptn5NFUnKZbnygbEEK
+#EXTINF:-1 tvg-ID="32-1044" tvg-name="DRAGON BALL GT 24/7 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/d2f847a6076a4fcd83a1604ca518fc42.jpg" group-title="Canales 24/7",DRAGON BALL GT 24/7 HD
+http://84.17.40.49:36448/qmc9crld4khxpnyihxkqtpm5y26c9smgnsr0gk6dosuu889wuto6kgbw5gowgpuysqkzyqfzs0/index.m3u8?un=Adonis565&tm=1667455754&sn=N2SPMnEHMXgSlreydGQzOX27ueK
+#EXTINF:-1 tvg-ID="32-1045" tvg-name="CANTINFLAS 24/7 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/17f14d87f8f441569c6af7f63e37a90a.jpg" group-title="Canales 24/7",CANTINFLAS 24/7 HD
+http://84.17.40.49:36448/1am9usa1m2v7zvmnd9o7km74euxnbcsncicw4ake8f7f0lrscokxeix7qhmtcgp42pery/index.m3u8?un=Adonis565&tm=1667455754&sn=3qeq3gC4xKyJ4gAzHVSqExh2uYw
+#EXTINF:-1 tvg-ID="32-1046" tvg-name="DRAGON BALL:EXTENDIDA 24/7 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/7efd680046fc4db09e5888f0bc0c7b00.jpg" group-title="Canales 24/7",DRAGON BALL:EXTENDIDA 24/7 HD
+http://84.17.40.49:36448/971wqa5e1kr2ne3m9jiyb3jy6qoxcyidfj2qg50kfsrinvvn8lwtdn8p7y031h7fp6s2x6oyvod7hx8mjokbop1mkk421w6u/index.m3u8?un=Adonis565&tm=1667455754&sn=DgfbkljYVYKya8U2Iypy7ipChRt
+#EXTINF:-1 tvg-ID="32-1047" tvg-name="EL PAJARO LOCO 24/7 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/0d1f37be8db74e3c9878188633e1f757.jpg" group-title="Canales 24/7",EL PAJARO LOCO 24/7 HD
+http://84.17.40.49:36448/xdrajhn9gctv6jg0kh4gogqwuv4wjcoaf70zsj50qicvjkupp3aeu1ah8tlqx98so3y6zm4smc/index.m3u8?un=Adonis565&tm=1667455754&sn=zKkFbIJqCZI5AeOBm3MceJqtK8
+#EXTINF:-1 tvg-ID="32-1048" tvg-name="SUPERSONICOS HD" tvg-logo="http://haibao.magstv.com/data/usee/space/82ed43c648a64700b6786c7d50ebf787.jpg" group-title="Canales 24/7",SUPERSONICOS HD
+http://84.17.40.49:36448/1176j36fv2nuot9gj0lx8db6iuaklej9h50pz149vnfq81bhdaj12bd63drr9ni/index.m3u8?un=Adonis565&tm=1667455754&sn=YIrdxdjGiR8KdlaNM3Fr2usPC7j
+#EXTINF:-1 tvg-ID="36-1177" tvg-name="Bitme" tvg-logo="http://haibao.magstv.com/data/usee/space/ede37448be1d4ec4b63d0eb52d5d079e.jpg" group-title="Infantil",Bitme
+http://84.17.40.49:36448/rhf6opnyobd6j26coaq4fpusrm0t33givh4emhiyuw40lhm8/index.m3u8?un=Adonis565&tm=1667455754&sn=6vVr9me1BuI6AOwGjA6MyTjkKFD
+#EXTINF:-1 tvg-ID="36-1178" tvg-name="DISNEY JR USA HD" tvg-logo="http://haibao.magstv.com/data/usee/space/d0c196b8ad3c468f95b9fd6f3703668e.jpg" group-title="Infantil",DISNEY JR USA HD
+http://84.17.40.49:36448/2354o294qkv6mw2ixv1qbkrno77zfwrwdr9q4n7dfl9w00qep4fypac1uw4rjfby2/index.m3u8?un=Adonis565&tm=1667455754&sn=SSJQGz3a36YzC52qOAV9w6F8Sol
+#EXTINF:-1 tvg-ID="36-1179" tvg-name="Cartoon Network HD" tvg-logo="http://haibao.magstv.com/data/usee/space/bf31e31da40c4aefadc953c2bb376f12.jpg" group-title="Infantil",Cartoon Network HD
+http://84.17.40.49:36448/127bn8vtwbzjpz7u7xxw8nh02xkh1qgstkvqcdm3fhbbymjk9le9sqevre8ucaqbvpftk/index.m3u8?un=Adonis565&tm=1667455754&sn=C3gt8Mz8TRujdUQ06YBYPYflYDZ
+#EXTINF:-1 tvg-ID="36-1180" tvg-name="ZOOMOO HD" tvg-logo="http://haibao.magstv.com/data/usee/space/b51261adcc8842608242a7ca8f45674a.jpg" group-title="Infantil",ZOOMOO HD
+http://84.17.40.49:36448/3ryuma8rpm5lnw447wn42hij9zxubyp0m43izgkqzlunzlf0htquwk/index.m3u8?un=Adonis565&tm=1667455754&sn=6FeUIIEAwrioeaprrg9fOxXDswV
+#EXTINF:-1 tvg-ID="36-1181" tvg-name="BABY FIRTS HD" tvg-logo="http://haibao.magstv.com/data/usee/space/8a09f00ef9ac4645aa6f32d8240b6c61.jpg" group-title="Infantil",BABY FIRTS HD
+http://84.17.40.49:36448/33fsdfsyfv7mxqftl4c91zh8z80bvixw6a95r0or3wpw3al4cbhdbw27ko1yp/index.m3u8?un=Adonis565&tm=1667455754&sn=PS7cklx6jiuqGlIQ0bBhpBN9iDj
+#EXTINF:-1 tvg-ID="36-1182" tvg-name="CLAN TVE HD" tvg-logo="http://haibao.magstv.com/data/usee/space/1a23b6011d884a969cd104491ffc987b.jpg" group-title="Infantil",CLAN TVE HD
+http://84.17.40.49:36448/1izg78w3k4t2zokv346nlt65ijxfkez40nx4o1z9j5xmw7wuukac8zab4c/index.m3u8?un=Adonis565&tm=1667455754&sn=ZIsL4nqDcpD0Go4IHrm1b4QM8RE
+#EXTINF:-1 tvg-ID="36-1183" tvg-name="CARTOONITO HD" tvg-logo="http://haibao.magstv.com/data/usee/space/5694e11d7e31b13964da7c8d54bdc5eb.jpeg" group-title="Infantil",CARTOONITO HD
+http://84.17.40.49:36448/5cg7gifvslswl3ib6yn12hjurelj2khc65e15ov71e005qytwm/index.m3u8?un=Adonis565&tm=1667455754&sn=OJN9LlEQSA92f9zWv8CWUNvIaYz
+#EXTINF:-1 tvg-ID="36-1184" tvg-name="Disney Junior HD" tvg-logo="http://haibao.magstv.com/data/usee/space/38e21bac90cf46ffbc9d73ee1c718efa.jpg" group-title="Infantil",Disney Junior HD
+http://84.17.40.49:36448/ug8e048gxic8shf2ndir60ouitqosnbfpe7ytu8bransui4ii7ves1kmxx4l3c6e/index.m3u8?un=Adonis565&tm=1667455754&sn=F4OQtnJT12IVjlsPOCRvTXJ4cQw
+#EXTINF:-1 tvg-ID="36-1185" tvg-name="Nick HD" tvg-logo="http://haibao.magstv.com/data/usee/space/5703861d15ab461c8d9e8703d9b43d29.jpg" group-title="Infantil",Nick HD
+http://84.17.40.49:36448/4i4d54gbozz9vtbdc61bxslh75rsy2z22rtp8bb14d9081s50y/index.m3u8?un=Adonis565&tm=1667455754&sn=3Ew1oVd1Yr6cBeyTp0iDEYCC96y
+#EXTINF:-1 tvg-ID="36-1186" tvg-name="Discovery Kids HD" tvg-logo="http://haibao.magstv.com/data/usee/space/74e4a9561b6c479a82988fe700e859b0.jpg" group-title="Infantil",Discovery Kids HD
+http://84.17.40.49:36448/8joa2kj9aydywrvvt2eqtys1w7186xkl4occqhgge8v5bxgk1/index.m3u8?un=Adonis565&tm=1667455754&sn=IiobWXZYbMCNlcZJiovhWHjH3ZS
+#EXTINF:-1 tvg-ID="36-1187" tvg-name="MOVISTAR DREAMWORKS HD" tvg-logo="http://haibao.magstv.com/data/usee/space/10cf2658dd5a96f18e950ac49206fd76.jpeg" group-title="Infantil",MOVISTAR DREAMWORKS HD
+http://84.17.40.49:36448/3zbzwjgng1u2m1jltlkyshly5lgrm3dpmzm0f8jol3hyt0u5n8/index.m3u8?un=Adonis565&tm=1667455754&sn=3SzID3X3eZ5tryyrJXJnRbRsMrw
+#EXTINF:-1 tvg-ID="36-1188" tvg-name="cartoonito" tvg-logo="http://haibao.magstv.com/data/usee/space/6422c283d46cb3d8ccd730b1ef48b3d8.jpg" group-title="Infantil",cartoonito
+http://84.17.40.49:36448/9du1f6amg60jqlw34zcm7n5sqzudyua4dqtdeslqpgcyl1wk7/index.m3u8?un=Adonis565&tm=1667455754&sn=VnBPxnSK6mhtyf2SK9ouR7ENqVM
+#EXTINF:-1 tvg-ID="36-1189" tvg-name="Nick JR HD" tvg-logo="http://haibao.magstv.com/data/usee/space/144beba1a8924618ab578ea96f81ce57.jpg" group-title="Infantil",Nick JR HD
+http://84.17.40.49:36448/3c5dge9ihzb0fuodehfq2ztk3dfszzdzls7o5dq7aphtxywtwe/index.m3u8?un=Adonis565&tm=1667455754&sn=8nnwYVtgINq2OMmwyrAb9nqBR9o
+#EXTINF:-1 tvg-ID="36-1190" tvg-name="Disney Channel HD" tvg-logo="http://haibao.magstv.com/data/usee/space/60661328b38e46d6822328f7e902a5dd.jpg" group-title="Infantil",Disney Channel HD
+http://84.17.40.49:36448/3zguwebmbl1bccukiydur5dhub1eccvx6m71eot6lg81jjmbp0/index.m3u8?un=Adonis565&tm=1667455754&sn=Z2P4tVHWHiZL4m571usCQlCWDmN
+#EXTINF:-1 tvg-ID="36-1191" tvg-name="Tooncast" tvg-logo="http://haibao.magstv.com/data/usee/space/62378146d57f405d91ee3b848d546008.jpg" group-title="Infantil",Tooncast
+http://84.17.40.49:36448/16yr0067v60dfvey17y1usxepjrss8lrwdfqp7m9u19ldi535wjo/index.m3u8?un=Adonis565&tm=1667455754&sn=QHigYctObW4KC1a5edmct9cWoZU
+#EXTINF:-1 tvg-ID="36-1192" tvg-name="Baby TV" tvg-logo="http://haibao.magstv.com/data/usee/space/cbb7ec04fb7f44c5af8824982046f343.jpg" group-title="Infantil",Baby TV
+http://84.17.40.49:36448/36rmia2zdq4kpwhlqy7rw5g935wqjnv4ghdnxlw2ernkmiekif/index.m3u8?un=Adonis565&tm=1667455754&sn=VUgFKcZQ4WYXm6NVheBAzaWmz1O
+#EXTINF:-1 tvg-ID="36-1193" tvg-name="Nick 2 Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9d7f24835555419494c067f5ff022844.jpg" group-title="Infantil",Nick 2 Central HD
+http://84.17.40.49:36448/36wwyghe3ko8jhyviky462gf2ar5fxvfhy67g78n4r9sd0avui/index.m3u8?un=Adonis565&tm=1667455754&sn=D5mF3FjViBc09kcerdR7vjktpEY
+#EXTINF:-1 tvg-ID="36-1194" tvg-name="Nickelodeon" tvg-logo="http://haibao.magstv.com/data/usee/space/63f79bd7374245e2bd62b90bafded464.jpg" group-title="Infantil",Nickelodeon
+http://84.17.40.49:36448/3zyt7yzsfoknhenoc4ij4yzt0j7nw5pylf9m6hi1alqhsgvy06/index.m3u8?un=Adonis565&tm=1667455754&sn=O5tzstmaOyDIVQhbrRbKP30X6kt
+#EXTINF:-1 tvg-ID="36-1195" tvg-name="Disney Junior" tvg-logo="http://haibao.magstv.com/data/usee/space/6c11df121c4e41a0a4048c04ee04f253.jpg" group-title="Infantil",Disney Junior
+http://84.17.40.49:36448/668cyy80c87v81bfmi6bs3dp2lvg4900uyrxj0v7ksyse956sl/index.m3u8?un=Adonis565&tm=1667455754&sn=I9GnJiTqsR4NKO3jL0XgocHGmns
+#EXTINF:-1 tvg-ID="36-1196" tvg-name="ETC TV" tvg-logo="http://haibao.magstv.com/data/usee/space/39cdd5333aac406da0376dae390e34a3.jpg" group-title="Infantil",ETC TV
+http://84.17.40.49:36448/21rz9yxl8jn0a4xw0zf0aso0yjk6ytyouvb6onjrx9hfntukin/index.m3u8?un=Adonis565&tm=1667455754&sn=SvxTPif9mSZiCFNNFsix6cCGvYy
+#EXTINF:-1 tvg-ID="36-1197" tvg-name="PAKAPAKA-HD" tvg-logo="http://haibao.magstv.com/data/usee/space/f3e765a9cea99340faf0a1b2005c4595.jpeg" group-title="Infantil",PAKAPAKA-HD
+http://84.17.40.49:36448/12j95nvqrz6yctjgnhdft8pfaelo4lmds8wtd0s5lxh8xnfuvanp1or601/index.m3u8?un=Adonis565&tm=1667455754&sn=4AjyotaIm2RofNn6DkmemAPhgAB
+#EXTINF:-1 tvg-ID="36-1198" tvg-name="ULTRA-KIDS-HD" tvg-logo="http://haibao.magstv.com/data/usee/space/7b645d73ad284326911e377dcf9c9e5d.jpeg" group-title="Infantil",ULTRA-KIDS-HD
+http://84.17.40.49:36448/212y6mmsazxrdx1z1qj21tywg48pasdx7unytxjvs2my8gnref4z9p7vrt4yj/index.m3u8?un=Adonis565&tm=1667455754&sn=6U1b2QyM8a3HfpxHkZgXYEjPNoX
+#EXTINF:-1 tvg-ID="33-1093" tvg-name="El canal del fútbol" tvg-logo="http://haibao.magstv.com/data/usee/space/39aa8a7669aa4211815ea58669d6e2e5.jpg" group-title="Ecuador",El canal del fútbol
+http://84.17.40.49:36448/88919vves8aak3nve4qc4rzjrdzcdz6727fs01n1vrn4o7e0zeya3xyzdis8eb6okhuv37/index.m3u8?un=Adonis565&tm=1667455754&sn=FEZzv7nG5Hr1ytELdB1OMmYBnHo
+#EXTINF:-1 tvg-ID="33-1094" tvg-name="RTS FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/918df8cc3a7147c9b1516f6eb96cc758.jpg" group-title="Ecuador",RTS FHD
+http://84.17.40.49:36448/e0wduljw2nwxnrcwprpy3tmx68lfqtnspwz9smnnetnr0/index.m3u8?un=Adonis565&tm=1667455754&sn=PrZisdfeEbkuGeWb8W2TNI3z3fj
+#EXTINF:-1 tvg-ID="33-1095" tvg-name="Gamavision FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/d2e34acbf2bb4c28a5aabf0856b75486.jpg" group-title="Ecuador",Gamavision FHD
+http://84.17.40.49:36448/7mm0ury134italnt2cm1efjgcxty7titqqki4eeowjwry56496gu6ng0/index.m3u8?un=Adonis565&tm=1667455754&sn=TOmNGDJ1HEaUxgqejGJLTCtx6o0
+#EXTINF:-1 tvg-ID="33-1096" tvg-name="Gamavision HD" tvg-logo="http://haibao.magstv.com/data/usee/space/d2e96a8a226840f8bc951216111aee15.jpg" group-title="Ecuador",Gamavision HD
+http://84.17.40.49:36448/66nc4b1fxhrrqw15i4e5rv4n244pq2f7n4b2qn9ofl3z79k7r1ry6mg6kuz8ozsepaug6j8bx/index.m3u8?un=Adonis565&tm=1667455754&sn=2c5lHO3VC8FZqgnWBRw5MgOz3eq
+#EXTINF:-1 tvg-ID="33-1097" tvg-name="Ecuavisa Sierra HD" tvg-logo="http://haibao.magstv.com/data/usee/space/47659c3a48a64e13bd699e2a9c74fbc9.jpg" group-title="Ecuador",Ecuavisa Sierra HD
+http://84.17.40.49:36448/1joa0oqv78a6isc1pe9zbci8gzufs0feef285jgiashae0tswbjkmczzhp5t0jvmk9d/index.m3u8?un=Adonis565&tm=1667455754&sn=I7Ooey9NRqjtUvDVr0sGpHbau3u
+#EXTINF:-1 tvg-ID="33-1098" tvg-name="Oromar FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/3543faed851a415d9f8955a023b72e56.jpg" group-title="Ecuador",Oromar FHD
+http://84.17.40.49:36448/2q5t2gy57zyhx8deqczlv9fo8q8r0r299wgih471tggaqcv09r/index.m3u8?un=Adonis565&tm=1667455754&sn=2DMvCqyd2l3jJ4h0oP5SSEC5qff
+#EXTINF:-1 tvg-ID="33-1099" tvg-name="Teleamazonas Sierra HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9ba5fb9106e44d4aa4d35b4a39d28d12.jpg" group-title="Ecuador",Teleamazonas Sierra HD
+http://84.17.40.49:36448/6452ovxsxvpca17nvuuhdr0uve096mvtmyycvi6nw9jar6j3vx9feopsvp9gsn279o2k1aj6n/index.m3u8?un=Adonis565&tm=1667455754&sn=8xL61XZwgzOUIgnzc9fAvsh33ZA
+#EXTINF:-1 tvg-ID="33-1100" tvg-name="TC Television FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/3733d61f4bbe4033b2e87195f1f30d41.jpg" group-title="Ecuador",TC Television FHD
+http://84.17.40.49:36448/kfz0jkvq53qmrkczvl3r9bvjhy6ywp2vux1h8vt15wujxl14t8ngx8998/index.m3u8?un=Adonis565&tm=1667455754&sn=SPBIs7GmeP0uHtNzvSjtADp4pv0
+#EXTINF:-1 tvg-ID="33-1101" tvg-name="Ecuavisa Costa HD" tvg-logo="http://haibao.magstv.com/data/usee/space/852b5a09fdde4f57aca7d31856538ad1.jpg" group-title="Ecuador",Ecuavisa Costa HD
+http://84.17.40.49:36448/3vinsumhdbtmi5s53uk1c9ockzorwbw9klrsm63flgikojntvnzqi/index.m3u8?un=Adonis565&tm=1667455754&sn=GvP5rzJ3ipKcOlX3i3VwR2OWLVw
+#EXTINF:-1 tvg-ID="33-1102" tvg-name="Televicentro FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/a619f9fdc8684c239dfc99c5db2ff275.jpg" group-title="Ecuador",Televicentro FHD
+http://84.17.40.49:36448/ckbzd10l4il4uuravxepd4qhqtw35gn4dtjtb3coe9x2kk96ukqa8p7j150/index.m3u8?un=Adonis565&tm=1667455754&sn=2mFH2qHprxdbewb9tH1fKuizpMd
+#EXTINF:-1 tvg-ID="33-1103" tvg-name="RTU" tvg-logo="http://haibao.magstv.com/data/usee/space/b3163426e9db42efac741448698f2145.jpg" group-title="Ecuador",RTU
+http://84.17.40.49:36448/39zjb0lwkwbbsaqsom8h1wvs1asdwdpnupxek34nq4a7z/index.m3u8?un=Adonis565&tm=1667455754&sn=LCylhyB1XgF0VUSFFnINnLmcjW8
+#EXTINF:-1 tvg-ID="33-1104" tvg-name="Televicentro HD" tvg-logo="http://haibao.magstv.com/data/usee/space/ea69e35ce55949a181558ae55aff833a.jpg" group-title="Ecuador",Televicentro HD
+http://84.17.40.49:36448/2o81um55wwoufjpq8bq1toddlrye1smmpl2nv7ortiwaxwar7c601t7tc4y4a3zxg2l8knp4n/index.m3u8?un=Adonis565&tm=1667455754&sn=KeezOGhhYsMQxi0LzSaq14iTMxP
+#EXTINF:-1 tvg-ID="33-1105" tvg-name="TC Television HD" tvg-logo="http://haibao.magstv.com/data/usee/space/f5525f9f14224e39bff432b470417c5e.jpg" group-title="Ecuador",TC Television HD
+http://84.17.40.49:36448/13icp9xgf5eaz905nj22nkfe6psv4fjqqa4exho4gvq55nnghjlkjn25hvci7wudjt59u04cipt/index.m3u8?un=Adonis565&tm=1667455754&sn=LVKk53YOM2L3092ZpHX4TxfTj0R
+#EXTINF:-1 tvg-ID="33-1106" tvg-name="RTS HD" tvg-logo="http://haibao.magstv.com/data/usee/space/e5da135fc36b4aa7942045416dc2e319.jpg" group-title="Ecuador",RTS HD
+http://84.17.40.49:36448/7jq92sgc5pcz42hoypg4d5kbp96jnytbk01v7y76uc3dyjslto2e64o6yix/index.m3u8?un=Adonis565&tm=1667455754&sn=UiNnVg2o3KR3GyvPFfXYY5YiP94
+#EXTINF:-1 tvg-ID="33-1107" tvg-name="Oromar HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9964f269c973401ca7f13b5d3d4c6701.jpg" group-title="Ecuador",Oromar HD
+http://84.17.40.49:36448/n7ksg4s1ni1xe1kubn7k8byjeylm09vbmheabc6bh4p5dbv82ffzqkndz9zny4y0skk9/index.m3u8?un=Adonis565&tm=1667455754&sn=GVl3WhRL3N8HabVdes5udxkCAxq
+#EXTINF:-1 tvg-ID="33-1108" tvg-name="Teleamazonas Costa HD" tvg-logo="http://haibao.magstv.com/data/usee/space/5861fed9f6ea424b834e657a23750879.jpg" group-title="Ecuador",Teleamazonas Costa HD
+http://84.17.40.49:36448/6sbxjao3fz7s7ju1b2eavfbc4377urdvrt8ckcngv9wx1fjxzisblhehwt8/index.m3u8?un=Adonis565&tm=1667455754&sn=Np9SZd2ae05DkgjqQFyvzfnhLLg
+#EXTINF:-1 tvg-ID="33-1109" tvg-name="Ecuador TV HD" tvg-logo="http://haibao.magstv.com/data/usee/space/525b16f4365a4f6c8139d6bd7e30c96f.jpg" group-title="Ecuador",Ecuador TV HD
+http://84.17.40.49:36448/3f5zyvht4dkge7gmtix30p8sbkiqstlyrp5s20101pv8sq5ijccvlhqswegna/index.m3u8?un=Adonis565&tm=1667455754&sn=3lryBBQVjkPYHwFJ2hQHW15F8ZB
+#EXTINF:-1 tvg-ID="33-1110" tvg-name="Ecotel tv" tvg-logo="http://haibao.magstv.com/data/usee/space/5f2498bce2a93df94f35634b52be8df7.jfif" group-title="Ecuador",Ecotel tv
+http://84.17.40.49:36448/1oivau00fqami287ornrwg86z2grs3nmsktykyqac71bvimpmdzcxdn/index.m3u8?un=Adonis565&tm=1667455754&sn=Idm36sqqAretyXk3J43S0aRAi0l
+#EXTINF:-1 tvg-ID="33-1111" tvg-name="CANELA TV HD" tvg-logo="http://haibao.magstv.com/data/usee/space/7ebe5dffb31483d5395bb5358c265425.jpg" group-title="Ecuador",CANELA TV HD
+http://84.17.40.49:36448/f48o5bxyly4o3etrn6bsouxbf4kd2uqg7kk7mmftl5m67i2fnwwnwi4teuo/index.m3u8?un=Adonis565&tm=1667455754&sn=XFrI1ZpyvKSb83eMUcjd1lqA5t2
+#EXTINF:-1 tvg-ID="33-1112" tvg-name="planeta tv" tvg-logo="http://haibao.magstv.com/data/usee/space/f180536cec97b2ac5b332b3cdb046787.jpg" group-title="Ecuador",planeta tv
+http://84.17.40.49:36448/3om7gs2vzjtj3rt2nidkzs61711fh10d36pmkl16ptnroemye7r4tlix/index.m3u8?un=Adonis565&tm=1667455754&sn=5esilxfgK7NVR4tG4CcgfL9Xw1Y
+#EXTINF:-1 tvg-ID="33-1113" tvg-name="WAN+" tvg-logo="http://haibao.magstv.com/data/usee/space/62ab4f59a5f2cd94589c0faff843947b.crdownload" group-title="Ecuador",WAN+
+http://84.17.40.49:36448/9ycf9rjl3e2u48knh1e5kmsdw39fake8cdhrunbqqpuer/index.m3u8?un=Adonis565&tm=1667455754&sn=AqdWcSqklcCKzuNNsJISr4Wbria
+#EXTINF:-1 tvg-ID="33-1114" tvg-name="El canal del futbol Ecuador opc" tvg-logo="http://haibao.magstv.com/data/usee/space/be054538b34c30eb31244b567f64e1d6.jpg" group-title="Ecuador",El canal del futbol Ecuador opc
+http://84.17.40.49:36448/uqf65g4hdimqy3rcq0vnspgznj5cwwvkf3m23bx6i1u2zm1i02n7zom5l9ygjq92sv35isdwf83lw20nfdi144ig/index.m3u8?un=Adonis565&tm=1667455754&sn=SoDQ1eHCzVNoYcz0Kef12itVqhj
+#EXTINF:-1 tvg-ID="33-1115" tvg-name="televicentro opc" tvg-logo="http://haibao.magstv.com/data/usee/space/741b5d3199d9c6b61ab6fb6e00a42837.jpg" group-title="Ecuador",televicentro opc
+http://84.17.40.49:36448/6t0jfkurpviyvu54eph10f7ya1k69v5v6vs9d3xhijjt6el80j7bpuv8obn6l6f4s/index.m3u8?un=Adonis565&tm=1667455754&sn=W9vJ7Jhuix9PyyOFtSrfRblJPqU
+#EXTINF:-1 tvg-ID="33-1116" tvg-name="tc television opc" tvg-logo="http://haibao.magstv.com/data/usee/space/5275de5b1281445d73c2b074679117a5.jpg" group-title="Ecuador",tc television opc
+http://84.17.40.49:36448/36zpmp35scir7420fw56sbtx5sz3q0hi8658284lrmdqikecmxbfmj87ghabu9heqc5/index.m3u8?un=Adonis565&tm=1667455754&sn=T8wWOrO6mhRs1I7ModPPqQAqCHl
+#EXTINF:-1 tvg-ID="33-1117" tvg-name="oromar opc" tvg-logo="http://haibao.magstv.com/data/usee/space/a5d87a8511946dc0070f254721e2fd0a.jpg" group-title="Ecuador",oromar opc
+http://84.17.40.49:36448/84rvt5yq3ydvsoexavv25w4oh9m3tmemvc3hejz8l7js4q3ivu8oaarl/index.m3u8?un=Adonis565&tm=1667455754&sn=DXG9dZMwY3YUlynJ5Muf6MsG2Yy
+#EXTINF:-1 tvg-ID="33-1118" tvg-name="rts hd opc" tvg-logo="http://haibao.magstv.com/data/usee/space/2e7410cad7845e4370d373ed466618b9.png" group-title="Ecuador",rts hd opc
+http://84.17.40.49:36448/br7he5mxcu3g6fbufgsdbgdvs22y8u7ktcs2h0wqze487xx34u9ctufv/index.m3u8?un=Adonis565&tm=1667455754&sn=Xw3ZMjPXjD1cGoUTE3gS5Az9NDr
+#EXTINF:-1 tvg-ID="33-1119" tvg-name="ecuavisa hd opc" tvg-logo="http://haibao.magstv.com/data/usee/space/31c29643d79ca3ae4d45e957eacb1eb2.png" group-title="Ecuador",ecuavisa hd opc
+http://84.17.40.49:36448/28onh1ymoxnatnumb309jk5goxiqcok0atfiidcb0a4vjvxfv0cwayim5qjf0ih0/index.m3u8?un=Adonis565&tm=1667455754&sn=NnZP6pQY2NoBAZC44P5CkM2005t
+#EXTINF:-1 tvg-ID="33-1120" tvg-name="Teleamazonas opc" tvg-logo="http://haibao.magstv.com/data/usee/space/cddddadaa0c6ccef3d87b143fc243cd7.jpg" group-title="Ecuador",Teleamazonas opc
+http://84.17.40.49:36448/k2l2us4a1c1x1dnzr56qbic6lf5hsj9kpmbfcllae5b2yhdt05jtbkmjoklhx88mm/index.m3u8?un=Adonis565&tm=1667455754&sn=T0AhNuDEdANLMKgKE1IfsVOcSlB
+#EXTINF:-1 tvg-ID="33-1121" tvg-name="ecuador tv hd opc" tvg-logo="http://haibao.magstv.com/data/usee/space/e88c285ac5a7bbffe53993f1dc6cfdda.jpg" group-title="Ecuador",ecuador tv hd opc
+http://84.17.40.49:36448/3qpe3hsrlzuyamys6doyz3jthdkd1mi0p2j8y3eme4othgdxxjk0txktiarp67jzl6r/index.m3u8?un=Adonis565&tm=1667455754&sn=Fb8276exL7jvys79uang1JXTXck
+#EXTINF:-1 tvg-ID="33-1122" tvg-name="TELERAMA" tvg-logo="http://haibao.magstv.com/data/usee/space/d7effae53bf42d5cfe59f63cfac1fd30.jpeg" group-title="Ecuador",TELERAMA
+http://84.17.40.49:36448/2alhwfrk8kajs3w6j0txa8k62isol5cxr12fekqsrxfgisn31kieg/index.m3u8?un=Adonis565&tm=1667455754&sn=9VyOv7qoCEtfApv0DF5dVui5d0F
+#EXTINF:-1 tvg-ID="31-985" tvg-name="History 2 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/df7219c7d1964d069d244bd9c24cbbd1.jpg" group-title="Cultura",History 2 HD
+http://84.17.40.49:36448/n1adqqu0441eud46awny132eyv4g27gw3ehyjzxexv3jh1q3f/index.m3u8?un=Adonis565&tm=1667455754&sn=2n880k1RK2xZhRbNEyWpYs1w65B
+#EXTINF:-1 tvg-ID="31-982" tvg-name="History HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/60512957681c40608a45fa99d612c6a1.jpg" group-title="Cultura",History HD+
+http://84.17.40.49:36448/5eba3hmpi24ze1yv6ffwmsbnyyvh9m2ppsrka9c0em864aittu/index.m3u8?un=Adonis565&tm=1667455754&sn=RV0C35ta518E3gvYsbSwRSvXBse
+#EXTINF:-1 tvg-ID="31-980" tvg-name="History Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/e9b0c3724dac421e9a340369d358f250.jpg" group-title="Cultura",History Central HD
+http://84.17.40.49:36448/2mjwf8o0o7nz920et507kh7pv8l9e6aefuyys1nj5uec46rc7w/index.m3u8?un=Adonis565&tm=1667455754&sn=6mwQwEoS6BPZwhZv1uLzhUibx3K
+#EXTINF:-1 tvg-ID="31-975" tvg-name="Discovery ID HD" tvg-logo="http://haibao.magstv.com/data/usee/space/66c668d065a74386a0283678707c0cfb.jpg" group-title="Cultura",Discovery ID HD
+http://84.17.40.49:36448/4kmrpe2emfk4bl7965h2s75lpqwftuzj27gah048wvvjf1gfdj/index.m3u8?un=Adonis565&tm=1667455754&sn=8r7RmQDkFaQ7aULqC3kNjUAyp89
+#EXTINF:-1 tvg-ID="31-976" tvg-name="Discovery Theater HD" tvg-logo="http://haibao.magstv.com/data/usee/space/f99d260467dd4d2095fae23642330773.jpg" group-title="Cultura",Discovery Theater HD
+http://84.17.40.49:36448/4f5b4e42zjq1559p42gp6si4j2lf13bwki89apehwrliyk0uxf/index.m3u8?un=Adonis565&tm=1667455754&sn=1KifknIcthOR9Jekp0oyXZhDATP
+#EXTINF:-1 tvg-ID="31-977" tvg-name="History HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9215475b0e4442dd9a1b84c99e0074be.jpg" group-title="Cultura",History HD
+http://84.17.40.49:36448/4hddqkz41qb2t4eyqiwvsbmrgqfcnp4wiodop19ibueu6p8p05/index.m3u8?un=Adonis565&tm=1667455754&sn=VmrRH8kAF6Wzq4qMwEASwzCneLI
+#EXTINF:-1 tvg-ID="31-978" tvg-name="Discovery Turbo HD" tvg-logo="http://haibao.magstv.com/data/usee/space/97fb83dc6bf1458c9f746324f5a346ea.jpg" group-title="Cultura",Discovery Turbo HD
+http://84.17.40.49:36448/1ors4fseiz3ck39qetlhooz7i9pyuucsjjuu7vq5e3ukw4afgg/index.m3u8?un=Adonis565&tm=1667455754&sn=4Y5nKtspnv7TMXq5PcaXMiqnCv5
+#EXTINF:-1 tvg-ID="31-955" tvg-name="Discovery Home Health HD" tvg-logo="http://haibao.magstv.com/data/usee/space/af55d18392c14ebe860b0234349884e3.jpg" group-title="Cultura",Discovery Home Health HD
+http://84.17.40.49:36448/27rk6ykj15voqyxzczon7dmqzgo848tpagerithbmcqme8i5x5ffko1frq1kt3qhdazlgdbaahh8fa/index.m3u8?un=Adonis565&tm=1667455754&sn=RXBUbAQ5o9cQJEPjTwtBBR1BdFg
+
