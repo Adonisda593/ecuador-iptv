@@ -239,4 +239,228 @@ http://84.17.40.49:36448/4hddqkz41qb2t4eyqiwvsbmrgqfcnp4wiodop19ibueu6p8p05/inde
 http://84.17.40.49:36448/1ors4fseiz3ck39qetlhooz7i9pyuucsjjuu7vq5e3ukw4afgg/index.m3u8?un=Adonis565&tm=1667455754&sn=4Y5nKtspnv7TMXq5PcaXMiqnCv5
 #EXTINF:-1 tvg-ID="31-955" tvg-name="Discovery Home Health HD" tvg-logo="http://haibao.magstv.com/data/usee/space/af55d18392c14ebe860b0234349884e3.jpg" group-title="Cultura",Discovery Home Health HD
 http://84.17.40.49:36448/27rk6ykj15voqyxzczon7dmqzgo848tpagerithbmcqme8i5x5ffko1frq1kt3qhdazlgdbaahh8fa/index.m3u8?un=Adonis565&tm=1667455754&sn=RXBUbAQ5o9cQJEPjTwtBBR1BdFg
+#EXTINF:-1 tvg-ID="9-372" tvg-name="LOS SIMPSON 24/7 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/f096da3d755945c482821002ec2c92d8.jpg" group-title="Canales 24/7",LOS SIMPSON 24/7 HD
+http://84.17.40.49:36448/314pb71dafmvbhsktjyay0lhwyrd9h7jnob5cxkbq5k53roopiwswny2sbwd54fq2bk955/index.m3u8?un=Adonis565&tm=1667623104&sn=I5v5lJQ8nyObj4DM9ZGVDZfD7i0
+#EXTINF:-1 tvg-ID="9-352" tvg-name="EL CHAVO DEL 8 HD 24/7" tvg-logo="http://haibao.magstv.com/data/usee/space/4882e81cee454c18bdf57c58b4e5d7f8.jpg" group-title="Canales 24/7",EL CHAVO DEL 8 HD 24/7
+http://84.17.40.49:36448/2e922fvzex2tjip9wrqi8rjumfde472zphnk0ct9grqja2d669em2yx7o9k61fbagihh6f9ic68/index.m3u8?un=Adonis565&tm=1667623104&sn=Pjg3LyQWnTzbBOiUjbl0jyH9RTP
 
+#EXTINF:-1 tvg-ID="18-583" tvg-name="AMC FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/5b1625b1c95444a5ae666386416b566e.jpg" group-title="Cine y Series",AMC FHD
+http://84.17.40.49:36448/v6qdagfnsz3ud5kteazfmab84chobhmjf0vlz9m8hx0ifznd94z/index.m3u8?un=Adonis565&tm=1667623104&sn=5XzPXeYrlRbFjreKfL3eSw8ZNNz
+#EXTINF:-1 tvg-ID="18-584" tvg-name="ALQUILER 1 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/feb1c4cf291c4c97bb1465d7c18b3dad.jpg" group-title="Cine y Series",ALQUILER 1 HD
+http://84.17.40.49:36448/62iedlh9xrht35hb2bz6kztimnhcene2lmuy24a5fffihmghw02ts1pt/index.m3u8?un=Adonis565&tm=1667623104&sn=MExBUaPRnjPtnZgnU6tyceAjdx1
+#EXTINF:-1 tvg-ID="18-585" tvg-name="MOVISTAR DRAMA HD" tvg-logo="http://haibao.magstv.com/data/usee/space/da6c3254ccde4388bab788eae3a5b992.jpg" group-title="Cine y Series",MOVISTAR DRAMA HD
+http://84.17.40.49:36448/5j5xe41m5ntn1dqmgn3azfiatbg9gyfbk71w6jz470o7diznkzle8s2aoads6wvj2ym/index.m3u8?un=Adonis565&tm=1667623104&sn=CPuqW1KV0qINhC6zLPHfsCDUH8z
+#EXTINF:-1 tvg-ID="18-586" tvg-name="GOLDEN PLUS" tvg-logo="http://haibao.magstv.com/data/usee/space/0186fd995e1b4a3cb213b57369f67cf8.jpg" group-title="Cine y Series",GOLDEN PLUS
+http://84.17.40.49:36448/az4tk804kyvm3thnogymuxcijtharpw8z5gxkd4bvl269wuj5rzcipb6n/index.m3u8?un=Adonis565&tm=1667623104&sn=Ya3JF8JTt4DnOLv3HNACtn7jSI2
+#EXTINF:-1 tvg-ID="18-587" tvg-name="SHOWTIME EAST" tvg-logo="http://haibao.magstv.com/data/usee/space/308909ff197a4fab9a6c1ad162b55601.jpg" group-title="Cine y Series",SHOWTIME EAST
+http://84.17.40.49:36448/2ep92ofk5h0v8ux226avblnnyym8bbr0c0969o0grsbsw3v2h2ue9x0hlutaj/index.m3u8?un=Adonis565&tm=1667623104&sn=XI4f7FGGJ35yMtyMfvXv8RUTtFY
+#EXTINF:-1 tvg-ID="18-588" tvg-name="TLNOVELAS UNIVISION HD" tvg-logo="http://haibao.magstv.com/data/usee/space/c1de42d2e5a74f9d83a400c97f2238d9.jpg" group-title="Cine y Series",TLNOVELAS UNIVISION HD
+http://84.17.40.49:36448/1dfml160els6uxaokjl9y6evmfhujsaxpj4ijklzb74cfa037wxmu4121dzosd6k2tfmywwi40y/index.m3u8?un=Adonis565&tm=1667623104&sn=8drS2RxszBMYtYglnJDFRzsrvl7
+#EXTINF:-1 tvg-ID="18-589" tvg-name="HBO FAMILY FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/ece0775c93fa4497a390329ec92ee2d7.jpg" group-title="Cine y Series",HBO FAMILY FHD
+http://84.17.40.49:36448/nxey3tapa401ho35l2zuqwsn95ovn9rquh79kf6ylu7rspmo6d3n2dj4jvuoo6/index.m3u8?un=Adonis565&tm=1667623104&sn=DFHPiWlhP7gMkYYIalCT8M8bOnf
+#EXTINF:-1 tvg-ID="18-590" tvg-name="CINE LATINO HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9472ca48483b40cfa59d53032da12564.jpg" group-title="Cine y Series",CINE LATINO HD
+http://84.17.40.49:36448/1x6e5mo2902h1ne8pfakeu706bz1dlx7i6lq7w79byl96qu7xih155ov5a7kgk/index.m3u8?un=Adonis565&tm=1667623104&sn=3eu9gnPHdFnR9RHCWF3jcRhh7HC
+#EXTINF:-1 tvg-ID="18-591" tvg-name="UNIVERSAL CINEMA HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9c1f759ed32f8fe7206ecaf000024a71.png" group-title="Cine y Series",UNIVERSAL CINEMA HD
+http://84.17.40.49:36448/1qj457l6edcmmsuwoll16bbf7p5k34rp96vx0oajaofab2tr0nesay6ckmyoa/index.m3u8?un=Adonis565&tm=1667623104&sn=IAoQdHxJushfMCT9487hpM0ikh5
+#EXTINF:-1 tvg-ID="18-592" tvg-name="CINEMAX FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/fc7bdb36595b48a2bfb1af0de61fc41c.jpg" group-title="Cine y Series",CINEMAX FHD
+http://84.17.40.49:36448/1x0bffrc7whqyqo6id0omsnavx6yf45rwwi6q85fxzdtzvmorpqygrhakt/index.m3u8?un=Adonis565&tm=1667623104&sn=2gkN5RPL2R8sVGB53etUExUIgze
+#EXTINF:-1 tvg-ID="18-593" tvg-name="GOLDEN HD" tvg-logo="http://haibao.magstv.com/data/usee/space/869041ba11744673a3519539bc647e4b.jpg" group-title="Cine y Series",GOLDEN HD
+http://84.17.40.49:36448/1ogwbvtkpely911q9f525mdxrjsj2iue78zr6uideyqywxgrb7itthe/index.m3u8?un=Adonis565&tm=1667623104&sn=9JHPpJtyf7geXdeuMFvzGWCJem2
+#EXTINF:-1 tvg-ID="18-594" tvg-name="SHOWTIME 2 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/c3c94c95eaf64f6a90de345fb74a022a.jpg" group-title="Cine y Series",SHOWTIME 2 HD
+http://84.17.40.49:36448/2bj76sjrm4y0yydplmshkk6rn8yujsy8s0tvt5ohft8ivpt3p2stug9e2gzau/index.m3u8?un=Adonis565&tm=1667623104&sn=YX7rooEmG8KPlQbRGqyDWRIbtwR
+#EXTINF:-1 tvg-ID="18-595" tvg-name="EPIX 1 HITS HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9f32b4c5565541ad8bae58db1fb9b83a.jpg" group-title="Cine y Series",EPIX 1 HITS HD
+http://84.17.40.49:36448/98ocmpnzwcw6ov6wizmafj0579zq6ie7sugwd793ahukvac9tjqxm67aqq2vil/index.m3u8?un=Adonis565&tm=1667623104&sn=GH0d0Lasla71Bh0tDSf2nkli0Zt
+#EXTINF:-1 tvg-ID="18-596" tvg-name="PASIONES" tvg-logo="http://haibao.magstv.com/data/usee/space/bcd1206e0327466099cbd94642eab460.jpg" group-title="Cine y Series",PASIONES
+http://84.17.40.49:36448/76niigl0zy5sezeo9vw02zho8m63vid9ts4fpq3t213kz5ncuh09h/index.m3u8?un=Adonis565&tm=1667623104&sn=5uoVfep1JgXuAkWJ5WEoCGX8hXx
+#EXTINF:-1 tvg-ID="18-597" tvg-name="XTRM ESPAÑA HD" tvg-logo="http://haibao.magstv.com/data/usee/space/426b5bfdb7f540b796b8addc6e6eb0e5.jpg" group-title="Cine y Series",XTRM ESPAÑA HD
+http://84.17.40.49:36448/lje34yxl3rtsn8spbdqlsht4au5tgvx2tq9uy8cp3os3eyw5cb70lojo50mu8u/index.m3u8?un=Adonis565&tm=1667623104&sn=HOEQJHmxvxCysZ4vvLkW0CaEG9l
+#EXTINF:-1 tvg-ID="18-598" tvg-name="EPIX 1 ESTE HD" tvg-logo="http://haibao.magstv.com/data/usee/space/df108d78f046491892bd81af9144974c.jpg" group-title="Cine y Series",EPIX 1 ESTE HD
+http://84.17.40.49:36448/8tj79kz2ucf01wdenklc02tiudlvd438v8bc975lxq852pb95vqvkbt47g48xl/index.m3u8?un=Adonis565&tm=1667623104&sn=FQT2GE4icHztemEUuFJezs8G04b
+#EXTINF:-1 tvg-ID="18-599" tvg-name="DHE FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/3779021d58b440308922e5da2677c792.jpg" group-title="Cine y Series",DHE FHD
+http://84.17.40.49:36448/3nwz8edrn7go3umcmc1ck4vm51d5cnhg3v5qfboal2j3hzmz0zy/index.m3u8?un=Adonis565&tm=1667623104&sn=Sz4Q5VUHvk2JxUvzSKX7AtWPfza
+#EXTINF:-1 tvg-ID="18-600" tvg-name="SHOWTIME HD" tvg-logo="http://haibao.magstv.com/data/usee/space/a4fe4c6c13ef42758c34eda216f42589.jpg" group-title="Cine y Series",SHOWTIME HD
+http://84.17.40.49:36448/lpgibdeh2puz1a5xkoyhu736x98tzv4xu39ck93sbw7pq33gri60bp17y/index.m3u8?un=Adonis565&tm=1667623104&sn=XnUTFOl4BxIN3SjI2g2agkXv89Q
+#EXTINF:-1 tvg-ID="18-601" tvg-name="MOVISTAR ACCION HD" tvg-logo="http://haibao.magstv.com/data/usee/space/b1bb256832974574ad89adda3bddfce6.jpg" group-title="Cine y Series",MOVISTAR ACCION HD
+http://84.17.40.49:36448/19gpo4myod9kefvd2f7ggrqaaeh5tz08dwgek211xys8mh9ghf78scw7na803fbo37lo5/index.m3u8?un=Adonis565&tm=1667623104&sn=9oc1gzNUmSOTET5fknQRm2q2LOI
+#EXTINF:-1 tvg-ID="18-602" tvg-name="HOLLYWOOD HD" tvg-logo="http://haibao.magstv.com/data/usee/space/51ef94d0e151494dabd15d0ddd65279d.jpg" group-title="Cine y Series",HOLLYWOOD HD
+http://84.17.40.49:36448/7rgqx53azip1vmxt1fhishueu0aibynu7vjg0hao7jlvswizro7cdkl50gi/index.m3u8?un=Adonis565&tm=1667623104&sn=3ispIK9i9apF3fSuNSKoNPXlfFo
+#EXTINF:-1 tvg-ID="18-603" tvg-name="CALLE 13 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/c705a35961cf4567891e45a2de6f887c.jpg" group-title="Cine y Series",CALLE 13 HD
+http://84.17.40.49:36448/rmpx0oiljlxwkfzxm5vq6olmagrfaie1qihq81jst8z1l89e34ma1vkg5/index.m3u8?un=Adonis565&tm=1667623104&sn=3ueX1bqVf7dXAWezMfkYAuwDwpo
+#EXTINF:-1 tvg-ID="18-604" tvg-name="MOVISTAR COMEDIA HD" tvg-logo="http://haibao.magstv.com/data/usee/space/86b676122e0a458f9b861f755af85a17.jpg" group-title="Cine y Series",MOVISTAR COMEDIA HD
+http://84.17.40.49:36448/46wyzd6qxv1v1jm7trhmww44guzttjxjvwt4fjmnv8gyriegt567gsnlk3sjq3bkz1xten/index.m3u8?un=Adonis565&tm=1667623104&sn=KMCmZKYqV8t2pRbZiSD0muriLgQ
+#EXTINF:-1 tvg-ID="18-605" tvg-name="KANAL D EN ESPAÑOL" tvg-logo="http://haibao.magstv.com/data/usee/space/38aea97abc7b4bca9d21d017a892cb17.jpg" group-title="Cine y Series",KANAL D EN ESPAÑOL
+http://84.17.40.49:36448/5cy7ri3jay4zpntdpqn2cxwpr5nqir23b5969k9kgu65ck8qjkhzywn1kc9pncer6tgz/index.m3u8?un=Adonis565&tm=1667623104&sn=2TplHrgjx6xv90tp9jWOJRrsEkE
+#EXTINF:-1 tvg-ID="18-606" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://haibao.magstv.com/data/usee/space/eae0b6a64e5c479490449d58be432315.jpg" group-title="Cine y Series",COMEDY CENTRAL HD
+http://84.17.40.49:36448/317szgu9429xv7nmzvojv69pkw6wr1v5fow0wfgmakla6327b0d4tw7r7vtawqavou8/index.m3u8?un=Adonis565&tm=1667623104&sn=4jZRoVEdHwFxpp9agKi4bjEYzMY
+#EXTINF:-1 tvg-ID="18-607" tvg-name="DISTRITO COMEDIA HD" tvg-logo="http://haibao.magstv.com/data/usee/space/b4bb56ebf23c4de6acb697250015d298.jpg" group-title="Cine y Series",DISTRITO COMEDIA HD
+http://84.17.40.49:36448/59f23wk7wfeg74tg79ythfu3r4njsuv9xvoshh3c8t34zu8t3j1e25u1sim5e5ys5ecc0s/index.m3u8?un=Adonis565&tm=1667623104&sn=LR8uSvBeWIn8EanqZ0Wr2eURWte
+#EXTINF:-1 tvg-ID="18-608" tvg-name="ALQUILER 5 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/ab1c30938c454fb1b5c98c7cfd2e92bb.jpg" group-title="Cine y Series",ALQUILER 5 HD
+http://84.17.40.49:36448/92443rdyer3q2a0g0382rf2bgpejyv9ea259j3onemp6xpcwvww4jwh4/index.m3u8?un=Adonis565&tm=1667623104&sn=PZLXc1v4aPaypskB60WcGFlXCq1
+#EXTINF:-1 tvg-ID="18-609" tvg-name="ZEE MUNDO BOLLYWOOD HD" tvg-logo="http://haibao.magstv.com/data/usee/space/011bb63cc8f94001a9998877901434f7.jpg" group-title="Cine y Series",ZEE MUNDO BOLLYWOOD HD
+http://84.17.40.49:36448/2jkm6rvrnx1g9gjk6gqiqt6cm9mmrdw47yv2237ce88mfqy4svgww943tfce70nw2zpa6k2lqy5/index.m3u8?un=Adonis565&tm=1667623104&sn=HgqkKtM5WfNM2q8BYhZv1Gr1FvC
+#EXTINF:-1 tvg-ID="18-610" tvg-name="CINEMA+ 01" tvg-logo="http://haibao.magstv.com/data/usee/space/223b9f3d5148165897e9eb952815a4ac.jpeg" group-title="Cine y Series",CINEMA+ 01
+http://84.17.40.49:36448/32ui409czw2ibccnpzdma6ufs0pu4sfayupx6z6dhgwj31pwuz/index.m3u8?un=Adonis565&tm=1667623104&sn=51aMzhSNYRCkFTsfjl0mLtN3KeY
+#EXTINF:-1 tvg-ID="18-611" tvg-name="ALQUILER 4 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/c0df9f48cdd242d98adacf3d92491767.jpg" group-title="Cine y Series",ALQUILER 4 HD
+http://84.17.40.49:36448/a5sk0u3sivc1bb6tyk8hp2ds22ick8vm9xehg0acjw9rw2051nu25gvc/index.m3u8?un=Adonis565&tm=1667623104&sn=Cp4RSl9Af9IXAhUzdyLYWHD4ikY
+#EXTINF:-1 tvg-ID="18-612" tvg-name="SHOWTIME EXTREME HD" tvg-logo="http://haibao.magstv.com/data/usee/space/dd79f6d1839143a692a34d6af839688e.jpg" group-title="Cine y Series",SHOWTIME EXTREME HD
+http://84.17.40.49:36448/0194f7nl708oa22tdweq5dgb1tkkx4j2220kj8fdce676up7oe8lbxni3r4griw78d8h9i/index.m3u8?un=Adonis565&tm=1667623104&sn=YskR4ZHBolSG0uRu2UEnKX2S6d9
+#EXTINF:-1 tvg-ID="18-613" tvg-name="EPIX 1 OESTE HD" tvg-logo="http://haibao.magstv.com/data/usee/space/21ab86c7e96943f6924bbe6d92413fe7.jpg" group-title="Cine y Series",EPIX 1 OESTE HD
+http://84.17.40.49:36448/bm9hla3lvxk9jofgabfl4dxatdala3d6yd7iae2tdqkjb5tzjsrz3n8weraihi5/index.m3u8?un=Adonis565&tm=1667623104&sn=Ysg4V9kwcKPMLqjXhVjmfRK5yjf
+#EXTINF:-1 tvg-ID="18-614" tvg-name="TLNOVELAS SD" tvg-logo="http://haibao.magstv.com/data/usee/space/543275b5f2bf4dafa1938d5456c82d94.jpg" group-title="Cine y Series",TLNOVELAS SD
+http://84.17.40.49:36448/1hsyzmnt4to4kaurqzgz9210gfz1tu1onfmyipv84bn8w90nmqgyf3t53p/index.m3u8?un=Adonis565&tm=1667623104&sn=PiSN6Gib5zFQsz46S7pHRoIoQay
+#EXTINF:-1 tvg-ID="18-615" tvg-name="CANAL DE LAS ESTRELLA" tvg-logo="http://haibao.magstv.com/data/usee/space/8f261cddb88148b184b8cdf59e09eba4.jpg" group-title="Cine y Series",CANAL DE LAS ESTRELLA
+http://84.17.40.49:36448/7x1ruuvnyh5vgr5kibzzjn3t1vhqjqfwaoja0ycbasvlukbmiigw839q03vdd8hl9qpdhyp72/index.m3u8?un=Adonis565&tm=1667623104&sn=RonkorfceTNzlesDV45CItvDTBI
+#EXTINF:-1 tvg-ID="18-616" tvg-name="TRU TV FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/60ce1da1b924463da99fa6eca1eede6e.jpg" group-title="Cine y Series",TRU TV FHD
+http://84.17.40.49:36448/cktq8uu723jvxzdhiv8vemu3dar2et8ig62fk0miy0o2vmewbae5mg13/index.m3u8?un=Adonis565&tm=1667623104&sn=XQSeHN6yIJPh37vEgMG52kprPoX
+#EXTINF:-1 tvg-ID="18-617" tvg-name="CINE AR HD" tvg-logo="http://haibao.magstv.com/data/usee/space/0dc2f71e1bc74243ab600f4ee67154f6.jpg" group-title="Cine y Series",CINE AR HD
+http://84.17.40.49:36448/5d2djvaguzude01uwdbqy0s4gsc0xcb98lzxil0j88858z1mnbnbc2py/index.m3u8?un=Adonis565&tm=1667623104&sn=GYtrfecgMzZaLgYadoWGpT2pEti
+#EXTINF:-1 tvg-ID="18-618" tvg-name="GOLDEN PLUS MX FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/f2f9a3270e204012ad2249fc15787607.jpg" group-title="Cine y Series",GOLDEN PLUS MX FHD
+http://84.17.40.49:36448/gdajkt5k5yncw577l8cf0v1tmyrvlllatvtoxfxfmpkk7kca51i6jstupterzyi8t4hm/index.m3u8?un=Adonis565&tm=1667623104&sn=Q5PKZgqlu5ObNo6I4FUeHl7Vycp
+#EXTINF:-1 tvg-ID="18-619" tvg-name="MOVISTAR ESTRENOS HD" tvg-logo="http://haibao.magstv.com/data/usee/space/26bf7321589c411c8d10fad37a03cc41.jpg" group-title="Cine y Series",MOVISTAR ESTRENOS HD
+http://84.17.40.49:36448/mbitbeagkdb1q5187aewxiycuwv9dmidygs4niaakejwigfcw4ld2tmaoc96bbiwtnotpgc/index.m3u8?un=Adonis565&tm=1667623104&sn=CVlYVj71q9deGrD8HLaTMqVhOlH
+#EXTINF:-1 tvg-ID="18-620" tvg-name="FX HD" tvg-logo="http://haibao.magstv.com/data/usee/space/e0d3f861de764fbc9a6a389e649a0b3c.jpg" group-title="Cine y Series",FX HD
+http://84.17.40.49:36448/l8xrkifas5sq6nz6hgld2ktemcpe6dw7fx370yw9147cdjzb/index.m3u8?un=Adonis565&tm=1667623104&sn=CruiVFH0h6dMWCja0NZFbY9uKdH
+#EXTINF:-1 tvg-ID="18-621" tvg-name="ALQUILER 2 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/0c8066ff96014c888c5d86bd04cb7404.jpg" group-title="Cine y Series",ALQUILER 2 HD
+http://84.17.40.49:36448/4tlh5ovxtdf7tyd2lawek1qdmmsf0lti56wprg7wxih9b7zmzcwdh7ce/index.m3u8?un=Adonis565&tm=1667623104&sn=KJfswpEFh7OdroejfPQ56yLpaZx
+#EXTINF:-1 tvg-ID="18-622" tvg-name="MOVISTAR SERIESMANIA HD" tvg-logo="http://haibao.magstv.com/data/usee/space/90787daffa6f480a8dde14617e36bad2.jpg" group-title="Cine y Series",MOVISTAR SERIESMANIA HD
+http://84.17.40.49:36448/3e6wuf4q1txvstns9bmkqb9u79ws88bmpw4ksj9ixm24cqhk99b65oj3dxxifz0v0gxhfnse1n15/index.m3u8?un=Adonis565&tm=1667623104&sn=98WDBzY5B2iIaUURcgfrKX0XAA9
+#EXTINF:-1 tvg-ID="18-623" tvg-name="CINEMA DINAMITA HD" tvg-logo="http://haibao.magstv.com/data/usee/space/03dbaaf45f6a4b7491478a5dc6079292.jpg" group-title="Cine y Series",CINEMA DINAMITA HD
+http://84.17.40.49:36448/4r3c8chtclxrz2yo9v74atm1cqdxeooz4n420h0wgyiyckr63op95454db5d3y6yk3gi/index.m3u8?un=Adonis565&tm=1667623104&sn=H8YhRzTRPgFaO2HzFAyFtYFuhcZ
+#EXTINF:-1 tvg-ID="18-624" tvg-name="ALQUILER 3 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/8fdf9e47ac014f3c955b4df10fc4a6e1.jpg" group-title="Cine y Series",ALQUILER 3 HD
+http://84.17.40.49:36448/8lnmesnnqieo465p1pv5oal0vwzlm97mnrwirzag7y2yw8v59n594kli/index.m3u8?un=Adonis565&tm=1667623104&sn=Zd6JOCzdSivgJlasG8LY74Jy3Bi
+#EXTINF:-1 tvg-ID="18-625" tvg-name="ALQUILER 6 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/ee2058eb17154d43ba8a5cfc4e26d7e6.jpg" group-title="Cine y Series",ALQUILER 6 HD
+http://84.17.40.49:36448/12jzrdw6t6ldydwccbdh5bph61p10rkz9vudcnjijvfs9ciaa7e6a8b3/index.m3u8?un=Adonis565&tm=1667623104&sn=3f5ruAwPBtUdwDPPMQhxmdt6u0h
+#EXTINF:-1 tvg-ID="18-626" tvg-name="DE PELICULA PLUS FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/0f6db7f2d3544f8bb1d51a7ad6034783.jpg" group-title="Cine y Series",DE PELICULA PLUS FHD
+http://84.17.40.49:36448/1piwuwe50kbtn2v0tz40lbxrkhsifqvcdopqij3qmwp25oxrbykfpvg0x4l183pgxr53nfa2/index.m3u8?un=Adonis565&tm=1667623104&sn=OTEA0fxi1Dw76EB4ZBAftEqYkVm
+#EXTINF:-1 tvg-ID="18-627" tvg-name="SHOWTIME BEYOND HD" tvg-logo="http://haibao.magstv.com/data/usee/space/1fbfc3689a8445e4bd771c89dd29356d.jpg" group-title="Cine y Series",SHOWTIME BEYOND HD
+http://84.17.40.49:36448/li6w5o6uvlwhtn13is2w97cu1ltuennijh5gomp3e9bwqwk7941u6aca6fwloy30ie8n/index.m3u8?un=Adonis565&tm=1667623104&sn=CqZU808l4TyvMacJo0f5lMFsmi8
+#EXTINF:-1 tvg-ID="18-628" tvg-name="AZ CINEMA FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/fc431503bf2146578ee7d95e48296b79.jpg" group-title="Cine y Series",AZ CINEMA FHD
+http://84.17.40.49:36448/2hhc5bz5fbgb8mj6ix8pjlk73lbngs7jl972bg5edhdasebrex1tuulz8ub7g/index.m3u8?un=Adonis565&tm=1667623104&sn=GpknTEkARJO1G1hTszjU6rzqouK
+#EXTINF:-1 tvg-ID="18-629" tvg-name="Warner Channel HD" tvg-logo="http://haibao.magstv.com/data/usee/space/89e16772076447659993967f13c27b37.jpg" group-title="Cine y Series",Warner Channel HD
+http://84.17.40.49:36448/6rvx3nmz95l3tn7m6nc9ywwiggfws5dtgxcbfe4jhq8e6vb5h675oz1knx6bwc4hrk1/index.m3u8?un=Adonis565&tm=1667623104&sn=TWC1L2IYrGvMTeSF37ZYX4VgMe2
+#EXTINF:-1 tvg-ID="18-630" tvg-name="CINEMA+ 02" tvg-logo="http://haibao.magstv.com/data/usee/space/223b9f3d5148165897e9eb952815a4ac.jpeg" group-title="Cine y Series",CINEMA+ 02
+http://84.17.40.49:36448/100bqbf26mgbbuwgdnasl7b1kpz8wzbktr9x471iyr0w3vhkytk5/index.m3u8?un=Adonis565&tm=1667623104&sn=8frpXQixNPmq4WUhKqJ3snfhWwj
+#EXTINF:-1 tvg-ID="18-631" tvg-name="EUROPA EUROPA HD" tvg-logo="http://haibao.magstv.com/data/usee/space/252f05ae371441acb171a97e2fa6d827.jpg" group-title="Cine y Series",EUROPA EUROPA HD
+http://84.17.40.49:36448/lhwv1x0fl0lvzs34vj47fji1qw8hbwpsgeeozbxaf91azvnt4lia5ypgicbqrnq7v/index.m3u8?un=Adonis565&tm=1667623104&sn=ZGjfZOhM5S5OF80Cdr6hInV8cDt
+#EXTINF:-1 tvg-ID="18-632" tvg-name="TELEMUNDO CHICAGO HD" tvg-logo="http://haibao.magstv.com/data/usee/space/5b4708c58f3c72ed54a5c5663071b6de.jpeg" group-title="Cine y Series",TELEMUNDO CHICAGO HD
+http://84.17.40.49:36448/27czi6oy5b4b24icvfkowuqtep06dxmzffqbfdihs4h56amr5wjf6o1cvowt1pm6/index.m3u8?un=Adonis565&tm=1667623104&sn=5B3z9buiDd0QHLXROkSvy8cjnWE
+#EXTINF:-1 tvg-ID="18-633" tvg-name="EPIX 1 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/4dd91346f3e2413e98550d2ac976b467.jpg" group-title="Cine y Series",EPIX 1 HD
+http://84.17.40.49:36448/12dsfhfaz01srmol2hyxzuu26wfxcdbyz39sxtgm7dqtqwynuj57zuw/index.m3u8?un=Adonis565&tm=1667623104&sn=QdTVmX5mjhKmojcIghNEaN73vlG
+#EXTINF:-1 tvg-ID="18-634" tvg-name="SR CINE HD" tvg-logo="http://haibao.magstv.com/data/usee/space/1467838ac64144d9b275962a19c841bc.jpg" group-title="Cine y Series",SR CINE HD
+http://84.17.40.49:36448/1nwa5j928s7fdxunjm0sxlbipji9ba0yiks21zgd4n7wietfzh6ugy2cslyav21lrwevn04aa3cz/index.m3u8?un=Adonis565&tm=1667623104&sn=8Pv0h5kJOxPTke0bTlTbAa7BAhO
+#EXTINF:-1 tvg-ID="18-635" tvg-name="SHOWTIME WEST HD" tvg-logo="http://haibao.magstv.com/data/usee/space/a4c02d9f8be842e586b731046681e623.jpg" group-title="Cine y Series",SHOWTIME WEST HD
+http://84.17.40.49:36448/hwgsdk0pxxtcv5y8un3x363hkkkup3bjdqx6ak67oz29hhpneo7e7fzg636t3mxmn/index.m3u8?un=Adonis565&tm=1667623104&sn=77mSJcQRIK80DTJrRW8EtfffVOf
+#EXTINF:-1 tvg-ID="18-636" tvg-name="HBO Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/2f3fc2576d5c4ef39e179783b977eb49.jpg" group-title="Cine y Series",HBO Central HD
+http://84.17.40.49:36448/e0b2k0a7c6d2ol2lv963mebwkj1dy6b2s2nr9y5moeqtt7f6yv81ioyqsod8pn/index.m3u8?un=Adonis565&tm=1667623104&sn=GLaUTUxQXeW0pMNxfgq4ZM6ccLt
+#EXTINF:-1 tvg-ID="18-637" tvg-name="STAR CHANNEL HD" tvg-logo="http://haibao.magstv.com/data/usee/space/7f38f4abb3554e97b3182707ec4a9f09.jpg" group-title="Cine y Series",STAR CHANNEL HD
+http://84.17.40.49:36448/kulzfw913c4i0r7omv48p8pypung5p4t2r3zf1bo11hv9o9x2/index.m3u8?un=Adonis565&tm=1667623104&sn=1Nv9VfJgwdnzioJDsHP7POZiRD1
+#EXTINF:-1 tvg-ID="18-638" tvg-name="HBO MUNDI HD" tvg-logo="http://haibao.magstv.com/data/usee/space/02df872a4e054164a78b104e2cf132f8.jpg" group-title="Cine y Series",HBO MUNDI HD
+http://84.17.40.49:36448/epn182fj9a6azpgigcfajlbalc6u5qes3hlqa85allvouqujgn47zlub421/index.m3u8?un=Adonis565&tm=1667623104&sn=UD73oIGdCRTCi4LcsXSYlPE4Xun
+#EXTINF:-1 tvg-ID="18-639" tvg-name="EPIX DRIVE HD" tvg-logo="http://haibao.magstv.com/data/usee/space/f564d3c4afc045eb980bb531965a67d1.jpg" group-title="Cine y Series",EPIX DRIVE HD
+http://84.17.40.49:36448/2pyaoqwc62r4yo10oy5dd3k2o3kt7dpfds0oyv5qpoyum50nktdc19m8pqq6n/index.m3u8?un=Adonis565&tm=1667623104&sn=Ktj4qblMek6M3u29wwiOzcO12RL
+#EXTINF:-1 tvg-ID="18-640" tvg-name="HBO2 Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/2f016363c17d43ab81143245d18fb80a.jpg" group-title="Cine y Series",HBO2 Central HD
+http://84.17.40.49:36448/3y6pgtv0y4lsn5urke98p6229w5ekwj8w9y5e6j3jv3b9oomx1alyogvxzj0d2ov/index.m3u8?un=Adonis565&tm=1667623104&sn=XqALSUw3m53HX2T2jSL9ToUcnxc
+#EXTINF:-1 tvg-ID="18-641" tvg-name="PANICO HD" tvg-logo="http://haibao.magstv.com/data/usee/space/283741fd465e449c83e0985923c97e12.jpg" group-title="Cine y Series",PANICO HD
+http://84.17.40.49:36448/nki5wasr7opgq3fha5y98hfpt0ikoyu6l734srrghh7g7suhyw7rqm/index.m3u8?un=Adonis565&tm=1667623104&sn=I3a6lpi2jGjKfACYJYKr0cvXPy9
+#EXTINF:-1 tvg-ID="18-642" tvg-name="UNICABLE" tvg-logo="http://haibao.magstv.com/data/usee/space/19028e92aed943efa3f3239486eb7f58.jpg" group-title="Cine y Series",UNICABLE
+http://84.17.40.49:36448/mxsid2mln1cty7e26t2i6o13gaqoby5dqgc79no72n87rer99klc7y2ei/index.m3u8?un=Adonis565&tm=1667623104&sn=ASoRbC6WITScHbx4YjKFuEkd3uG
+#EXTINF:-1 tvg-ID="18-643" tvg-name="GOLDEN PREMIER FHD" tvg-logo="http://haibao.magstv.com/data/usee/space/064606ebd18c4523a4915e6299636d23.jpg" group-title="Cine y Series",GOLDEN PREMIER FHD
+http://84.17.40.49:36448/pjdg98kzk1ruf64dn4bpms5tu190uxei2zr8flnf2ug86r2nruteu7iywomh4q631l7a/index.m3u8?un=Adonis565&tm=1667623104&sn=ZwagCkNkElreSUHDFVkDoXcTiVK
+#EXTINF:-1 tvg-ID="18-644" tvg-name="MORBIDO TV HD" tvg-logo="http://haibao.magstv.com/data/usee/space/aacff523e6e74e89937df37482573aeb.jpg" group-title="Cine y Series",MORBIDO TV HD
+http://84.17.40.49:36448/34c30ughn5ois4dmdb32ipvg2zp0olnxjg5s6m0zrit6g0h1fuxxx8kmgnl0l/index.m3u8?un=Adonis565&tm=1667623104&sn=9FVt7aGiDYKOmKLy37EYL0Iagk2
+#EXTINF:-1 tvg-ID="18-645" tvg-name="NEOX HD" tvg-logo="http://haibao.magstv.com/data/usee/space/fa5d9d75974a4fa5bb05cb1cff82e9ba.jpg" group-title="Cine y Series",NEOX HD
+http://84.17.40.49:36448/20on5ulr5zng8psmc8h9k78fxn1syn1dqbe5gab0dyjv5m9uc9a/index.m3u8?un=Adonis565&tm=1667623104&sn=C29w5EOqynC93pZZ3yCFDlB8G0
+#EXTINF:-1 tvg-ID="18-646" tvg-name="TNT HD" tvg-logo="http://haibao.magstv.com/data/usee/space/6b23489b523b42f090421677eda997e6.jpg" group-title="Cine y Series",TNT HD
+http://84.17.40.49:36448/2xxaoxuqurz4hdrln2lj3grjkoi3h70pb2f7346tmz4p5tyoqhd/index.m3u8?un=Adonis565&tm=1667623104&sn=MUKBPUJGyl6JGJaWRnS8TZfgJNj
+#EXTINF:-1 tvg-ID="18-647" tvg-name="Sony HD" tvg-logo="http://haibao.magstv.com/data/usee/space/0c46881b6de44c35b5e914d5d970c475.jpg" group-title="Cine y Series",Sony HD
+http://84.17.40.49:36448/5tdoifrlqfefv0oqfyiy2rpeds5afbreqrtm2myxjsw4mbng4w/index.m3u8?un=Adonis565&tm=1667623104&sn=E9I3cjYFVGHIT9xUy0kUwEx07SI
+#EXTINF:-1 tvg-ID="18-648" tvg-name="TCM HD" tvg-logo="http://haibao.magstv.com/data/usee/space/7bdb3d7ee4134ab09b5bc818988a5468.jpg" group-title="Cine y Series",TCM HD
+http://84.17.40.49:36448/5arul1u3mxcha3rs9zict6905gsbc8h1lahahg7kb2aa8617xi/index.m3u8?un=Adonis565&tm=1667623104&sn=BmAt11bmGCh168wf9nCyjXce0LL
+#EXTINF:-1 tvg-ID="18-649" tvg-name="Warner HD" tvg-logo="http://haibao.magstv.com/data/usee/space/938739f557ee4041b286a4c5d4242175.jpg" group-title="Cine y Series",Warner HD
+http://84.17.40.49:36448/pdgo98ck3ickb6va4b57kw4hejuv0jwc30gifmxkdhv20e51e1p/index.m3u8?un=Adonis565&tm=1667623104&sn=DpvJtm9jtrNEpbSsQAOCPwBYKky
+#EXTINF:-1 tvg-ID="18-650" tvg-name="CINEMA+ 05" tvg-logo="http://haibao.magstv.com/data/usee/space/223b9f3d5148165897e9eb952815a4ac.jpeg" group-title="Cine y Series",CINEMA+ 05
+http://84.17.40.49:36448/mhbkdsfevgdzrw2pg9u34n6lj5u0eh2cenfc9kac1z3jxhs2t/index.m3u8?un=Adonis565&tm=1667623104&sn=7PMnJYVKHauob2TdDWKpQRmWutz
+#EXTINF:-1 tvg-ID="18-651" tvg-name="TNT Series HD" tvg-logo="http://haibao.magstv.com/data/usee/space/d14969b8908741c49d042a58d4c1ddfe.jpg" group-title="Cine y Series",TNT Series HD
+http://84.17.40.49:36448/t42dp39tdmuursy5ziju4vv5fs4nsujzsl8mgpkyigf2ikd8txw/index.m3u8?un=Adonis565&tm=1667623104&sn=YO0FguyPLSFhN5n1uIpN16EFk2o
+#EXTINF:-1 tvg-ID="18-652" tvg-name="Studio Universal HD" tvg-logo="http://haibao.magstv.com/data/usee/space/50dc079b18594e4ab311f595d3a700d7.jpg" group-title="Cine y Series",Studio Universal HD
+http://84.17.40.49:36448/3i99y33cbuhh2zvlcaeu8z2idznk0cbz4ktv9dvb6lycgs4g8h/index.m3u8?un=Adonis565&tm=1667623104&sn=71K6La3aD8ajtBuIdxuNuBJWGqc
+#EXTINF:-1 tvg-ID="18-653" tvg-name="Universal Channel HD" tvg-logo="http://haibao.magstv.com/data/usee/space/0271b5128e9f42c9bc3103a7bb25e873.jpg" group-title="Cine y Series",Universal Channel HD
+http://84.17.40.49:36448/11wruobu2yzk5ow8rjumg10p31xv5qj4pxqho3x4kd60iuitwz3t/index.m3u8?un=Adonis565&tm=1667623104&sn=GVWVCbyVzmQTfiamgWrHBdMJeIz
+#EXTINF:-1 tvg-ID="18-654" tvg-name="E! HD" tvg-logo="http://haibao.magstv.com/data/usee/space/1f59c8dc6e464ecf9cd67d0dc89c44ac.jpg" group-title="Cine y Series",E! HD
+http://84.17.40.49:36448/4ioxe611nh4p5d7opyjt3r10eynk3197f1z4vxej7t24zn5g0l/index.m3u8?un=Adonis565&tm=1667623104&sn=Ko9QqLtOIsrmJ9jZwclz7iGfl9t
+#EXTINF:-1 tvg-ID="18-655" tvg-name="Space HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9b2dbd3bdcd14805ae2f9db44becb9e4.jpg" group-title="Cine y Series",Space HD
+http://84.17.40.49:36448/4shv5padh8ctdzuuefzo086gwueg8d6lctn0lss9ckpf1nass3/index.m3u8?un=Adonis565&tm=1667623104&sn=LVPCQ3MFYKOr2whEnwtXi2mZhOQ
+#EXTINF:-1 tvg-ID="18-656" tvg-name="HBO HD" tvg-logo="http://haibao.magstv.com/data/usee/space/6c8a3cf93a3846a0a384c787a3684235.jpg" group-title="Cine y Series",HBO HD
+http://84.17.40.49:36448/5hhobr10s9uni26ghdk1n3rowl1ypv2lmhruq48aj2bu3nemg0/index.m3u8?un=Adonis565&tm=1667623104&sn=IxWmXGE57U0HJb1WASR2L80Iq91
+#EXTINF:-1 tvg-ID="18-657" tvg-name="HBO Signature HD" tvg-logo="http://haibao.magstv.com/data/usee/space/d2050ced5e3f446da5e122575bcfc801.jpg" group-title="Cine y Series",HBO Signature HD
+http://84.17.40.49:36448/51x7x4qh5cn1q0go6lqt6vkyw5by8moawg03abn3p3i7gjfmmh/index.m3u8?un=Adonis565&tm=1667623104&sn=H0oTjMfqUISJ7xBKPOykBcuQleU
+#EXTINF:-1 tvg-ID="18-658" tvg-name="HBO Plus HD" tvg-logo="http://haibao.magstv.com/data/usee/space/19bf459ce3d84834aeb9127a2f955a21.jpg" group-title="Cine y Series",HBO Plus HD
+http://84.17.40.49:36448/3s2zjm5rjffrvhly979tk76g5i4r0ty8i7muafouwncnsfz792/index.m3u8?un=Adonis565&tm=1667623104&sn=FHycm6mOyJsX7WLn0BZHWgi58VT
+#EXTINF:-1 tvg-ID="18-659" tvg-name="HBO Xtreme HD" tvg-logo="http://haibao.magstv.com/data/usee/space/26537aa5e5ff4768a262d9c5ec4b80dd.jpg" group-title="Cine y Series",HBO Xtreme HD
+http://84.17.40.49:36448/2u3enqpvo71fll8dgsksb7ix53cysp7q653szhn5sj0z4lfudn/index.m3u8?un=Adonis565&tm=1667623104&sn=YEo8NQnbGnNzUArpBTDDhVG6QtT
+#EXTINF:-1 tvg-ID="18-660" tvg-name="De Pelicula" tvg-logo="http://haibao.magstv.com/data/usee/space/4678a4e019b34f5493ae24589007d57f.jpg" group-title="Cine y Series",De Pelicula
+http://84.17.40.49:36448/6bwys2329225fy2hr66tcicgivtn8i3a9ze3ecvfw7e3ymisav/index.m3u8?un=Adonis565&tm=1667623104&sn=LDosybt8ZpOp2iHS0p6aPFb8pdn
+#EXTINF:-1 tvg-ID="18-661" tvg-name="Cinecanal HD" tvg-logo="http://haibao.magstv.com/data/usee/space/2e75d5ab21f64db29fddf7bb0cb854b6.jpg" group-title="Cine y Series",Cinecanal HD
+http://84.17.40.49:36448/1th9afbb4qbv3a957ggx5t1cq0yv3u2p1xnbsfjq53tqhbgi3q/index.m3u8?un=Adonis565&tm=1667623104&sn=14vsYzoGix18txUR7EOMsKN9kTr
+#EXTINF:-1 tvg-ID="18-662" tvg-name="HBO 2 HD" tvg-logo="http://haibao.magstv.com/data/usee/space/a5b1f36d779f4ac1b96165ff015a38b7.jpg" group-title="Cine y Series",HBO 2 HD
+http://84.17.40.49:36448/4z6aj1j111yjl4cgeyo9dqvkqyoy1m2uutsh3kx4dnzo92ne1a/index.m3u8?un=Adonis565&tm=1667623104&sn=FG0fLSdiAJ5pC1G1OGcfeyOYPHd
+#EXTINF:-1 tvg-ID="18-663" tvg-name="Paramount Hd" tvg-logo="http://haibao.magstv.com/data/usee/space/78133ba792174b40867637bb1aebc592.jpg" group-title="Cine y Series",Paramount Hd
+http://84.17.40.49:36448/6bk6apbdi9ksy97ydqliosyug4hch1i39ogvqvfb57diy3faui/index.m3u8?un=Adonis565&tm=1667623104&sn=Kb0WmGC5Ctdbp41EMHDiEY66wUR
+#EXTINF:-1 tvg-ID="18-664" tvg-name="Cinemax HD" tvg-logo="http://haibao.magstv.com/data/usee/space/cfd3abd907ea471b87dc366ad9555ae8.jpg" group-title="Cine y Series",Cinemax HD
+http://84.17.40.49:36448/1rvgbew3ldl090eztygksi4mepye202j5eww996rw3hdl5ralm/index.m3u8?un=Adonis565&tm=1667623104&sn=QNxFj80bbEGRAEX1CHFjWGpoEwq
+#EXTINF:-1 tvg-ID="18-665" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9c1f759ed32f8fe7206ecaf000024a71.png" group-title="Cine y Series",UNIVERSAL PREMIERE HD
+http://84.17.40.49:36448/3vnxajd9i126r808h312koe0k0dlib53svk1xmmee4x0pqupzk/index.m3u8?un=Adonis565&tm=1667623104&sn=LdKB1pL6QuTjC0rYOLR6JqqVuvS
+#EXTINF:-1 tvg-ID="18-666" tvg-name="UNIVERSAL CRIME HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9c1f759ed32f8fe7206ecaf000024a71.png" group-title="Cine y Series",UNIVERSAL CRIME HD
+http://84.17.40.49:36448/59soshdfo1m7ws196lel19w2t8m392q3vjlx89f9pgjkqwfck9/index.m3u8?un=Adonis565&tm=1667623104&sn=A5krPUslm2kB0ugPMCa7qX999oG
+#EXTINF:-1 tvg-ID="18-667" tvg-name="UNIVERSAL REALITY HD" tvg-logo="http://haibao.magstv.com/data/usee/space/4ca094d06e94a3919994f8e7893cf6cc.jfif" group-title="Cine y Series",UNIVERSAL REALITY HD
+http://84.17.40.49:36448/52psl2ixq3jzuim18r7e16rtvrwfrhg1kvu0znt3loj8nk7kv/index.m3u8?un=Adonis565&tm=1667623104&sn=AN6okTrfP0n4LR5TtFqIFlddngv
+#EXTINF:-1 tvg-ID="18-668" tvg-name="Space Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/3633514a99ad4796bf259d04fa3ae9f7.jpg" group-title="Cine y Series",Space Central HD
+http://84.17.40.49:36448/5vyeocjahn77arrk4bale74w3qxcrq515fxhwbwi29vniw50ls/index.m3u8?un=Adonis565&tm=1667623104&sn=8buRsfSTVnOGcpW0TOtTkKVMdmc
+#EXTINF:-1 tvg-ID="18-669" tvg-name="Syfy HD" tvg-logo="http://haibao.magstv.com/data/usee/space/d1840d16036940fa8055379ff897464f.jpg" group-title="Cine y Series",Syfy HD
+http://84.17.40.49:36448/2x4ts67rfxzqlvcjxcsxjgrvroyuzcxg08kh493kdf2ibuz4tw/index.m3u8?un=Adonis565&tm=1667623104&sn=JTRBhjfcEzqkiTaRaYxBdSo78uc
+#EXTINF:-1 tvg-ID="18-670" tvg-name="CINEMA+ 03" tvg-logo="http://haibao.magstv.com/data/usee/space/223b9f3d5148165897e9eb952815a4ac.jpeg" group-title="Cine y Series",CINEMA+ 03
+http://84.17.40.49:36448/k8p1ofz54r6dvzvfx47g1q2jotkb3wyxorburtqehnq0u823g/index.m3u8?un=Adonis565&tm=1667623104&sn=5WvblQGsYekYD8kQERagW02ToHA
+#EXTINF:-1 tvg-ID="18-671" tvg-name="Warner HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/484f285946dd490ebebec24bae96dea7.jpg" group-title="Cine y Series",Warner HD+
+http://84.17.40.49:36448/1h6x759f5obhjgkdmpgg050wh0omjdglcq5r68h24xhzef0yu5f/index.m3u8?un=Adonis565&tm=1667623104&sn=6k0SsY607A0hleB2Wc1p8rfJskT
+#EXTINF:-1 tvg-ID="18-672" tvg-name="STAR CHANNEL HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/5ef14f40d37e42a7961519aa4eec7f64.jpg" group-title="Cine y Series",STAR CHANNEL HD+
+http://84.17.40.49:36448/642tbhichs1ws32jfwi7z33hieqhe33espjs9cch3hm0sba2m5/index.m3u8?un=Adonis565&tm=1667623104&sn=OUS1mlHWXH6u4oRRCsjXRKvUCJr
+#EXTINF:-1 tvg-ID="18-673" tvg-name="HBO HD+" tvg-logo="http://haibao.magstv.com/data/usee/space/210ea7d54a7c477391db752bbe74d2f4.jpg" group-title="Cine y Series",HBO HD+
+http://84.17.40.49:36448/2qtgrcxjik8phdnq7rjswrn6eddkkaq5brmd3rutr14i559tax/index.m3u8?un=Adonis565&tm=1667623104&sn=DIp2fPqGlBDZByQWqUxvaCtfpTh
+#EXTINF:-1 tvg-ID="18-674" tvg-name="MC HD" tvg-logo="http://haibao.magstv.com/data/usee/space/852e6b367215443f9624126839ad9251.jpg" group-title="Cine y Series",MC HD
+http://84.17.40.49:36448/2killkt583agbsbzur7utjrv3lgi8k1sggojh2j6vklznuyggy/index.m3u8?un=Adonis565&tm=1667623104&sn=FcUIpiwRFsMTNPrdmoGnSHlYOmm
+#EXTINF:-1 tvg-ID="18-675" tvg-name="HBO POP HD" tvg-logo="http://haibao.magstv.com/data/usee/space/1487e6e037ed46f6b290914580e27856.jpg" group-title="Cine y Series",HBO POP HD
+http://84.17.40.49:36448/49q2o56xc6mzkdda0rg96wnjhya1wj5f3f96kavtkpuctieyhl/index.m3u8?un=Adonis565&tm=1667623104&sn=NkT5JK2GvdC8K6dFnC1iaQaum5m
+#EXTINF:-1 tvg-ID="18-676" tvg-name="A3S Series HD" tvg-logo="http://haibao.magstv.com/data/usee/space/7476ed8528fc46dc8c1ad7595e57acba.jpg" group-title="Cine y Series",A3S Series HD
+http://84.17.40.49:36448/56yhpfqclwjl9lt49mfilpw3u81iay4fkx9u2dh16g3fd78pfk/index.m3u8?un=Adonis565&tm=1667623104&sn=8yLXqIYskePueDJStglHdAbpPzg
+#EXTINF:-1 tvg-ID="18-677" tvg-name="A&E HD" tvg-logo="http://haibao.magstv.com/data/usee/space/9c4fe2f732df47018a9f07aa130be14f.jpg" group-title="Cine y Series",A&E HD
+http://84.17.40.49:36448/5ly4bmfllcokafd63f8xc7gdsv234omautv8o7zba6pr9fcuve/index.m3u8?un=Adonis565&tm=1667623104&sn=TFC6Ia1M2CsdgO621BUx4gvx0q4
+#EXTINF:-1 tvg-ID="18-678" tvg-name="AMC HD" tvg-logo="http://haibao.magstv.com/data/usee/space/badcb4ed82724234b125d8c03e9833aa.jpg" group-title="Cine y Series",AMC HD
+http://84.17.40.49:36448/80ranzus4x4cpoapomnw31feik05270zq3ak1en44nu1znktqdu/index.m3u8?un=Adonis565&tm=1667623104&sn=Iur9gzO0mT1Xa3j126Wv6pBaDgu
+#EXTINF:-1 tvg-ID="18-679" tvg-name="AXN HD" tvg-logo="http://haibao.magstv.com/data/usee/space/a5f8e37261df4aee99dc6315bc0b8db4.jpg" group-title="Cine y Series",AXN HD
+http://84.17.40.49:36448/1ob7cyqbb6n85r51tq8oiz1yo2qh7he57lkblffqadgjyr1wfo/index.m3u8?un=Adonis565&tm=1667623104&sn=k4QZPjL9VY5Jcck3eK2Wi0lL0Q
+#EXTINF:-1 tvg-ID="18-680" tvg-name="STAR CHANNEL Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/7658bcd8ecf841dbbe6256e32cce3545.jpg" group-title="Cine y Series",STAR CHANNEL Central HD
+http://84.17.40.49:36448/68dt8pr5bktqz9kbij6vwh1lt602v8mzwo1ta5ke9xy7s63wx5/index.m3u8?un=Adonis565&tm=1667623104&sn=7IwtC8ab5sAMor0HKAZN6S55GZK
+#EXTINF:-1 tvg-ID="18-681" tvg-name="CINEMA+ 04" tvg-logo="http://haibao.magstv.com/data/usee/space/223b9f3d5148165897e9eb952815a4ac.jpeg" group-title="Cine y Series",CINEMA+ 04
+http://84.17.40.49:36448/p8y00ew5yxw6rndwdfijcaidxecui78v2d9wks0rb0gymuypj/index.m3u8?un=Adonis565&tm=1667623104&sn=13YdpKBFXxki4BAs0uywi8ea5IC
+#EXTINF:-1 tvg-ID="18-682" tvg-name="FX Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/96a6cb39cea84b50b839d6f06133edd3.jpg" group-title="Cine y Series",FX Central HD
+http://84.17.40.49:36448/5co76hq33avx8p76sofiuz6ghc5x2hodftj432big0udrp3slw/index.m3u8?un=Adonis565&tm=1667623104&sn=I7S0tZVYrYGCuqyLRx1CZPqVvoY
+#EXTINF:-1 tvg-ID="18-683" tvg-name="Sony Central HD" tvg-logo="http://haibao.magstv.com/data/usee/space/e2f4eeb5fea14502b04548ef2f961b7a.jpg" group-title="Cine y Series",Sony Central HD
+http://84.17.40.49:36448/3ac28yzpqu8v0is8nwx2xjlwuomb2h06hk7fk9ptm19xxrr3ad/index.m3u8?un=Adonis565&tm=1667623104&sn=67O7M1ngLdL50wXZSz04WKgsF8N
+#EXTINF:-1 tvg-ID="18-684" tvg-name="TRU TV HD" tvg-logo="http://haibao.magstv.com/data/usee/space/2241bb4798fa436eb80545a471cef87b.jpg" group-title="Cine y Series",TRU TV HD
+http://84.17.40.49:36448/kdouccgtp5hf3d1ax9igmkfof2ny789apcgsvgmj9wbfzthq4kn/index.m3u8?un=Adonis565&tm=1667623104&sn=2KSuNp924OG4DyavJ4WyuWfmHsn
+#EXTINF:-1 tvg-ID="18-685" tvg-name="Las Estrellas Mex HD" tvg-logo="http://haibao.magstv.com/data/usee/space/efb98b075ac346d39155ff8760f461fd.jpg" group-title="Cine y Series",Las Estrellas Mex HD
+http://84.17.40.49:36448/1hdzh12t1uqt0urs8uuam0rn8w5hda1177tvi7i42rdfzc8ipd/index.m3u8?un=Adonis565&tm=1667623104&sn=U7HbxOZW44XEeAcdlLZeafMtmZM
+#EXTINF:-1 tvg-ID="18-686" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="http://haibao.magstv.com/data/usee/space/4ca094d06e94a3919994f8e7893cf6cc.jfif" group-title="Cine y Series",UNIVERSAL COMEDY HD
+http://84.17.40.49:36448/2d0j4bepuf8r033e59uqh6800kp3yeulctcdp6r46drc6ue77e6hu45wl2538d0oiyaz2p/index.m3u8?un=Adonis565&tm=1667623104&sn=MchTs5TltS720tTGsNnmw8VsuNu
+#EXTINF:-1 tvg-ID="18-687" tvg-name="SONY MOVIES HD" tvg-logo="http://haibao.magstv.com/data/usee/space/8c83133ad4907b93baeca528b48b3cef.jpeg" group-title="Cine y Series",SONY MOVIES HD
+http://84.17.40.49:36448/4vc9b1lg52d6he98iwt5vksdnq8gfwv24vyt2qhy82ieacfl94u4sy3ga7vy1i/index.m3u8?un=Adonis565&tm=1667623104&sn=ZHCVX8FDNNbHbVLVbexa3hfJwZX
+#EXTINF:-1 tvg-ID="18-688" tvg-name="SONY NOVELAS HD" tvg-logo="http://haibao.magstv.com/data/usee/space/0c7f80615ac006e450fe3b14030339d4.jpeg" group-title="Cine y Series",SONY NOVELAS HD
+http://84.17.40.49:36448/zhf5dv9xdfretke9obtbtvoe6pqgesxkrziscleayvzamrf30gxaopm7h76e68y/index.m3u8?un=Adonis565&tm=1667623104&sn=OQlc8SzYBlmkts3o7LRak7hDM70
+#EXTINF:-1 tvg-ID="18-689" tvg-name="SONY COMEDIAS HD" tvg-logo="http://haibao.magstv.com/data/usee/space/bebc21a89a54bfca78f94efe3a6aa9b0.jpeg" group-title="Cine y Series",SONY COMEDIAS HD
+http://84.17.40.49:36448/gp2mm760wupi8kv2svjjivgogzf0kwn99ne2a39eddos0du2mp2e334aa70otu2by/index.m3u8?un=Adonis565&tm=1667623104&sn=6AFYD4mk3BktiJXFkfwkDKk9YaP
+#EXTINF:-1 tvg-ID="18-690" tvg-name="SONY COMPETENCIAS HD" tvg-logo="http://haibao.magstv.com/data/usee/space/e3781255b604c9c81308c9896def5f07.jpeg" group-title="Cine y Series",SONY COMPETENCIAS HD
+http://84.17.40.49:36448/1ahzd8i7zk9ozoavgjcekuc35ftye73vcotch1fso5yaqt64ckhmnyzvkxl1sp9q95cwxb05/index.m3u8?un=Adonis565&tm=1667623104&sn=M6fL1IcrkXGk7xUgzfk87Ig98hV
+#EXTINF:-1 tvg-ID="18-691" tvg-name="VIX RETRO HD" tvg-logo="http://haibao.magstv.com/data/usee/space/44e44d6a6a34fea3673e77a31c5308fd.jpeg" group-title="Cine y Series",VIX RETRO HD
+http://84.17.40.49:36448/748dnt9ilbd5ypaemsjiztz5gfmqu9xpxthjqehxnd32pe9nfk4li9ul9kp/index.m3u8?un=Adonis565&tm=1667623104&sn=9ApAyTsxWcw8XNtzB5Jd0u2Wjxw
+#EXTINF:-1 tvg-ID="18-692" tvg-name="VIX CINE CLUB  HD" tvg-logo="http://haibao.magstv.com/data/usee/space/44e44d6a6a34fea3673e77a31c5308fd.jpeg" group-title="Cine y Series",VIX CINE CLUB  HD
+http://84.17.40.49:36448/parm1vmqo8vpwijfww7d2qav47gfjyqntx6nudkkebn0lqasf3wjs02kmgk5nibz3/index.m3u8?un=Adonis565&tm=1667623104&sn=PnBr2etGjYtnfF5bicZZkegkiry
