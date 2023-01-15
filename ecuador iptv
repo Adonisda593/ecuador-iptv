@@ -139,5 +139,674 @@ http://45.71.185.142:8500/play/a00c
 http://200.24.132.99:8000/play/a01w
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://i2.paste.pics/363bdf769b4b91716d6ebb6db72d1d4b.png", Chavo TV 
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+http://iptbest.xyz:8000/DemojomyD/78963201/63776
+#EXTINF:-1 tvg-id="" tvg-name="Daniel el travieso 24/7" tvg-logo="http://www.iptbest.xyz/logo/Danieleltravieso.png" group-title="Canales 24/7 Animados",Daniel el travieso 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/64882
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure 24/7" tvg-logo="http://iptbest.xyz/logo/digimon-adventure.png" group-title="Canales 24/7 Animados",Digimon Adventure 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/34971
+#EXTINF:-1 tvg-id="" tvg-name="Don Gato y su pandilla 24/7" tvg-logo="http://www.iptbest.xyz/logo/DonGatoysupandilla.png" group-title="Canales 24/7 Animados",Don Gato y su pandilla 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/65854
+#EXTINF:-1 tvg-id="" tvg-name="Donde esta Wally 24/7" tvg-logo="http://www.iptbest.xyz/logo/Dondeestawally.png" group-title="Canales 24/7 Animados",Donde esta Wally 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/63103
+#EXTINF:-1 tvg-id="" tvg-name="Dora la Exploradora 24/7" tvg-logo="http://www.iptbest.xyz/logo/dora_exploradora.png" group-title="Canales 24/7 Animados",Dora la Exploradora 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/46553
+#EXTINF:-1 tvg-id="" tvg-name="Dora y sus amigos en la ciudad 24/7" tvg-logo="http://iptbest.xyz:8000/images/c3aa322ae0b217708044ece8f4953e24.png" group-title="Canales 24/7 Animados",Dora y sus amigos en la ciudad 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/34972
+#EXTINF:-1 tvg-id="" tvg-name="Dragones de Berck 24/7" tvg-logo="http://www.iptbest.xyz/logo/DragonesdeBerck.png" group-title="Canales 24/7 Animados",Dragones de Berck 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/63372
+#EXTINF:-1 tvg-id="" tvg-name="Drake y Josh 24/7" tvg-logo="http://www.iptbest.xyz/logo/DrakeyJosh.png" group-title="Canales 24/7 Animados",Drake y Josh 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/65857
+#EXTINF:-1 tvg-id="" tvg-name="El auto fantastico (Knigth Rider) 24/7" tvg-logo="http://iptbest.xyz/logo/ELAUTOFANTASTICO.png" group-title="Canales 24/7 Series Antiguas",El auto fantastico (Knigth Rider) 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/23318
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo Animado 24/7" tvg-logo="http://iptbest.xyz/logo/Elchavoanimado.png" group-title="Canales 24/7 Animados",El Chavo Animado 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/23307
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo del 8 24/7" tvg-logo="http://iptbest.xyz/logo/CHAVODEL8.png" group-title="Canales 24/7 Series Antiguas",El Chavo del 8 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/23316
+#EXTINF:-1 tvg-id="" tvg-name="El laboratorio de Dexter 24/7" tvg-logo="http://www.iptbest.xyz/logo/EllaboratoriodeDexter.png" group-title="Canales 24/7 Animados",El laboratorio de Dexter 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/65925
+#EXTINF:-1 tvg-id="" tvg-name="El lagarto Juancho 24/7" tvg-logo="http://www.iptbest.xyz/logo/ElLagartoJuancho.png" group-title="Canales 24/7 Animados",El lagarto Juancho 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/66820
+#EXTINF:-1 tvg-id="" tvg-name="El pájaro loco 24/7" tvg-logo="http://www.iptbest.xyz/logo/Elpajaroloco.png" group-title="Canales 24/7 Animados",El pájaro loco 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/62098
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Estrenos 2022" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Estrenos 2022
+http://iptbest.xyz:8000/DemojomyD/78963201/63827
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Estrenos 2021" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Estrenos 2021
+http://iptbest.xyz:8000/DemojomyD/78963201/63850
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Accion" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Accion
+http://iptbest.xyz:8000/DemojomyD/78963201/63798
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Animadas" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Animadas
+http://iptbest.xyz:8000/DemojomyD/78963201/63810
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Artes Marciales" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Artes Marciales
+http://iptbest.xyz:8000/DemojomyD/78963201/68300
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Aventura" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Aventura
+http://iptbest.xyz:8000/DemojomyD/78963201/63824
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Biográficas" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Biográficas
+http://iptbest.xyz:8000/DemojomyD/78963201/65216
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Boxing" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Boxing
+http://iptbest.xyz:8000/DemojomyD/78963201/68447
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Brujas HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Brujas HD
+http://iptbest.xyz:8000/DemojomyD/78963201/56291
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Bélico" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Bélico
+http://iptbest.xyz:8000/DemojomyD/78963201/64893
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Cantinflas SD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Cantinflas SD
+http://iptbest.xyz:8000/DemojomyD/78963201/62833
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Ciencia Ficcion" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Ciencia Ficcion
+http://iptbest.xyz:8000/DemojomyD/78963201/63825
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Clásicas" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Clásicas
+http://iptbest.xyz:8000/DemojomyD/78963201/64921
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Comedia" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Comedia
+http://iptbest.xyz:8000/DemojomyD/78963201/63826
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema DC Comics HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema DC Comics HD
+http://iptbest.xyz:8000/DemojomyD/78963201/56300
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema DC Film HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema DC Film HD
+http://iptbest.xyz:8000/DemojomyD/78963201/56299
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Drama" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Drama
+http://iptbest.xyz:8000/DemojomyD/78963201/63803
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Extraterrestres FHD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Extraterrestres FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/56288
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Gigantes HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Gigantes HD
+http://iptbest.xyz:8000/DemojomyD/78963201/56294
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema La India Maria HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema La India Maria HD
+http://iptbest.xyz:8000/DemojomyD/78963201/63094
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema LEGO FHD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema LEGO FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/56301
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Marvel Studios HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Marvel Studios HD
+http://iptbest.xyz:8000/DemojomyD/78963201/56298
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Momias FHD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Momias FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/56290
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Pedro Infante SD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Pedro Infante SD
+http://iptbest.xyz:8000/DemojomyD/78963201/23247
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Robots FHD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Robots FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/56284
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Suspenso" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Suspenso
+http://iptbest.xyz:8000/DemojomyD/78963201/65439
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Terror FHD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Terror FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/63839
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema UHD 4K" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema UHD 4K
+http://iptbest.xyz:8000/DemojomyD/78963201/65852
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Vampiros HD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Vampiros HD
+http://iptbest.xyz:8000/DemojomyD/78963201/56296
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Viajes en el tiempo" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Viajes en el tiempo
+http://iptbest.xyz:8000/DemojomyD/78963201/65221
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Wéstern" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Wéstern
+http://iptbest.xyz:8000/DemojomyD/78963201/65215
+#EXTINF:-1 tvg-id="" tvg-name="PPV Cinema Zombies FHD" tvg-logo="http://iptbest.xyz:8000/images/3d71a5dde68a2c871bbc02057c54bf9e.png" group-title="PPV Cinema",PPV Cinema Zombies FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/56286
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PELICULAS 4K" tvg-logo="http://www.iptbest.xyz/logo/canal4k.png" group-title="4K Channels",CANAL PELICULAS 4K
+http://iptbest.xyz:8000/DemojomyD/78963201/90087
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 HD - Chelsea vs Crystal Palace (Premier League) Hoy 08:00 MEX - 15:00 ESP" tvg-logo="https://i.imgur.com/CBMS57m.png" group-title="PPV Sport",PPV 1 HD - Chelsea vs Crystal Palace (Premier League) Hoy 08:00 MEX - 15:00 ESP
+http://iptbest.xyz:8000/DemojomyD/78963201/91958
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 HD - Newcastle United vs Fulham (Premier League) Hoy 08:00 MEX - 15:00 ESP" tvg-logo="https://i.imgur.com/Rc93k8p.png" group-title="PPV Sport",PPV 2 HD - Newcastle United vs Fulham (Premier League) Hoy 08:00 MEX - 15:00 ESP
+http://iptbest.xyz:8000/DemojomyD/78963201/91943
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 HD - Almería vs Atlético Madrid (LaLiga) Hoy 09:15 MEX - 16:15 ESP" tvg-logo="https://i.imgur.com/VE1mTft.png" group-title="PPV Sport",PPV 3 HD - Almería vs Atlético Madrid (LaLiga) Hoy 09:15 MEX - 16:15 ESP
+http://iptbest.xyz:8000/DemojomyD/78963201/91780
+#EXTINF:-1 tvg-id="" tvg-name="PPV 4 HD - Tottenham vs Arsenal (Premier League) Hoy 10:30 MEX - 17:30 ESP" tvg-logo="https://i.imgur.com/69KVsLO.png" group-title="PPV Sport",PPV 4 HD - Tottenham vs Arsenal (Premier League) Hoy 10:30 MEX - 17:30 ESP
+http://iptbest.xyz:8000/DemojomyD/78963201/91670
+#EXTINF:-1 tvg-id="" tvg-name="PPV 5 HD - Benfica vs Sporting Lisboa (Liga Portugal) Hoy 12:00 MEX - 19:00 ESP" tvg-logo="https://i.imgur.com/sJUR9h0.png" group-title="PPV Sport",PPV 5 HD - Benfica vs Sporting Lisboa (Liga Portugal) Hoy 12:00 MEX - 19:00 ESP
+http://iptbest.xyz:8000/DemojomyD/78963201/91669
+#EXTINF:-1 tvg-id="" tvg-name="PPV 6 HD - Real Madrid vs Barcelona (Supercopa Española - Final) Hoy 13:00 MEX - 20:00 ESP" tvg-logo="https://i.imgur.com/SLGFXMC.png" group-title="PPV Sport",PPV 6 HD - Real Madrid vs Barcelona (Supercopa Española - Final) Hoy 13:00 MEX - 20:00 ESP
+http://iptbest.xyz:8000/DemojomyD/78963201/91668
+#EXTINF:-1 tvg-id="" tvg-name="PPV 7 HD - Real Madrid vs Barcelona (Supercopa Española - Final) Hoy 13:00 MEX - 20:00 ESP" tvg-logo="https://i.imgur.com/SLGFXMC.png" group-title="PPV Sport",PPV 7 HD - Real Madrid vs Barcelona (Supercopa Española - Final) Hoy 13:00 MEX - 20:00 ESP
+http://iptbest.xyz:8000/DemojomyD/78963201/91667
+#EXTINF:-1 tvg-id="" tvg-name="PPV 8 HD - Rennes vs PSG (Ligue 1) Hoy 13:45 MEX - 20:45 ESP" tvg-logo="https://i.imgur.com/d6K2A65.png" group-title="PPV Sport",PPV 8 HD - Rennes vs PSG (Ligue 1) Hoy 13:45 MEX - 20:45 ESP
+http://iptbest.xyz:8000/DemojomyD/78963201/91666
+#EXTINF:-1 tvg-id="" tvg-name="PPV 9 HD - Roma vs Fiorentina (Serie A) Hoy 13:45 MEX - 20:45 ESP" tvg-logo="https://i.imgur.com/qb9xDdS.png" group-title="PPV Sport",PPV 9 HD - Roma vs Fiorentina (Serie A) Hoy 13:45 MEX - 20:45 ESP
+http://iptbest.xyz:8000/DemojomyD/78963201/67787
+#EXTINF:-1 tvg-id="" tvg-name="PPV 10 HD - Colo-Colo vs Deportes Magallanes​ (Supercopa de Chile) Hoy 18:00 CHL" tvg-logo="https://i.imgur.com/ikkLgqP.png" group-title="PPV Sport",PPV 10 HD - Colo-Colo vs Deportes Magallanes​ (Supercopa de Chile) Hoy 18:00 CHL
+http://iptbest.xyz:8000/DemojomyD/78963201/32882
+#EXTINF:-1 tvg-id="" tvg-name="PPV 11 HD - Tigres UANL vs Pachuca (Liga MX) Hoy 19:00 MEX" tvg-logo="https://i.imgur.com/WvLzicN.png" group-title="PPV Sport",PPV 11 HD - Tigres UANL vs Pachuca (Liga MX) Hoy 19:00 MEX
+http://iptbest.xyz:8000/DemojomyD/78963201/32881
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN SPORTS Ñ FHD" tvg-logo="http://www.iptbest.xyz/logo/beINSportsN.png" group-title="DEPORTES",BEIN SPORTS Ñ FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/23542
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN SPORTS Ñ HD" tvg-logo="http://www.iptbest.xyz/logo/beINSportsN.png" group-title="DEPORTES",BEIN SPORTS Ñ HD
+http://iptbest.xyz:8000/DemojomyD/78963201/712
+#EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="CLARO SPORTS LATINOAMERICA SD " tvg-logo="http://iptbest.xyz/logo/Claro-Sports.png" group-title="DEPORTES",CLARO SPORTS LATINOAMERICA SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/61600
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="DIRECTV SPORTS + HD (ARG) " tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-Plus-HD.png" group-title="DEPORTES",DIRECTV SPORTS + HD (ARG) 
+http://iptbest.xyz:8000/DemojomyD/78963201/22689
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + HD (COL) " tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-Plus-HD.png" group-title="DEPORTES",DIRECTV SPORTS + HD (COL) 
+http://iptbest.xyz:8000/DemojomyD/78963201/22103
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 FHD (CHL)" tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-HD.png" group-title="DEPORTES",DIRECTV SPORTS 1 FHD (CHL)
+http://iptbest.xyz:8000/DemojomyD/78963201/90078
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 HD (URU)" tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-HD.png" group-title="DEPORTES",DIRECTV SPORTS 1 HD (URU)
+http://iptbest.xyz:8000/DemojomyD/78963201/17252
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD " tvg-logo="http://www.iptbest.xyz/logo/DirecTV-Sports-2-HD.png" group-title="DEPORTES",DIRECTV SPORTS 2 HD 
+http://iptbest.xyz:8000/DemojomyD/78963201/34959
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD (ARG)  " tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-2-HD.png" group-title="DEPORTES",DIRECTV SPORTS 2 HD (ARG)  
+http://iptbest.xyz:8000/DemojomyD/78963201/22688
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD (COL) " tvg-logo="http://www.iptbest.xyz/logo/DirecTV-Sports-2-HD.png" group-title="DEPORTES",DIRECTV SPORTS 2 HD (COL) 
+http://iptbest.xyz:8000/DemojomyD/78963201/11029
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD (ECU)" tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-HD.png" group-title="DEPORTES",DIRECTV SPORTS HD (ECU)
+http://iptbest.xyz:8000/DemojomyD/78963201/10005
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DIRECTV SPORTS HD (ECU) " tvg-logo="http://www.iptbest.xyz/logo/DirecTV-Sports-HD.png" group-title="DEPORTES",DIRECTV SPORTS HD (ECU) 
+http://iptbest.xyz:8000/DemojomyD/78963201/22102
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FÚTBOL 2 FHD (Solo Eventos)" tvg-logo="http://iptbest.xyz/logo/ECDF.png" group-title="DEPORTES",EL CANAL DEL FÚTBOL 2 FHD (Solo Eventos)
+http://iptbest.xyz:8000/DemojomyD/78963201/868
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 FHD" tvg-logo="http://www.iptbest.xyz/logo/ESPN2HD.png" group-title="DEPORTES",ESPN 2 FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/32875
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN 2 FHD (Argentina)" tvg-logo="http://www.iptbest.xyz/logo/ESPN2-Arg.png" group-title="DEPORTES",ESPN 2 FHD (Argentina)
+http://iptbest.xyz:8000/DemojomyD/78963201/34585
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 HD (Chile)" tvg-logo="http://www.iptbest.xyz/logo/ESPN2.png" group-title="DEPORTES",ESPN 2 HD (Chile)
+http://iptbest.xyz:8000/DemojomyD/78963201/22108
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 SD" tvg-logo="http://www.iptbest.xyz/logo/ESPN2.png" group-title="DEPORTES",ESPN 2 SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22107
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 FHD (Argentina)" tvg-logo="http://www.iptbest.xyz/logo/ESPN3HD-Arg.png" group-title="DEPORTES",ESPN 3 FHD (Argentina)
+http://iptbest.xyz:8000/DemojomyD/78963201/1601
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN3HD.png" group-title="DEPORTES",ESPN 3 HD
+http://iptbest.xyz:8000/DemojomyD/78963201/32876
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD (Argentina)" tvg-logo="http://www.iptbest.xyz/logo/ESPN3-Arg.png" group-title="DEPORTES",ESPN 3 HD (Argentina)
+http://iptbest.xyz:8000/DemojomyD/78963201/22113
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="http://www.iptbest.xyz/logo/ESPN3.png" group-title="DEPORTES",ESPN 3 SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22109
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD (opc 2)" tvg-logo="http://www.iptbest.xyz/logo/ESPN3.png" group-title="DEPORTES",ESPN 3 SD (opc 2)
+http://iptbest.xyz:8000/DemojomyD/78963201/22110
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ESPN 4 HD (Arg) " tvg-logo="http://www.iptbest.xyz/logo/ESPN4-Arg.png" group-title="DEPORTES",ESPN 4 HD (Arg) 
+http://iptbest.xyz:8000/DemojomyD/78963201/34587
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN DEPORTES HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN-Deportes.png" group-title="DEPORTES",ESPN DEPORTES HD
+http://iptbest.xyz:8000/DemojomyD/78963201/65636
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN DEPORTES HD USA" tvg-logo="http://www.iptbest.xyz/logo/ESPN-Deportes.png" group-title="DEPORTES",ESPN DEPORTES HD USA
+http://iptbest.xyz:8000/DemojomyD/78963201/22591
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="ESPN EXTRA HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN-EXTRA.png" group-title="DEPORTES",ESPN EXTRA HD
+http://iptbest.xyz:8000/DemojomyD/78963201/22116
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="ESPN EXTRA SD " tvg-logo="http://www.iptbest.xyz/logo/ESPN-EXTRA.png" group-title="DEPORTES",ESPN EXTRA SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22115
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN FHD (Argentina) " tvg-logo="http://www.iptbest.xyz/logo/ESPN-HD-Arg.png" group-title="DEPORTES",ESPN FHD (Argentina) 
+http://iptbest.xyz:8000/DemojomyD/78963201/6701
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN-HD-Arg.png" group-title="DEPORTES",ESPN HD
+http://iptbest.xyz:8000/DemojomyD/78963201/1107
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (Chile)" tvg-logo="http://www.iptbest.xyz/logo/ESPN-HD-Arg.png" group-title="DEPORTES",ESPN HD (Chile)
+http://iptbest.xyz:8000/DemojomyD/78963201/34960
+#EXTINF:-1 tvg-id="FoxSportsPremiumLatAm.co" tvg-name="ESPN PREMIUM FHD" tvg-logo="http://www.iptbest.xyz/logo/ESPN_Premium.png" group-title="DEPORTES",ESPN PREMIUM FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/61601
+#EXTINF:-1 tvg-id="FoxSportsPremiumLatAm.co" tvg-name="ESPN PREMIUM FHD " tvg-logo="http://www.iptbest.xyz/logo/ESPN_Premium.png" group-title="DEPORTES",ESPN PREMIUM FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/23324
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD" tvg-logo="http://www.iptbest.xyz/logo/ESPN.png" group-title="DEPORTES",ESPN SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22105
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD (opc 2) " tvg-logo="http://www.iptbest.xyz/logo/ESPN.png" group-title="DEPORTES",ESPN SD (opc 2) 
+http://iptbest.xyz:8000/DemojomyD/78963201/22106
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN-U-HD.png" group-title="DEPORTES",ESPN U HD
+http://iptbest.xyz:8000/DemojomyD/78963201/23159
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="http://www.iptbest.xyz/logo/Estadio-TNT-Sports.png" group-title="DEPORTES",ESTADIO TNT SPORTS HD
+http://iptbest.xyz:8000/DemojomyD/78963201/37174
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES HD" tvg-logo="http://iptbest.xyz/logo/FOXDeportes.png" group-title="DEPORTES",FOX DEPORTES HD
+http://iptbest.xyz:8000/DemojomyD/78963201/22119
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SOCCER PLUS HD" tvg-logo="http://www.jomyson.com/logo/FOXSoccerPlus.png" group-title="DEPORTES",FOX SOCCER PLUS HD
+http://iptbest.xyz:8000/DemojomyD/78963201/22982
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX SPORTS 1 FHD (Argentina)" tvg-logo="http://www.jomyson.com/logo/FOXSports1HDArg.png" group-title="DEPORTES",FOX SPORTS 1 FHD (Argentina)
+http://iptbest.xyz:8000/DemojomyD/78963201/556
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 HD (Chile) " tvg-logo="http://iptbest.xyz/logo/FOXSports1HDArg.png" group-title="DEPORTES",FOX SPORTS 1 HD (Chile) 
+http://iptbest.xyz:8000/DemojomyD/78963201/90177
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://www.jomyson.com/logo/FOXSports2HDMex.png" group-title="DEPORTES",FOX SPORTS 2 FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6757
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2 FHD (Argentina)" tvg-logo="http://www.jomyson.com/logo/FOXSports2HDArg.png" group-title="DEPORTES",FOX SPORTS 2 FHD (Argentina)
+http://iptbest.xyz:8000/DemojomyD/78963201/34588
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2 HD " tvg-logo="http://iptbest.xyz/logo/FOXSports2HDMex.png" group-title="DEPORTES",FOX SPORTS 2 HD 
+http://iptbest.xyz:8000/DemojomyD/78963201/61621
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2 HD (Argentina) " tvg-logo="http://www.jomyson.com/logo/FOXSports2Arg.png" group-title="DEPORTES",FOX SPORTS 2 HD (Argentina) 
+http://iptbest.xyz:8000/DemojomyD/78963201/22128
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://www.jomyson.com/logo/FOXSports2Mex.png" group-title="DEPORTES",FOX SPORTS 2 SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22122
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3 HD" tvg-logo="http://www.jomyson.com/logo/FOXSports3HDMex.png" group-title="DEPORTES",FOX SPORTS 3 HD
+http://iptbest.xyz:8000/DemojomyD/78963201/6691
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX SPORTS 3 HD (Argentina) " tvg-logo="http://www.jomyson.com/logo/FOXSports3HDArg.png" group-title="DEPORTES",FOX SPORTS 3 HD (Argentina) 
+http://iptbest.xyz:8000/DemojomyD/78963201/34589
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3 SD" tvg-logo="http://www.jomyson.com/logo/FOXSports3Mex.png" group-title="DEPORTES",FOX SPORTS 3 SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22124
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX SPORTS 3 SD (Argentina)" tvg-logo="http://www.jomyson.com/logo/FOXSports3Arg.png" group-title="DEPORTES",FOX SPORTS 3 SD (Argentina)
+http://iptbest.xyz:8000/DemojomyD/78963201/22130
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FOX SPORTS HD" tvg-logo="http://www.jomyson.com/logo/FOXSportsHDMex.png" group-title="DEPORTES",FOX SPORTS HD
+http://iptbest.xyz:8000/DemojomyD/78963201/6760
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FOX SPORTS SD " tvg-logo="http://www.jomyson.com/logo/FOXSportsMex.png" group-title="DEPORTES",FOX SPORTS SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22120
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="GARAGE TV FHD" tvg-logo="http://iptbest.xyz/logo/GarageTV.png" group-title="DEPORTES",GARAGE TV FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/31340
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV SD" tvg-logo="http://iptbest.xyz/logo/GarageTV.png" group-title="DEPORTES",GARAGE TV SD
+http://iptbest.xyz:8000/DemojomyD/78963201/34497
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="GOLF LATIN AMERICA SD" tvg-logo="http://www.jomyson.com/logo/Golf-Latin-America.png" group-title="DEPORTES",GOLF LATIN AMERICA SD
+http://iptbest.xyz:8000/DemojomyD/78963201/6689
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV 2 FHD (ECU)  " tvg-logo="http://iptbest.xyz/logo/GolTV-Ecu-HD.png" group-title="DEPORTES",GOLTV 2 FHD (ECU)  
+http://iptbest.xyz:8000/DemojomyD/78963201/90083
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV 2 HD (ECU)" tvg-logo="http://www.jomyson.com/logo/GolTV-Ecu-HD.png" group-title="DEPORTES",GOLTV 2 HD (ECU)
+http://iptbest.xyz:8000/DemojomyD/78963201/90082
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="GOLTV FHD (ECU)" tvg-logo="http://www.jomyson.com/logo/GolTV-Ecu.png" group-title="DEPORTES",GOLTV FHD (ECU)
+http://iptbest.xyz:8000/DemojomyD/78963201/5635
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV FHD (INT) " tvg-logo="http://www.jomyson.com/logo/GolTVLatamHD.png" group-title="DEPORTES",GOLTV FHD (INT) 
+http://iptbest.xyz:8000/DemojomyD/78963201/23011
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="GOLTV HD (ECU) " tvg-logo="http://www.jomyson.com/logo/GolTV-Ecu.png" group-title="DEPORTES",GOLTV HD (ECU) 
+http://iptbest.xyz:8000/DemojomyD/78963201/5444
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="GOLTV SD (ECU) " tvg-logo="http://www.jomyson.com/logo/GolTV-Ecu-HD.png" group-title="DEPORTES",GOLTV SD (ECU) 
+http://iptbest.xyz:8000/DemojomyD/78963201/7811
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD " tvg-logo="http://www.iptbest.xyz/logo/LaLigaTVBarHD.png" group-title="DEPORTES",LA LIGA TV BAR HD 
+http://iptbest.xyz:8000/DemojomyD/78963201/90057
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV FHD " tvg-logo="http://www.jomyson.com/logo/RedBullTV.png" group-title="DEPORTES",RED BULL TV FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/10784
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET FHD" tvg-logo="http://iptbest.xyz/logo/skysportscricket.png" group-title="DEPORTES",SKY SPORTS CRICKET FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/90185
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LIGA ESPAÑOLA FHD" tvg-logo="http://iptbest.xyz/logo/SKY-SPORT-SK.png" group-title="DEPORTES",SKY SPORTS LIGA ESPAÑOLA FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/90050
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NEWS FHD" tvg-logo="http://iptbest.xyz/logo/Sky-Sport-News.png" group-title="DEPORTES",SKY SPORTS NEWS FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/90183
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE HD " tvg-logo="http://iptbest.xyz/logo/skysportpremierleague.png" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE HD 
+http://iptbest.xyz:8000/DemojomyD/78963201/90181
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS NETWORK ADRENALINA FHD" tvg-logo="http://www.iptbest.xyz/logo/AdrenalinaSportsNetwork.png" group-title="DEPORTES",SPORTS NETWORK ADRENALINA FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/34507
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS SD (HONDURAS) " tvg-logo="http://www.iptbest.xyz/logo/TigoSportsPY.png" group-title="DEPORTES",TIGO SPORTS SD (HONDURAS) 
+http://iptbest.xyz:8000/DemojomyD/78963201/90179
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS  - ARG FHD" tvg-logo="http://www.jomyson.com/logo/TNT-Sports-Argentina.png" group-title="DEPORTES",TNT SPORTS  - ARG FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22144
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS  - ARG HD" tvg-logo="http://www.jomyson.com/logo/TNT-Sports-Argentina.png" group-title="DEPORTES",TNT SPORTS  - ARG HD
+http://iptbest.xyz:8000/DemojomyD/78963201/22145
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="TNT SPORTS  CHILE HD" tvg-logo="http://iptbest.xyz/logo/TNT-Sports-Chile.png" group-title="DEPORTES",TNT SPORTS  CHILE HD
+http://iptbest.xyz:8000/DemojomyD/78963201/37170
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="TNT SPORTS  CHILE SD  " tvg-logo="http://iptbest.xyz:8000/images/78555a32b0069c5f4f07614e02cb85d6.png" group-title="DEPORTES",TNT SPORTS  CHILE SD  
+http://iptbest.xyz:8000/DemojomyD/78963201/28994
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="TNT SPORTS 2 CHILE HD " tvg-logo="http://www.jomyson.com/logo/TNT-Sports-2-Chile.png" group-title="DEPORTES",TNT SPORTS 2 CHILE HD 
+http://iptbest.xyz:8000/DemojomyD/78963201/28993
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 CHILE HD" tvg-logo="http://iptbest.xyz:8000/images/1cd707ad89ced53fbc97d65363b33f6c.png" group-title="DEPORTES",TNT SPORTS 3 CHILE HD
+http://iptbest.xyz:8000/DemojomyD/78963201/90176
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="TNT SPORTS 3 CHILE SD " tvg-logo="http://iptbest.xyz:8000/images/1cd707ad89ced53fbc97d65363b33f6c.png" group-title="DEPORTES",TNT SPORTS 3 CHILE SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22405
+#EXTINF:-1 tvg-id="" tvg-name="TUDN MEXICO HD" tvg-logo="http://iptbest.xyz/logo/TUDN-Mex.png" group-title="DEPORTES",TUDN MEXICO HD
+http://iptbest.xyz:8000/DemojomyD/78963201/67460
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN MEXICO SD" tvg-logo="http://iptbest.xyz/logo/TUDN-Mex.png" group-title="DEPORTES",TUDN MEXICO SD
+http://iptbest.xyz:8000/DemojomyD/78963201/37168
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN USA HD" tvg-logo="http://www.iptbest.xyz/logo/TUDN-USA.png" group-title="DEPORTES",TUDN USA HD
+http://iptbest.xyz:8000/DemojomyD/78963201/23113
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC SPORTS HD (Int) " tvg-logo="http://iptbest.xyz/logo/TyC-Sports-Int.png" group-title="DEPORTES",TyC SPORTS HD (Int) 
+http://iptbest.xyz:8000/DemojomyD/78963201/31315
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC SPORTS HD LOCAL (Argentina)" tvg-logo="http://iptbest.xyz/logo/TyC-Sports.png" group-title="DEPORTES",TyC SPORTS HD LOCAL (Argentina)
+http://iptbest.xyz:8000/DemojomyD/78963201/61605
+#EXTINF:-1 tvg-id="" tvg-name="USA - FIGHTBOX FHD" tvg-logo="http://www.iptbest.xyz/logo/FightBoxHD.png" group-title="Sports Channels",USA - FIGHTBOX FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22962
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS FHD" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-HD.png" group-title="DEPORTES",WIN SPORTS FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/857
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS HD" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports.png" group-title="DEPORTES",WIN SPORTS HD
+http://iptbest.xyz:8000/DemojomyD/78963201/23219
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="WIN SPORTS MAS FHD" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-Mas.png" group-title="DEPORTES",WIN SPORTS MAS FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/492
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="WIN SPORTS MAS HD " tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-Mas-HD.png" group-title="DEPORTES",WIN SPORTS MAS HD 
+http://iptbest.xyz:8000/DemojomyD/78963201/34695
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC FHD" tvg-logo="http://www.iptbest.xyz/logo/AMC.png" group-title="CINE",AMC FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6696
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC SD" tvg-logo="http://www.iptbest.xyz/logo/AMC.png" group-title="CINE",AMC SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22153
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN HD " tvg-logo="http://www.iptbest.xyz/logo/AXN.png" group-title="CINE",AXN HD 
+http://iptbest.xyz:8000/DemojomyD/78963201/6743
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN SD" tvg-logo="http://www.iptbest.xyz/logo/AXN.png" group-title="CINE",AXN SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22155
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL FHD" tvg-logo="http://iptbest.xyz/logo/Cinecanal-HD.png" group-title="CINE",CINECANAL FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22163
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL SD " tvg-logo="http://iptbest.xyz/logo/Cinecanal.png" group-title="CINE",CINECANAL SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22160
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX FHD" tvg-logo="http://iptbest.xyz/logo/Cinemax-HD.png" group-title="CINE",CINEMAX FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22166
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINEMAX SD" tvg-logo="http://iptbest.xyz/logo/Cinemax.png" group-title="CINE",CINEMAX SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22165
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DE PELICULA PLUS SD" tvg-logo="http://iptbest.xyz/logo/De-Pelicula-Plus.png" group-title="CINE",DE PELICULA PLUS SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22167
+#EXTINF:-1 tvg-id="FilmAndArts.mx" tvg-name="FILM & ARTS SD" tvg-logo="http://www.iptbest.xyz/logo/Film-And-Arts.png" group-title="CINE",FILM & ARTS SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22361
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX FHD" tvg-logo="http://www.jomyson.com/logo/FX-HD.png" group-title="CINE",FX FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6737
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX SD" tvg-logo="http://www.jomyson.com/logo/FX.png" group-title="CINE",FX SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22190
+#EXTINF:-1 tvg-id="GlitzConoSur.co" tvg-name="GLITZ SD " tvg-logo="http://iptbest.xyz/logo/Glitz.png" group-title="CINE",GLITZ SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22195
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE FHD" tvg-logo="http://www.jomyson.com/logo/Golden-Edge.png" group-title="CINE",GOLDEN EDGE FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22201
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN EDGE SD" tvg-logo="http://www.jomyson.com/logo/Golden-Edge.png" group-title="CINE",GOLDEN EDGE SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22199
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN FHD" tvg-logo="http://www.jomyson.com/logo/Golden-HD.png" group-title="CINE",GOLDEN FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6690
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PLUS FHD" tvg-logo="http://www.jomyson.com/logo/Golden-Plus-HD.png" group-title="CINE",GOLDEN PLUS FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22203
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="GOLDEN PLUS SD" tvg-logo="http://www.jomyson.com/logo/Golden-Plus-HD.png" group-title="CINE",GOLDEN PLUS SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22198
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="GOLDEN PREMIER HD" tvg-logo="http://www.jomyson.com/logo/GOLDEN-PREMIERE.png" group-title="CINE",GOLDEN PREMIER HD
+http://iptbest.xyz:8000/DemojomyD/78963201/22200
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 ARG FHD " tvg-logo="http://www.jomyson.com/logo/HBO.png" group-title="CINE",HBO 1 ARG FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22206
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 FHD" tvg-logo="http://iptbest.xyz/logo/HBO-HD.png" group-title="CINE",HBO 1 FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/29068
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1 MX SD" tvg-logo="http://iptbest.xyz/logo/HBO.png" group-title="CINE",HBO 1 MX SD
+http://iptbest.xyz:8000/DemojomyD/78963201/32894
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 FHD" tvg-logo="http://www.jomyson.com/logo/HBO2HD.png" group-title="CINE",HBO 2 FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/23545
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 SD" tvg-logo="http://www.jomyson.com/logo/HBO2.png" group-title="CINE",HBO 2 SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22207
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="HBO FAMILY FHD " tvg-logo="http://iptbest.xyz/logo/HBO-Family.png" group-title="CINE",HBO FAMILY FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/29066
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="HBO FAMILY HD" tvg-logo="http://www.jomyson.com/logo/HBO-Family.png" group-title="CINE",HBO FAMILY HD
+http://iptbest.xyz:8000/DemojomyD/78963201/22208
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD" tvg-logo="http://iptbest.xyz/logo/HBO-Mundi.png" group-title="CINE",HBO MUNDI FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/55753
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI SD" tvg-logo="http://iptbest.xyz/logo/HBO-Mundi.png" group-title="CINE",HBO MUNDI SD
+http://iptbest.xyz:8000/DemojomyD/78963201/67467
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name="HBO PLUS FHD" tvg-logo="http://www.jomyson.com/logo/HBO-Plus-HD.png" group-title="CINE",HBO PLUS FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/29064
+#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name="HBO PLUS SD" tvg-logo="http://www.jomyson.com/logo/HBO-Plus.png" group-title="CINE",HBO PLUS SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22209
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD" tvg-logo="http://iptbest.xyz/logo/HBO-Pop.png" group-title="CINE",HBO POP FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/55752
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="http://iptbest.xyz:8000/images/8d4f8d4fd5f2e4fdf7a455fe72fe22d3.png" group-title="CINE",HBO POP HD
+http://iptbest.xyz:8000/DemojomyD/78963201/54581
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://iptbest.xyz/logo/HBO-Signature.png" group-title="CINE",HBO SIGNATURE FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/29065
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE SD" tvg-logo="http://www.jomyson.com/logo/HBO-Signature.png" group-title="CINE",HBO SIGNATURE SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22210
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME SD" tvg-logo="http://iptbest.xyz/logo/HBO-Extreme.png" group-title="CINE",HBO XTREME SD
+http://iptbest.xyz:8000/DemojomyD/78963201/55754
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I SAT SD " tvg-logo="http://www.iptbest.xyz/logo/ISAT.png" group-title="CINE",I SAT SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22285
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="PARAMOUNT FHD " tvg-logo="http://www.iptbest.xyz/logo/Paramount-Channel.png" group-title="CINE",PARAMOUNT FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/6716
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="PARAMOUNT SD" tvg-logo="http://www.iptbest.xyz/logo/Paramount-Channel.png" group-title="CINE",PARAMOUNT SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22214
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME BEYOND FHD " tvg-logo="http://iptbest.xyz:8000/images/05d42024caa789af66d9d24238528037.png" group-title="CINE",SHOWTIME BEYOND FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/31640
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME EXTREME HD" tvg-logo="http://iptbest.xyz/logo/Showtime-Extreme.png" group-title="CINE",SHOWTIME EXTREME HD
+http://iptbest.xyz:8000/DemojomyD/78963201/31642
+#EXTINF:-1 tvg-id="" tvg-name="SHOWTIME HD" tvg-logo="http://iptbest.xyz/logo/Showtime.png" group-title="CINE",SHOWTIME HD
+http://iptbest.xyz:8000/DemojomyD/78963201/31645
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY CHANNEL SD" tvg-logo="http://www.jomyson.com/logo/SonyChannel.png" group-title="CINE",SONY CHANNEL SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22215
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="SONY FHD " tvg-logo="http://iptbest.xyz/logo/SonyChannel.png" group-title="CINE",SONY FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/6733
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE FHD " tvg-logo="http://jomyson.com/logo/SpaceHD.png" group-title="CINE",SPACE FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22219
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="SPACE SD" tvg-logo="http://jomyson.com/logo/Space.png" group-title="CINE",SPACE SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22217
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD" tvg-logo="http://www.jomyson.com/logo/Star-Channel.png" group-title="CINE",STAR CHANNEL FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22184
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL SD" tvg-logo="http://www.jomyson.com/logo/Star-Channel.png" group-title="CINE",STAR CHANNEL SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22182
+#EXTINF:-1 tvg-id="" tvg-name="STARZ CINEMA FHD" tvg-logo="http://www.jomyson.com/logo/Starz-Cinema.png" group-title="CINE",STARZ CINEMA FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/31348
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE ACTION FHD" tvg-logo="http://iptbest.xyz/logo/Star-Action.png" group-title="CINE",STARZ ENCORE ACTION FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6762
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE BLACK FHD" tvg-logo="http://iptbest.xyz/logo/Starz_Encore_Black.png" group-title="CINE",STARZ ENCORE BLACK FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/29331
+#EXTINF:-1 tvg-id="" tvg-name="STARZ ENCORE CLASSICS FHD" tvg-logo="http://iptbest.xyz/logo/Star-Classics.png" group-title="CINE",STARZ ENCORE CLASSICS FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/29329
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL FHD " tvg-logo="http://www.jomyson.com/logo/Studio-Universal.png" group-title="CINE",STUDIO UNIVERSAL FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22225
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://www.jomyson.com/logo/Studio-Universal.png" group-title="CINE",STUDIO UNIVERSAL SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22241
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="SYFY FHD " tvg-logo="http://www.iptbest.xyz/logo/SyFy-HD.png" group-title="CINE",SYFY FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22222
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="SYFY SD " tvg-logo="http://www.iptbest.xyz/logo/SyFy.png" group-title="CINE",SYFY SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22220
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS FHD " tvg-logo="http://iptbest.xyz/logo/TBS.png" group-title="CINE",TBS FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22227
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM SD" tvg-logo="http://www.iptbest.xyz/logo/TCM.png" group-title="CINE",TCM SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22229
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT FHD" tvg-logo="http://www.jomyson.com/logo/TNT-HD.png" group-title="CINE",TNT FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6678
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT SD   " tvg-logo="http://www.jomyson.com/logo/TNT.png" group-title="CINE",TNT SD   
+http://iptbest.xyz:8000/DemojomyD/78963201/22230
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES FHD" tvg-logo="http://www.jomyson.com/logo/TNT-Series-HD.png" group-title="CINE",TNT SERIES FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6731
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES SD" tvg-logo="http://www.jomyson.com/logo/TNT-Series.png" group-title="CINE",TNT SERIES SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22233
+#EXTINF:-1 tvg-id="" tvg-name="TRU TV SD" tvg-logo="http://www.iptbest.xyz/logo/Tru-TV.png" group-title="CINE",TRU TV SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22236
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL TV FHD" tvg-logo="http://www.iptbest.xyz/logo/Universal-TV.png" group-title="CINE",UNIVERSAL TV FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6728
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL TV SD" tvg-logo="http://www.iptbest.xyz/logo/Universal-TV.png" group-title="CINE",UNIVERSAL TV SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22240
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="WARNER CHANNEL FHD " tvg-logo="http://www.jomyson.com/logo/Warner-Channel.png" group-title="CINE",WARNER CHANNEL FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/6727
+#EXTINF:-1 tvg-id="" tvg-name="WARNER SD" tvg-logo="http://www.jomyson.com/logo/Warner-Channel.png" group-title="CINE",WARNER SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22242
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E FHD" tvg-logo="http://iptbest.xyz/logo/AyE-HD.png" group-title="CULTURALES",A&E FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6744
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E SD" tvg-logo="http://www.jomyson.com/logo/AyE.png" group-title="CULTURALES",A&E SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22246
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.pa" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://iptbest.xyz/logo/AnimalPlanetHD.png" group-title="CULTURALES",ANIMAL PLANET FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6714
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.pa" tvg-name="ANIMAL PLANET SD" tvg-logo="http://iptbest.xyz/logo/AnimalPlanet.png" group-title="CULTURALES",ANIMAL PLANET SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22250
+#EXTINF:-1 tvg-id="" tvg-name="BITME SD" tvg-logo="http://www.iptbest.xyz/logo/BitMe.png" group-title="CULTURALES",BITME SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22347
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://iptbest.xyz:8000/images/2f00f35cd6393c89dba5805bea55fdd1.png" group-title="CULTURALES",COMEDY CENTRAL FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6742
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://www.iptbest.xyz/logo/ComedyCentral.png" group-title="CULTURALES",COMEDY CENTRAL SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22350
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DISCOVERY CHANNEL FHD (COL) " tvg-logo="http://iptbest.xyz/logo/Discovery-Channel.png" group-title="CULTURALES",DISCOVERY CHANNEL FHD (COL) 
+http://iptbest.xyz:8000/DemojomyD/78963201/22259
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="http://iptbest.xyz/logo/DiscoveryHomeAndHealthHD.png" group-title="CULTURALES",DISCOVERY HOME & HEALTH FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6711
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://iptbest.xyz/logo/DiscoveryHomeAndHealth.png" group-title="CULTURALES",DISCOVERY HOME & HEALTH SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22262
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SD " tvg-logo="http://iptbest.xyz:8000/images/11605db080879b79363a4e0e68bd07f9.png" group-title="CULTURALES",DISCOVERY SCIENCE SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22265
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://iptbest.xyz/logo/DiscoveryTheater-HD.png" group-title="CULTURALES",DISCOVERY THEATER FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6708
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER SD" tvg-logo="http://www.iptbest.xyz/logo/DiscoveryTheater.png" group-title="CULTURALES",DISCOVERY THEATER SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22267
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="DISCOVERY TLC FHD " tvg-logo="http://iptbest.xyz/logo/TLC-Discovery-HD.png" group-title="CULTURALES",DISCOVERY TLC FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22272
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="DISCOVERY TLC SD" tvg-logo="http://iptbest.xyz/logo/TLC-Discovery.png" group-title="CULTURALES",DISCOVERY TLC SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22269
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://iptbest.xyz/logo/DiscoveryTurboHD.png" group-title="CULTURALES",DISCOVERY TURBO FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6706
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="DISCOVERY TURBO SD" tvg-logo="http://iptbest.xyz/logo/DiscoveryTurbo.png" group-title="CULTURALES",DISCOVERY TURBO SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22273
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://iptbest.xyz/logo/DiscoveryWorld-HD.png" group-title="CULTURALES",DISCOVERY WORLD FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6705
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD SD " tvg-logo="http://www.iptbest.xyz/logo/DiscoveryWorld.png" group-title="CULTURALES",DISCOVERY WORLD SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22275
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA FHD" tvg-logo="http://www.iptbest.xyz/logo/Distrito-Comedia.png" group-title="CULTURALES",DISTRITO COMEDIA FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6741
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DISTRITO COMEDIA SD" tvg-logo="http://www.iptbest.xyz/logo/Distrito-Comedia.png" group-title="CULTURALES",DISTRITO COMEDIA SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22355
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E! FHD " tvg-logo="http://iptbest.xyz/logo/EntertainmentTV.png" group-title="CULTURALES",E! FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/6740
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E! SD" tvg-logo="http://iptbest.xyz/logo/EntertainmentTV.png" group-title="CULTURALES",E! SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22353
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET FHD" tvg-logo="http://iptbest.xyz:8000/images/1ae33c637234e7736c5622d92f217626.png" group-title="CULTURALES",EL GOURMET FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6739
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET SD" tvg-logo="http://iptbest.xyz/logo/El-Gourmet.png" group-title="CULTURALES",EL GOURMET SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22277
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV SD" tvg-logo="http://www.iptbest.xyz/logo/HD-Fashion.png" group-title="CULTURALES",FASHION TV SD
+http://iptbest.xyz:8000/DemojomyD/78963201/51616
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD NETWORK FHD " tvg-logo="http://www.iptbest.xyz/logo/FoodNetwork.png" group-title="CULTURALES",FOOD NETWORK FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/34864
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD" tvg-logo="http://www.iptbest.xyz/logo/FoodNetwork.png" group-title="CULTURALES",FOOD NETWORK SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22362
+#EXTINF:-1 tvg-id="History2.mx" tvg-name="HISTORY 2 HD" tvg-logo="http://iptbest.xyz/logo/History2.png" group-title="CULTURALES",HISTORY 2 HD
+http://iptbest.xyz:8000/DemojomyD/78963201/31347
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="HISTORY FHD " tvg-logo="http://iptbest.xyz/logo/History.png" group-title="CULTURALES",HISTORY FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22279
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="HISTORY HD" tvg-logo="http://iptbest.xyz/logo/HistoryHD.png" group-title="CULTURALES",HISTORY HD
+http://iptbest.xyz:8000/DemojomyD/78963201/6688
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="HISTORY SD" tvg-logo="http://iptbest.xyz/logo/History.png" group-title="CULTURALES",HISTORY SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22278
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV FHD" tvg-logo="http://www.iptbest.xyz/logo/Hola-TV.png" group-title="CULTURALES",HOLA TV FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/1447
+#EXTINF:-1 tvg-id="HolaTv.co" tvg-name="HOLA TV SD" tvg-logo="http://www.iptbest.xyz/logo/Hola-TV.png" group-title="CULTURALES",HOLA TV SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22366
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="INVESTIGATION DISCOVERY FHD" tvg-logo="http://iptbest.xyz/logo/Investigation-DiscoveryHD.png" group-title="CULTURALES",INVESTIGATION DISCOVERY FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/34547
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="INVESTIGATION DISCOVERY SD" tvg-logo="http://iptbest.xyz/logo/Investigation-Discovery.png" group-title="CULTURALES",INVESTIGATION DISCOVERY SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22281
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="LIFETIME FHD" tvg-logo="http://www.jomyson.com/logo/Lifetime.png" group-title="CULTURALES",LIFETIME FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6704
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="LIFETIME SD" tvg-logo="http://www.jomyson.com/logo/Lifetime.png" group-title="CULTURALES",LIFETIME SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22368
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="MAS CHIC HD" tvg-logo="http://jomyson.com/logo/Mas-Chic.png" group-title="CULTURALES",MAS CHIC HD
+http://iptbest.xyz:8000/DemojomyD/78963201/6734
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="MAS CHIC SD" tvg-logo="http://jomyson.com/logo/Mas-Chic.png" group-title="CULTURALES",MAS CHIC SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22370
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO FHD" tvg-logo="http://iptbest.xyz/logo/National-Geographic.png" group-title="CULTURALES",NATGEO FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6702
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NATGEO SD (COL)" tvg-logo="http://iptbest.xyz/logo/National-Geographic.png" group-title="CULTURALES",NATGEO SD (COL)
+http://iptbest.xyz:8000/DemojomyD/78963201/22287
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NATGEO SD (MX)" tvg-logo="http://iptbest.xyz/logo/National-Geographic.png" group-title="CULTURALES",NATGEO SD (MX)
+http://iptbest.xyz:8000/DemojomyD/78963201/22286
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="http://iptbest.xyz/logo/Pasiones.png" group-title="CULTURALES",PASIONES HD
+http://iptbest.xyz:8000/DemojomyD/78963201/90867
+#EXTINF:-1 tvg-id="TeleNovelas.mx" tvg-name="TELENOVELAS FHD" tvg-logo="http://www.iptbest.xyz/logo/Tlnovelas.png" group-title="CULTURALES",TELENOVELAS FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22382
+#EXTINF:-1 tvg-id="TeleNovelas.mx" tvg-name="TELENOVELAS SD" tvg-logo="http://www.ictv19.xyz/logo/Tlnovelas.png" group-title="CULTURALES",TELENOVELAS SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22381
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="TRU TV FHD " tvg-logo="http://www.iptbest.xyz/logo/Tru-TV.png" group-title="CULTURALES",TRU TV FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22238
+#EXTINF:-1 tvg-id="" tvg-name="TVE SD" tvg-logo="http://www.jomyson.com/logo/TVE.png" group-title="CULTURALES",TVE SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22384
+#EXTINF:-1 tvg-id="" tvg-name="WOBI TV FHD" tvg-logo="http://www.jomyson.com/logo/Wobi.png" group-title="CULTURALES",WOBI TV FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22388
+#EXTINF:-1 tvg-id="" tvg-name="WOBI TV SD" tvg-logo="http://www.jomyson.com/logo/Wobi.png" group-title="CULTURALES",WOBI TV SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22386
+#EXTINF:-1 tvg-id="" tvg-name="BABY FIRST SD " tvg-logo="http://www.iptbest.xyz/logo/BabyFirst.png" group-title="INFANTILES",BABY FIRST SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22291
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV EN ESPAÑOL SD " tvg-logo="http://iptbest.xyz/logo/BabyTV.png" group-title="INFANTILES",BABY TV EN ESPAÑOL SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22933
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="BOOMERANG FHD" tvg-logo="http://iptbest.xyz/logo/BoomerangHD.png" group-title="INFANTILES",BOOMERANG FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22296
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="BOOMERANG SD" tvg-logo="http://iptbest.xyz/logo/Boomerang.png" group-title="INFANTILES",BOOMERANG SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22294
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://www.iptbest.xyz/logo/Cartoon-Network-HD.png" group-title="INFANTILES",CARTOON NETWORK FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22299
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="CARTOON NETWORK SD " tvg-logo="http://iptbest.xyz/logo/Cartoon-Network.png" group-title="INFANTILES",CARTOON NETWORK SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22297
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="CLAN SD" tvg-logo="http://iptbest.xyz/logo/Clan-Espana.png" group-title="INFANTILES",CLAN SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22300
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS FHD " tvg-logo="http://iptbest.xyz/logo/Discovery-Kids.png" group-title="INFANTILES",DISCOVERY KIDS FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22313
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="DISCOVERY KIDS SD " tvg-logo="http://iptbest.xyz/logo/Discovery-Kids.png" group-title="INFANTILES",DISCOVERY KIDS SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22309
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL FHD " tvg-logo="http://iptbest.xyz/logo/DisneyChannelHD.png" group-title="INFANTILES",DISNEY CHANNEL FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/31344
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://iptbest.xyz/logo/DisneyChannel.png" group-title="INFANTILES",DISNEY CHANNEL SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22304
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DISNEY JR FHD " tvg-logo="http://www.iptbest.xyz/logo/Disney-Junior-HD.png" group-title="INFANTILES",DISNEY JR FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/31341
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="DISNEY JR SD " tvg-logo="http://www.iptbest.xyz/logo/Disney-Junior.png" group-title="INFANTILES",DISNEY JR SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22301
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="NICK JR FHD" tvg-logo="http://www.iptbest.xyz/logo/Nick-Jr.png" group-title="INFANTILES",NICK JR FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22321
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="NICK JR SD" tvg-logo="http://www.iptbest.xyz/logo/Nick-Jr.png" group-title="INFANTILES",NICK JR SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22319
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="NICK MUSIC SD" tvg-logo="http://www.iptbest.xyz/logo/Nick.png" group-title="INFANTILES",NICK MUSIC SD
+http://iptbest.xyz:8000/DemojomyD/78963201/35034
+#EXTINF:-1 tvg-id="" tvg-name="NICK TOONS SD" tvg-logo="http://www.iptbest.xyz/logo/NickToons.png" group-title="INFANTILES",NICK TOONS SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22323
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="NICKELODEON FHD" tvg-logo="http://www.iptbest.xyz/logo/Nick.png" group-title="INFANTILES",NICKELODEON FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/22317
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON SD" tvg-logo="http://www.iptbest.xyz/logo/Nick.png" group-title="INFANTILES",NICKELODEON SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22315
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="TEEN NICK FHD " tvg-logo="http://iptbest.xyz/logo/Teen-Nick.png" group-title="INFANTILES",TEEN NICK FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/31343
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="TEEN NICK SD " tvg-logo="http://iptbest.xyz/logo/Teen-Nick.png" group-title="INFANTILES",TEEN NICK SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22322
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST SD " tvg-logo="http://www.iptbest.xyz/logo/Tooncast.png" group-title="INFANTILES",TOONCAST SD 
+http://iptbest.xyz:8000/DemojomyD/78963201/22325
+#EXTINF:-1 tvg-id="" tvg-name="1HD MUSIC TELEVISION HD" tvg-logo="http://www.iptbest.xyz/logo/1HD-Music-Television.png" group-title="MUSICALES",1HD MUSIC TELEVISION HD
+http://iptbest.xyz:8000/DemojomyD/78963201/68718
+#EXTINF:-1 tvg-id="" tvg-name="88 STEREO HD" tvg-logo="http://www.iptbest.xyz/logo/88estero.png" group-title="MUSICALES",88 STEREO HD
+http://iptbest.xyz:8000/DemojomyD/78963201/34894
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="BANDAMAX SD" tvg-logo="http://iptbest.xyz/logo/Bandamax.png" group-title="MUSICALES",BANDAMAX SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22328
+#EXTINF:-1 tvg-id="" tvg-name="FUTURO SD" tvg-logo="http://iptbest.xyz/logo/Futuro.png" group-title="MUSICALES",FUTURO SD
+http://iptbest.xyz:8000/DemojomyD/78963201/10753
+#EXTINF:-1 tvg-id="" tvg-name="MALETA DVJ SD (DISCO)" tvg-logo="http://iptbest.xyz/logo/MaletaDVJ.png" group-title="MUSICALES",MALETA DVJ SD (DISCO)
+http://iptbest.xyz:8000/DemojomyD/78963201/799
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV FHD" tvg-logo="http://iptbest.xyz/logo/MTV-HD.png" group-title="MUSICALES",MTV FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6698
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV HITS SD" tvg-logo="http://iptbest.xyz/logo/MTV-Hits.png" group-title="MUSICALES",MTV HITS SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22333
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV LIVE FHD" tvg-logo="http://iptbest.xyz/logo/MTV-Live-HD.png" group-title="MUSICALES",MTV LIVE FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/6685
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV LIVE SD" tvg-logo="http://iptbest.xyz/logo/MTV-Live.png" group-title="MUSICALES",MTV LIVE SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22335
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV SD" tvg-logo="http://iptbest.xyz/logo/MTV.png" group-title="MUSICALES",MTV SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22330
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP HD " tvg-logo="http://www.iptbest.xyz/logo/MusicTop.png" group-title="MUSICALES",MUSIC TOP HD 
+http://iptbest.xyz:8000/DemojomyD/78963201/51618
+#EXTINF:-1 tvg-id="" tvg-name="PANDURO HD" tvg-logo="http://www.jomyson.com/logo/Panduro.png" group-title="MUSICALES",PANDURO HD
+http://iptbest.xyz:8000/DemojomyD/78963201/10757
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="VH1 FHD " tvg-logo="http://iptbest.xyz/logo/VH1.png" group-title="MUSICALES",VH1 FHD 
+http://iptbest.xyz:8000/DemojomyD/78963201/6675
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="VH1 SD" tvg-logo="http://iptbest.xyz/logo/VH1.png" group-title="MUSICALES",VH1 SD
+http://iptbest.xyz:8000/DemojomyD/78963201/22342
+#EXTINF:-1 tvg-id="" tvg-name="1000 Maneras de morir 24/7" tvg-logo="http://iptbest.xyz/logo/1000-maneras-de-morir-nitro.png" group-title="Canales 24/7  Documentales",1000 Maneras de morir 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/34964
+#EXTINF:-1 tvg-id="" tvg-name="Acuario en Vivo" tvg-logo="http://iptbest.xyz/logo/acuario.png" group-title="Canales 24/7 Varios",Acuario en Vivo
+http://iptbest.xyz:8000/DemojomyD/78963201/62135
+#EXTINF:-1 tvg-id="" tvg-name="Alf 24/7" tvg-logo="http://iptbest.xyz:8000/images/a24e64edf88910a686c1e6910a0e31e4.png" group-title="Canales 24/7 Series Antiguas",Alf 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/62284
+#EXTINF:-1 tvg-id="" tvg-name="Alieniginas Ancentrales 24/7" tvg-logo="http://iptbest.xyz/logo/AlieniginasAncentrales.png" group-title="Canales 24/7 Educativos",Alieniginas Ancentrales 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/46104
+#EXTINF:-1 tvg-id="" tvg-name="Angry Birds Toons 24/7" tvg-logo="http://www.iptbest.xyz/logo/AngryBirdsToons.png" group-title="Canales 24/7 Animados",Angry Birds Toons 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/63095
+#EXTINF:-1 tvg-id="" tvg-name="Animaniacs  24/7" tvg-logo="http://www.iptbest.xyz/logo/Animaniacs.png" group-title="Canales 24/7 Animados",Animaniacs  24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/63364
+#EXTINF:-1 tvg-id="" tvg-name="Autobus  Magico 24/7" tvg-logo="http://www.iptbest.xyz/logo/autobus_magico.png" group-title="Canales 24/7 Animados",Autobus  Magico 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/34969
+#EXTINF:-1 tvg-id="" tvg-name="Automan 24/7" tvg-logo="http://iptbest.xyz:8000/images/36ff73c146e670de2d032686ea610355.png" group-title="Canales 24/7 Series Antiguas",Automan 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/62649
+#EXTINF:-1 tvg-id="" tvg-name="Baby Bus 24/7 FHD" tvg-logo="http://www.iptbest.xyz/logo/babybus.png" group-title="Canales 24/7 Animados",Baby Bus 24/7 FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/61807
+#EXTINF:-1 tvg-id="" tvg-name="Baby Looney Tunes 24/7" tvg-logo="http://www.iptbest.xyz/logo/BabyLooneyTunes.png" group-title="Canales 24/7 Animados",Baby Looney Tunes 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/64877
+#EXTINF:-1 tvg-id="" tvg-name="Badabum 24/7" tvg-logo="http://www.iptbest.xyz/logo/badabun.png" group-title="Canales 24/7 Programas de TV",Badabum 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/61829
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Animado 24/7" tvg-logo="http://www.iptbest.xyz/logo/BarbieAnimado.png" group-title="Canales 24/7 Animados",Barbie Animado 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/61718
+#EXTINF:-1 tvg-id="" tvg-name="Barney y sus Amigos 24/7" tvg-logo="http://iptbest.xyz/logo/barney%20y%20sus%20amigos.png" group-title="Canales 24/7 Animados",Barney y sus Amigos 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/34965
+#EXTINF:-1 tvg-id="" tvg-name="Batman la serie animada  24/7" tvg-logo="http://www.iptbest.xyz/logo/batmanlaserieanimada.png" group-title="Canales 24/7 Animados",Batman la serie animada  24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/23313
+#EXTINF:-1 tvg-id="" tvg-name="Bellos Paisajes del Mundo FHD" tvg-logo="http://iptbest.xyz/logo/paisajesdelmundo.png" group-title="Canales 24/7  Documentales",Bellos Paisajes del Mundo FHD
+http://iptbest.xyz:8000/DemojomyD/78963201/61831
+#EXTINF:-1 tvg-id="" tvg-name="Big Time Rush 24/7" tvg-logo="http://www.iptbest.xyz/logo/BigTimeRush.png" group-title="Canales 24/7 Programas de TV",Big Time Rush 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/67458
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24/7" tvg-logo="http://www.iptbest.xyz/logo/BobEsponja.png" group-title="Canales 24/7 Animados",Bob Esponja 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/61746
+#EXTINF:-1 tvg-id="" tvg-name="Bonanza 24/7" tvg-logo="http://iptbest.xyz/logo/Bonanza.png" group-title="Canales 24/7 Series Antiguas",Bonanza 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/63763
+#EXTINF:-1 tvg-id="" tvg-name="Bravestar 24/7" tvg-logo="http://www.iptbest.xyz/logo/bravestar.png" group-title="Canales 24/7 Animados",Bravestar 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/34316
+#EXTINF:-1 tvg-id="" tvg-name="Brickleberry 24/7" tvg-logo="http://www.iptbest.xyz/logo/Brickleberry.png" group-title="Canales 24/7 Animados",Brickleberry 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/23134
+#EXTINF:-1 tvg-id="" tvg-name="Bubble Guppies 24/7" tvg-logo="http://iptbest.xyz/logo/bubble-guppies.png" group-title="Canales 24/7 Animados",Bubble Guppies 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/34970
+#EXTINF:-1 tvg-id="" tvg-name="Buena suerte Charlie! 24/7" tvg-logo="http://iptbest.xyz/logo/BuenaSuerteCharlie.png" group-title="Canales 24/7 Programas de TV",Buena suerte Charlie! 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/63105
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sabores 24/7" tvg-logo="http://iptbest.xyz/logo/sabores.png" group-title="Canales 24/7 Educativos",Canal Sabores 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/62133
+#EXTINF:-1 tvg-id="" tvg-name="Caso Cerrado Inmigracion 24/7" tvg-logo="http://iptbest.xyz:8000/images/0ad74a90b1b1cc305d328463c186505a.png" group-title="Canales 24/7 Programas de TV",Caso Cerrado Inmigracion 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/63100
+#EXTINF:-1 tvg-id="" tvg-name="Chapulín Colorado x 24/7" tvg-logo="http://iptbest.xyz:8000/images/9faaccf82edd8826011c22a5089a5994.png" group-title="Canales 24/7 Series Antiguas",Chapulín Colorado x 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/62431
+#EXTINF:-1 tvg-id="" tvg-name="Chimenea Fuego" tvg-logo="http://www.iptbest.xyz/logo/chimenea.png" group-title="Canales 24/7 Varios",Chimenea Fuego
+http://iptbest.xyz:8000/DemojomyD/78963201/62134
+#EXTINF:-1 tvg-id="" tvg-name="Comida Mexicana 24/7" tvg-logo="http://iptbest.xyz/logo/mexicana.png" group-title="Canales 24/7 Educativos",Comida Mexicana 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/62132
+#EXTINF:-1 tvg-id="" tvg-name="Conan, el niño del futuro 24/7" tvg-logo="http://www.iptbest.xyz/logo/ConanElninodelfuturo.png" group-title="Canales 24/7 Animados",Conan, el niño del futuro 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/64879
+#EXTINF:-1 tvg-id="" tvg-name="Coraje el perro cobarde 24/7" tvg-logo="http://www.iptbest.xyz/logo/coraje.png" group-title="Canales 24/7 Animados",Coraje el perro cobarde 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/23315
+#EXTINF:-1 tvg-id="" tvg-name="Cuadros Famosos" tvg-logo="http://iptbest.xyz/logo/cuadros.png" group-title="Canales 24/7 Varios",Cuadros Famosos
+http://iptbest.xyz:8000/DemojomyD/78963201/62136
+#EXTINF:-1 tvg-id="" tvg-name="Curso Electricidad 24/7" tvg-logo="http://www.iptbest.xyz/logo/cursoelectricidad.png" group-title="Canales 24/7 Educativos",Curso Electricidad 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/61943
+#EXTINF:-1 tvg-id="" tvg-name="Curso Mecánica Automotriz 24/7" tvg-logo="http://www.iptbest.xyz/logo/cursoautomotriz.png" group-title="Canales 24/7 Educativos",Curso Mecánica Automotriz 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/61942
+#EXTINF:-1 tvg-id="" tvg-name="Daniel Boone 24/7" tvg-logo="http://iptbest.xyz/logo/DanielBoone.png" group-title="Canales 24/7 Series Antiguas",Daniel Boone 24/7
+#EXTINF:-1 tvg-id="" tvg-name="El show de los looney toons 24/7" tvg-logo="http://iptbest.xyz/logo/Elshowdeloslooneytoons.png" group-title="Canales 24/7 Animados",El show de los looney toons 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/23299
+#EXTINF:-1 tvg-id="" tvg-name="Equipo Umizoomi 24/7" tvg-logo="http://iptbest.xyz/logo/umizomi.png" group-title="Canales 24/7 Animados",Equipo Umizoomi 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/34974
+#EXTINF:-1 tvg-id="" tvg-name="Es tan Raven 24/7" tvg-logo="http://www.iptbest.xyz/logo/EstanRaven.png" group-title="Canales 24/7 Animados",Es tan Raven 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/63423
+#EXTINF:-1 tvg-id="" tvg-name="Exponiendo Infieles 24/7" tvg-logo="http://iptbest.xyz:8000/images/d3145ea2c7403e0742a4d22d927db286.png" group-title="Canales 24/7 Programas de TV",Exponiendo Infieles 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/70764
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy 24/7" tvg-logo="http://www.iptbest.xyz/logo/FamiliaGuy.png" group-title="Canales 24/7 Animados",Family Guy 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/23130
+#EXTINF:-1 tvg-id="" tvg-name="Full House 24/7" tvg-logo="http://iptbest.xyz/logo/FullHouse.png" group-title="Canales 24/7 Series Antiguas",Full House 24/7
+http://iptbest.xyz:8000/DemojomyD/78963201/63762
 #EXTINF:-1 tvg-id="" tvg-name="Futurama 24/7 HD" tvg-logo="http://www.iptbest.xyz/logo/Futurama.png" group-title="Canales 24/7 Animados",Futurama 24/7 HD
 http://iptbest.xyz:8000/DemojomyD/78963201/61833
